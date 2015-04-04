@@ -20,7 +20,11 @@ Plusieurs initiatives politiques veulent imposer aux enseignes de la grande dist
 
 ### Problème
 
-Pour les associations, la donation pur et 
+Pour les associations, la donation sans contrepartie pose de nombreux problèmes logistiques. Comme le décrit Patrice Dallem, directeur de la Croix Rouge : 
+
+> Nous ne sommes pas favorables à une obligation de don de la part des grandes surfaces, c’est une fausse bonne idée, critique Patrice Dallem, directeur de la Croix Rouge. Cela représente des coûts logistiques et humains difficilement abordables selon les territoires français.
+>  
+<cite>Patrice Dallem, directeur de la Croix Rouge</cite>
 
 Comme tout processus de distribution alimentaire, la Croix Rouge est confronté à plusieurs problèmes logistiques : 
 
@@ -28,9 +32,9 @@ Comme tout processus de distribution alimentaire, la Croix Rouge est confronté 
   - Péremption des produits
   - Coût logistique de récupération des produits auprès d'une enseigne
 
-**Data** 
+### Données
 
-Depuis 2010, l'Europe a imposé à ces associations une stricte traçabilité des produits qu'elles distribuent. Cela signifie que pour chaque repas distribué, les associations disposent d'un historique détaillé. 
+Depuis 2010, l'Europe a imposé à ces associations une stricte traçabilité des produits qu'elles distribuent. Cela signifie que pour chaque repas distribué, les associations disposent d'un historique détaillé des produits et du bénéficiaier
 
-- Ce repo contient un dump SQL de la base de données de distribution alimentaire de la Croix Rouge Française entre 2010 et 2014
+Ce repo contient un dump SQL de la base de données de distribution alimentaire de la Croix Rouge Française entre 2010 et 2014. 
 
