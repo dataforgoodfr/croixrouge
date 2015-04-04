@@ -1,4 +1,5 @@
-** Projet Croix Rouge - Data For Good FR **
+#Data For Good FR / Croix Rouge FR
 
-- Optimisation de la distribution alimentaire de la Croix Rouge Française. 
-- Ce repo contient un dump SQL de la base de données de distribution alimentaires entre 2010 et 2014
+- Ce repo contient un dump SQL de la base de données de distribution alimentaire de la Croix Rouge Française ntre 2010 et 2014
+
+- L'enjeu est d'optimiser la répartition des stocks de nourriture en France.
