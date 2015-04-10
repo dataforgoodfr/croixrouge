@@ -28,8 +28,8 @@ La récupération des denrées issues des enseignes de la Grande Distribution po
 
 Afin que la mise en place de ces partenariats soient le plus efficaces possible, Data For Good se propose ainsi :
 
-- D'analyser le maillage actuel des centres de distribution  
-- De déterminer les les localités / enseignes qui bénéficieraient le plus d'accord locaux
+1 - D'analyser le maillage actuel des centres de distribution  
+2 - De prioriser les partenariats locaux enseignes / centre de distribution de la Croix Rouge 
 
 ### Données
 
