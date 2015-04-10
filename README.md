@@ -16,20 +16,20 @@ Pour en savoir plus sur le fonctionnement de la distribution alimentaire en Fran
 
 ### Enjeu
 
-L'un des enjeux de la Croix Rouge, et des autres associations, est de disposer d'un maillage optimal des centres de distribution alimentaire pour répondre à la demande. 
+L'un des enjeux de la Croix Rouge est de disposer d'un maillage optimal des centres de distribution alimentaire.
 
 Là où il n'y a pas de centres de distribution, des partenariats locaux peuvent être mis en place avec des enseignes de la Grande distribution. 
 
-La récupération des denrées issues des enseignes de la Grande Distribution, pose de vrais problèmes logistiques. Comme le décrit Patrice Dallem, directeur de la Croix Rouge : 
+La récupération des denrées issues des enseignes de la Grande Distribution pose de vrais problèmes logistiques. Comme le décrit Patrice Dallem, directeur de la Croix Rouge : 
 
 > Nous ne sommes pas favorables à une obligation de don de la part des grandes surfaces, c’est une fausse bonne idée, critique Patrice Dallem, directeur de la Croix Rouge. Cela représente des coûts logistiques et humains difficilement abordables selon les territoires français.
 >  
 <cite>Patrice Dallem, directeur de la Croix Rouge</cite>
 
-Afin d'être le plus efficace, Data For Good se propose ainsi :
+Afin que la mise en place de ces partenariats soient le plus efficaces possible, Data For Good se propose ainsi :
 
 - D'analyser le maillage actuel des centres de distribution  
-- De déterminer les localités et les enseignes qui bénéficieraient le plus d'accord locaux
+- De déterminer les les localités / enseignes qui bénéficieraient le plus d'accord locaux
 
 ### Données
 
@@ -39,3 +39,5 @@ Pour en savoir plus sur les données mises à disposition par la Croix Rouge, [l
 
 ### Vous souhaitez contribuer ? 
 
+- Choisissez un problème à résoudre au sein de nos [issues](https://github.com/dataforgoodfr/croixrouge/issues). Utilisez les commentaires pour nous faire part de vos idées. 
+- Complètez la documentation que nous réalisons au sein du [Wiki](https://github.com/dataforgoodfr/croixrouge/wiki)
