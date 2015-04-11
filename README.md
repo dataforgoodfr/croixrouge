@@ -2,7 +2,7 @@
 
 Bienvenue sur le repo Github de _Data For Good France_ consacré au projet _Croix Rouge Française_ !
 
-Pour en savoir plus sur le mouvement Data For Good France, consultez [notre site](www.dataforgood.fr).
+Pour en savoir plus sur le mouvement Data For Good France, consultez [notre site](http://www.dataforgood.fr).
 
 ### Contexte
 
