@@ -20,7 +20,7 @@ La croix rouge gère 800 centres de distribution alimentaire dans toute la Franc
 
 L'un des enjeux de la Croix Rouge est de disposer d'un maillage optimal de ces centres, certaines régions pouvant être en déficit de distribution alimentaire, d'autre à contrario surinvesties.
 
-Par ailleurs, que ce soit pour l'ouverture de nouveaux centres ou pour l'amélioration des centres existants, des partenariats *locaux* avec des enseignes sont parfois possibles. La récupération des denrées issues de la Grande Distribution pose de vrais problèmes logistiques. Comme le décrit Patrice Dallem, directeur de la Croix Rouge : 
+Par ailleurs, que ce soit pour l'ouverture de nouveaux centres ou pour l'amélioration des centres existants, des partenariats avec des enseignes sont parfois possibles si réalisés *localement*. La récupération des denrées issues de la Grande Distribution pose de vrais problèmes logistiques. Comme le décrit Patrice Dallem, directeur de la Croix Rouge : 
 > Nous ne sommes pas favorables à une obligation de don de la part des grandes surfaces, c’est une fausse bonne idée, critique Patrice Dallem, directeur de la Croix Rouge. Cela représente des coûts logistiques et humains difficilement abordables selon les territoires français.
 >  
 <cite>Patrice Dallem, directeur de la Croix Rouge</cite>
