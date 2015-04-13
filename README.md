@@ -6,9 +6,9 @@ Pour en savoir plus sur le mouvement Data For Good France, consultez [notre site
 
 ### Contexte
 
-En France, 4 associations distribuent de l'aide alimentaire aux plus démunis. 
+En France, 4 associations distribuent de l'aide alimentaire aux plus démunis.
 
-Cette aide provient de l'Europe, de la France et du secteur privé. 
+Cette aide provient de l'Europe, de la France et du secteur privé.
 
 Les bénéficiaires peuvent profiter de la distribution alimentaire au sein de centres de distribution ou d'épiceries solidaires.
 
@@ -16,7 +16,7 @@ Pour en savoir plus sur le fonctionnement de la distribution alimentaire en Fran
 
 ### Enjeu
 
-La croix rouge gère 800 centres de distribution alimentaire dans toute la France. L'ouverture de ces centres de distribution s'est faite au fil des ans sous l'impulsions locale de bénévoles
+La croix rouge gère 800 centres de distribution alimentaire dans toute la France. L'ouverture de ces centres de distribution s'est faite au fil des ans sous l'impulsions locale de bénévoles.
 
 L'un des enjeux de la Croix Rouge est de disposer d'un maillage optimal de ces centres, certaines régions pouvant être en déficit de distribution alimentaire, d'autre à contrario surinvesties.
 
@@ -27,7 +27,7 @@ Par ailleurs, que ce soit pour l'ouverture de nouveaux centres ou pour l'amélio
 
 Data For Good se propose ainsi:
 
-1 - D'analyser le maillage actuel des centres de distribution et determiner les zones en déficites et les zones zurinvesties 
+1 - D'analyser le maillage actuel des centres de distribution et determiner les zones en déficites et les zones surinvesties 
 
 2 - D'analyser les partenariats locaux enseigne / centre de distibution existants et de déterminer les zones qui pourraient bénéficier de tels partenariats
 
