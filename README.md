@@ -27,7 +27,7 @@ Par ailleurs, que ce soit pour l'ouverture de nouveaux centres ou pour l'amélio
 
 Data For Good se propose ainsi:
 
-1 - D'analyser le maillage actuel des centres de distribution et determiner les zones en déficites et les zones surinvesties 
+1 - D'analyser le maillage actuel des centres de distribution et determiner les zones en déficit et les zones surinvesties 
 
 2 - D'analyser les partenariats locaux enseigne / centre de distibution existants et de déterminer les zones qui pourraient bénéficier de tels partenariats
 
