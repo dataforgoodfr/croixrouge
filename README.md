@@ -6,9 +6,9 @@ Pour en savoir plus sur le mouvement Data For Good France, consultez [notre site
 
 ### Contexte
 
-En France, 4 associations distribuent de l'aide alimentaire aux plus démunis.
+En France, 4 principales associations distribuent de l'aide alimentaire aux plus démunis.
 
-Cette aide provient de l'Europe, de la France et du secteur privé.
+Cette aide provient de l'Europe, de l'état français et du secteur privé.
 
 Les bénéficiaires peuvent profiter de la distribution alimentaire au sein de centres de distribution ou d'épiceries solidaires.
 
@@ -16,14 +16,14 @@ Pour en savoir plus sur le fonctionnement de la distribution alimentaire en Fran
 
 ### Enjeu
 
-La croix rouge gère 800 centres de distribution alimentaire dans toute la France. L'ouverture de ces centres de distribution s'est faite au fil des ans sous l'impulsions locale de bénévoles.
+La Croix Rouge française gère 800 unités d’aide alimentaire dont majoritairement des centres de distribution et des épiceries sociales dans toute la France. 
 
-L'un des enjeux de la Croix Rouge est de disposer d'un maillage optimal de ces centres, certaines régions pouvant être en déficit de distribution alimentaire, d'autre à contrario surinvesties.
+L'un des enjeux de la Croix Rouge est de disposer d'un maillage optimal de ces unités, certaines régions pouvant être en déficit de distribution alimentaire, d'autre à contrario surinvesties.
 
-Par ailleurs, que ce soit pour l'ouverture de nouveaux centres ou pour l'amélioration des centres existants, des partenariats avec des enseignes sont parfois possibles si réalisés *localement*. La récupération des denrées issues de la Grande Distribution pose de vrais problèmes logistiques. Comme le décrit Patrice Dallem, directeur de la Croix Rouge : 
-> Nous ne sommes pas favorables à une obligation de don de la part des grandes surfaces, c’est une fausse bonne idée, critique Patrice Dallem, directeur de la Croix Rouge. Cela représente des coûts logistiques et humains difficilement abordables selon les territoires français.
+Par ailleurs, que ce soit pour l'ouverture de nouvelles unités ou pour l'amélioration des unités existantes, des partenariats avec des enseignes sont parfois possibles. La récupération des denrées issues de la Grande Distribution pose de vrais problèmes logistiques. Comme le décrit Patrice Dallem, directeur de l'action sociale de la Croix Rouge : 
+> Nous ne sommes pas favorables à une obligation de don de la part des grandes surfaces, c’est une fausse bonne idée, critique Patrice Dallem, directeur de l'action sociale de la Croix Rouge. Cela représente des coûts logistiques et humains difficilement abordables selon les territoires français.
 >  
-<cite>Patrice Dallem, directeur de la Croix Rouge</cite>
+<cite>Patrice Dallem, directeur de l'action sociale de la Croix Rouge</cite>
 
 Data For Good se propose ainsi:
 
