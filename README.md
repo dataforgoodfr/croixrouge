@@ -10,7 +10,7 @@ En France, 4 principales associations distribuent de l'aide alimentaire aux plus
 
 Cette aide provient de l'Europe, de l'état français et du secteur privé.
 
-Les bénéficiaires peuvent profiter de la distribution alimentaire au sein de centres de distribution ou d'épiceries solidaires.
+Les bénéficiaires peuvent profiter de la distribution alimentaire au sein de centres de distribution ou d'épiceries sociales.
 
 Pour en savoir plus sur le fonctionnement de la distribution alimentaire en France, [Lisez ce Wiki](https://github.com/dataforgoodfr/croixrouge/wiki/La-distribution-alimentaire-en-France).
 
