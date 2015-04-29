@@ -8,5 +8,5 @@ Vous pouvez demander un accès en envoyant un email à hello@dataforgood.fr
 
 **Loader un fichier en ligne de commande au sein de Google Cloud Storage**
 
-`gsutil cp fichier.csv gs://project-id`
+`gsutil cp fichier.csv gs://path`
 
