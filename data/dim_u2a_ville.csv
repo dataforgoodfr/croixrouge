@@ -1,0 +1,831 @@
+CD_U2A,LB_U2A,CD_STR,CD_DEPT,LB_DEPT,CD_REGION,LB_REGION,VILLE,DEPT
+E0101,Entrepot de Saint Nizier le Desert,5,01,DD DE L AIN,82,RHONE-ALPES,Saint Nizier le Desert,Ain
+E0901,Entrepot dept. Ariege,13,09,DD DE L ARIEGE,73,MIDI-PYRENEES,departement Ariege,Ari%C3%A8ge
+E1101,Entrepot dept. Carcassonne,15,11,DD DE L AUDE,91,LANGUEDOC-ROUSSILLON,departement Carcassonne,Aude
+E1301,Entrepot d'Aix en Provence,17,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Aix en Provence,Bouches-du-Rh%C3%B4ne
+E3001,Entrepot de Beaucaire,400,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,Beaucaire,Gard
+E3002,Entrepot de Nimes,35,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,Nimes,Gard
+E5601,A DEFINIR,61,56,DD DU MORBIHAN,53,BRETAGNE,NON RENSEIGNE,Morbihan
+E5602,Entrepot du Morbihan,61,56,DD DU MORBIHAN,53,BRETAGNE,Morbihan,Morbihan
+E5901,Entrepot de Lomme,725,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Lomme,Nord
+E6201,Entrepot de Saint Omer,766,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Saint Omer,Pas-de-Calais
+E6202,Entrepot de Lens,765,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Lens,Pas-de-Calais
+E7001,Entrepot des allies Vesoul,75,70,DD DE HAUTE-SAONE,43,FRANCHE-COMTE,des allies Vesoul,Haute-Sa%C3%B4ne
+E7301,Entrepot dept. Savoie,78,73,DT DE LA SAVOIE,82,RHONE-ALPES,departement Savoie,Savoie
+E7701,Entrepot de Limoges Fourches,3665,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Limoges Fourches,Seine-et-Marne
+E7801,A DEFINIR,982,78,DD DES YVELINES,11,ILE-DE-FRANCE,NON RENSEIGNE,Yvelines
+E7802,Entrepot de Velizy,982,78,DD DES YVELINES,11,ILE-DE-FRANCE,Velizy,Yvelines
+E8201,Entrepot Montauban,87,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Montauban,Tarn-et-Garonne
+E8202,Entrepot de Moissac,1021,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Moissac,Tarn-et-Garonne
+E8801,Entrepot dept. des Vosges,3966,88,DT DES VOSGES,41,LORRAINE,departement des Vosges,Vosges
+E9001,Entrepot de Belfort,95,90,DT DU TERRITOIRE-DE-BELFORT,43,FRANCHE-COMTE,Belfort,Territoire%20de%20Belfort
+E9403,Entrepot de Limeil Brevannes,99,94,DD DU VAL-DE-MARNE,11,ILE-DE-FRANCE,Limeil Brevannes,Val-de-Marne
+E9501,Entrepot dept. Val d'Oise,100,95,DD DU VAL-D OISE,11,ILE-DE-FRANCE,departement Val d'Oise,Val-d%27Oise
+U01,DD de l'Ain,5,01,DD DE L AIN,82,RHONE-ALPES,Ain,Ain
+U0101,Centre distribution de Belley,3941,01,DD DE L AIN,82,RHONE-ALPES,Belley,Ain
+U0102,Centre distribution Villars les Dombes,3943,01,DD DE L AIN,82,RHONE-ALPES,Villars les Dombes,Ain
+U0103,Centre distribution Montrevel en Bresse,3886,01,DD DE L AIN,82,RHONE-ALPES,Montrevel en Bresse,Ain
+U0104,Centre distrib Chatillon sur Chalaronne,3944,01,DD DE L AIN,82,RHONE-ALPES,Chatillon sur Chalaronne,Ain
+U0105,Centre distribution Hauteville Lompnes,3941,01,DD DE L AIN,82,RHONE-ALPES,Hauteville Lompnes,Ain
+U0106,Centre de distribution de Bellegarde,3942,01,DD DE L AIN,82,RHONE-ALPES,Bellegar,Ain
+U0107,Centre distribution Montmerle sur Saone,3944,01,DD DE L AIN,82,RHONE-ALPES,Montmerle sur Saone,Ain
+U0108,FERME CD d'Artemare,3941,01,DD DE L AIN,82,RHONE-ALPES,Artemare,Ain
+U0109,Centre de distribution Culoz,3941,01,DD DE L AIN,82,RHONE-ALPES,Culoz,Ain
+U0110,Centre de distribution de Thoissey,3944,01,DD DE L AIN,82,RHONE-ALPES,Thoissey,Ain
+U0111,CD de Virieu le Grand,3941,01,DD DE L AIN,82,RHONE-ALPES,Virieu le Grand,Ain
+U0112,Centre distribution de Vonnas,135,01,DD DE L AIN,82,RHONE-ALPES,Vonnas,Ain
+U0113,FERMER - CD de Coligny,3886,01,DD DE L AIN,82,RHONE-ALPES,Coligny,Ain
+U0114,Centre de distribution de Trevoux,3873,01,DD DE L AIN,82,RHONE-ALPES,Trevoux,Ain
+U0115,Centre distribution Pont de Vaux,3733,01,DD DE L AIN,82,RHONE-ALPES,Pont Vaux,Ain
+U0116,Centre distribution de Bage-la-Ville,3733,01,DD DE L AIN,82,RHONE-ALPES,Bage-la-Ville,Ain
+U0117,FERMER CD Prevessins-Moes,3942,01,DD DE L AIN,82,RHONE-ALPES,Prevessins-Moes,Ain
+U0118,Epicerie sociale Prevessin-Moëns,3942,01,DD DE L AIN,82,RHONE-ALPES,Prevessin-Moëns,Ain
+U0119,Centre Distribution de Bourg en Bresse,109,01,DD DE L AIN,82,RHONE-ALPES,Bourg en Bresse,Ain
+U0120,Centre de distribution de Savigneux,3873,01,DD DE L AIN,82,RHONE-ALPES,Savigneux,Ain
+U0121,Centre de distribution de Lagnieu,3943,01,DD DE L AIN,82,RHONE-ALPES,Lagnieu,Ain
+U0122,Centre de distribution de Meximieux,3943,01,DD DE L AIN,82,RHONE-ALPES,Meximieux,Ain
+U0123,Centre de distribution de Miribel,3943,01,DD DE L AIN,82,RHONE-ALPES,Miribel,Ain
+U0124,CD de Saint Rambert en Bugey,3943,01,DD DE L AIN,82,RHONE-ALPES,Saint Rambert en Bugey,Ain
+U02,DD de l'Aisne,6,02,DD DE L AISNE,22,PICARDIE,Aisne,Aisne
+U0201,Centre distribution de Villers-Cotterets,147,02,DD DE L AISNE,22,PICARDIE,Villers-Cotterets,Aisne
+U0202,Centre distribution de St Quentin,143,02,DD DE L AISNE,22,PICARDIE,St Quentin,Aisne
+U0203,Epicerie sociale de Chateau-Thierry,136,02,DD DE L AISNE,22,PICARDIE,Chateau-Thierry,Aisne
+U0204,Centre de distribution de Guise,3934,02,DD DE L AISNE,22,PICARDIE,Guise,Aisne
+U0205,Centre de distribution de Chauny,2562,02,DD DE L AISNE,22,PICARDIE,Chauny,Aisne
+U0206,Centre de distribution de Laon,142,02,DD DE L AISNE,22,PICARDIE,Laon,Aisne
+U0207,Centre de distribution de Soissons,144,02,DD DE L AISNE,22,PICARDIE,Soissons,Aisne
+U0208,Centre de distribution de Tergnier,2562,02,DD DE L AISNE,22,PICARDIE,Tergnier,Aisne
+U0209,A DEFINIR (CD),2562,02,DD DE L AISNE,22,PICARDIE,NON RENSEIGNE,Aisne
+U0210,Centre distribution Vervins,3934,02,DD DE L AISNE,22,PICARDIE,Vervins,Aisne
+U0211,Distribution CAP de Saint Quentin,143,02,DD DE L AISNE,22,PICARDIE,Saint Quentin,Aisne
+U0301,Centre de distribution de Vichy,155,03,\N,\N,\N,Vichy,Allier
+U0302,Centre de distribution de Moulins,152,03,\N,\N,\N,Moulins,Allier
+U04,DD Alpes Haute Provence,8,04,DT DES ALPES-DE-HAUTE-PROVENCE,93,PROVENCE-ALPES-COTE-D AZUR,Alpes Haute Provence,Alpes-de-Haute-Provence
+U0401,Centre distribution de Digne les Bains,4002,04,DT DES ALPES-DE-HAUTE-PROVENCE,93,PROVENCE-ALPES-COTE-D AZUR,Digne les Bains,Alpes-de-Haute-Provence
+U0402,Centre distribution de Manosque,4003,04,DT DES ALPES-DE-HAUTE-PROVENCE,93,PROVENCE-ALPES-COTE-D AZUR,Manosque,Alpes-de-Haute-Provence
+U0403,Centre de distribution de Sisteron,3999,04,DT DES ALPES-DE-HAUTE-PROVENCE,93,PROVENCE-ALPES-COTE-D AZUR,Sisteron,Alpes-de-Haute-Provence
+U0404,Centre de distribution du Verdon,4001,04,DT DES ALPES-DE-HAUTE-PROVENCE,93,PROVENCE-ALPES-COTE-D AZUR,Verdon,Alpes-de-Haute-Provence
+U05,DD des Hautes Alpes,9,05,DD DES HAUTES-ALPES,93,PROVENCE-ALPES-COTE-D AZUR,Hautes Alpes,Hautes-Alpes
+U0501,Centre de distribution de Laragne,166,05,DD DES HAUTES-ALPES,93,PROVENCE-ALPES-COTE-D AZUR,Laragne,Hautes-Alpes
+U0502,FERME CD de Veynes,166,05,DD DES HAUTES-ALPES,93,PROVENCE-ALPES-COTE-D AZUR,Veynes,Hautes-Alpes
+U0503,Centre de distribution de Gap,164,05,DD DES HAUTES-ALPES,93,PROVENCE-ALPES-COTE-D AZUR,Gap,Hautes-Alpes
+U0504,Centre distribution de Guillestre,163,05,DD DES HAUTES-ALPES,93,PROVENCE-ALPES-COTE-D AZUR,Guillestre,Hautes-Alpes
+U0505,Centre distribution d'Embrun,163,05,DD DES HAUTES-ALPES,93,PROVENCE-ALPES-COTE-D AZUR,Embrun,Hautes-Alpes
+U0506,FERME CD de Briancon,162,05,DD DES HAUTES-ALPES,93,PROVENCE-ALPES-COTE-D AZUR,Briancon,Hautes-Alpes
+U0507,Distribution itinerante de Gap,164,05,DD DES HAUTES-ALPES,93,PROVENCE-ALPES-COTE-D AZUR,itinerante Gap,Hautes-Alpes
+U0508,Samu social de Gap,164,05,DD DES HAUTES-ALPES,93,PROVENCE-ALPES-COTE-D AZUR,Gap,Hautes-Alpes
+U0509,Samu social d'Embrun,163,05,DD DES HAUTES-ALPES,93,PROVENCE-ALPES-COTE-D AZUR,Embrun,Hautes-Alpes
+U06,DD des Alpes Maritimes,10,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Alpes Maritimes,Alpes-Maritimes
+U0601,Centre distribution de Vence,177,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Vence,Alpes-Maritimes
+U0602,Centre distribution de St Laurent du Var,2122,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,St Laurent Var,Alpes-Maritimes
+U0603,Centre de distribution Cagnes-sur-Mer,172,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Cagnes-sur-Mer,Alpes-Maritimes
+U0604,Centre de distribution Villeneuve-Loubet,172,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Villeneuve-Loubet,Alpes-Maritimes
+U0605,Centre distribution de Valbonne,2313,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Valbonne,Alpes-Maritimes
+U0606,Centre de distribution de Beausoleil,171,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Beausoleil,Alpes-Maritimes
+U0607,Centre distribution de Cannes,173,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Cannes,Alpes-Maritimes
+U0608,Centre Distribution Antibes,170,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Antibes,Alpes-Maritimes
+U0609,Centre de distribution de Biot,2313,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Biot,Alpes-Maritimes
+U0610,Samu social de Biot,2313,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Biot,Alpes-Maritimes
+U0611,Centre distribution de Grasse,174,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Grasse,Alpes-Maritimes
+U0612,Centre distribution Villefranche sur mer,176,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Villefranche sur mer,Alpes-Maritimes
+U0613,Samu social de St Laurent du Var,2122,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,St Laurent Var,Alpes-Maritimes
+U0614,Centre de distribution de Nice,176,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Nice,Alpes-Maritimes
+U0615,Epicerie Sociale de Nice,176,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Nice,Alpes-Maritimes
+U0616,Maraude de Menton,175,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Menton,Alpes-Maritimes
+U0617,Centre de distribution de Menton,175,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Menton,Alpes-Maritimes
+U0618,Centre de distribution de Carros,2238,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Carros,Alpes-Maritimes
+U0619,Maraude de Carros,2238,06,DD DES ALPES-MARITIMES,93,PROVENCE-ALPES-COTE-D AZUR,Carros,Alpes-Maritimes
+U07,DD Ardeche,11,07,DD DE L ARDECHE,82,RHONE-ALPES,Ardeche,Ard%C3%A8che
+U0701,Centre de distribution d'Annonay,180,07,DD DE L ARDECHE,82,RHONE-ALPES,Annonay,Ard%C3%A8che
+U0702,Centre distribution de Lamastre,3840,07,DD DE L ARDECHE,82,RHONE-ALPES,Lamastre,Ard%C3%A8che
+U0703,Centre de distribution de Vernoux,3840,07,DD DE L ARDECHE,82,RHONE-ALPES,Vernoux,Ard%C3%A8che
+U0704,Centre distribution de Vals les Bains,195,07,DD DE L ARDECHE,82,RHONE-ALPES,Vals les Bains,Ard%C3%A8che
+U0705,Samu social de Vals les Bains,195,07,DD DE L ARDECHE,82,RHONE-ALPES,Vals les Bains,Ard%C3%A8che
+U0706,Centre de distribution de Le Pouzin,3839,07,DD DE L ARDECHE,82,RHONE-ALPES,Le Pouzin,Ard%C3%A8che
+U0707,FERMER - CD de Le Teil,3936,07,DD DE L ARDECHE,82,RHONE-ALPES,Le Teil,Ard%C3%A8che
+U0708,Centre distribution de Tournon sur Rhone,193,07,DD DE L ARDECHE,82,RHONE-ALPES,Tournon sur Rhone,Ard%C3%A8che
+U0709,Samu sociale de Tournon sur Rhone,193,07,DD DE L ARDECHE,82,RHONE-ALPES,Tournon sur Rhone,Ard%C3%A8che
+U0710,A DEFINIR (CAP),11,07,DD DE L ARDECHE,82,RHONE-ALPES,NON RENSEIGNE,Ard%C3%A8che
+U0711,Espace bebe maman Le Teil,3936,07,DD DE L ARDECHE,82,RHONE-ALPES,Le Teil,Ard%C3%A8che
+U0801,Centre distribution Charleville-Meziers,197,08,DD DES ARDENNES,21,CHAMPAGNE-ARDENNE,Charleville-Meziers,Ardennes
+U0802,Samu social Charleville-Meziers,197,08,DD DES ARDENNES,21,CHAMPAGNE-ARDENNE,Charleville-Meziers,Ardennes
+U0803,Centre distribution de Vouziers,202,08,DD DES ARDENNES,21,CHAMPAGNE-ARDENNE,Vouziers,Ardennes
+U0804,Centre distribution de Rethel,198,08,DD DES ARDENNES,21,CHAMPAGNE-ARDENNE,Rethel,Ardennes
+U09,DD de l'Ariege,13,09,DD DE L ARIEGE,73,MIDI-PYRENEES,Ariege,Ari%C3%A8ge
+U0901,Samu social de Foix,203,09,DD DE L ARIEGE,73,MIDI-PYRENEES,Foix,Ari%C3%A8ge
+U0902,Centre de distribution Laroque-d'Olmes,204,09,DD DE L ARIEGE,73,MIDI-PYRENEES,Laroque-d'Olmes,Ari%C3%A8ge
+U0903,Centre de distribution de Foix,203,09,DD DE L ARIEGE,73,MIDI-PYRENEES,Foix,Ari%C3%A8ge
+U0904,Centre de distribution Lavelanet,205,09,DD DE L ARIEGE,73,MIDI-PYRENEES,Lavelanet,Ari%C3%A8ge
+U0905,Centre de distribution de Pamiers,207,09,DD DE L ARIEGE,73,MIDI-PYRENEES,Pamiers,Ari%C3%A8ge
+U0906,Centre distribution Tarascon-sur-Ariege,209,09,DD DE L ARIEGE,73,MIDI-PYRENEES,Tarascon-sur-Ariege,Ari%C3%A8ge
+U0907,Centre de distribution Saint-Girons,208,09,DD DE L ARIEGE,73,MIDI-PYRENEES,Saint-Girons,Ari%C3%A8ge
+U0908,Centre de distribution du Fossat,206,09,DD DE L ARIEGE,73,MIDI-PYRENEES,Fossat,Ari%C3%A8ge
+U0909,Centre de distribution Ax-les-Thermes,209,09,DD DE L ARIEGE,73,MIDI-PYRENEES,Ax-les-Thermes,Ari%C3%A8ge
+U0910,Centre de distribution Le Mas d'Azil,206,09,DD DE L ARIEGE,73,MIDI-PYRENEES,Le Mas d'Azil,Ari%C3%A8ge
+U0911,Epicerie Sociale itinerante La Roque d'O,204,09,DD DE L ARIEGE,73,MIDI-PYRENEES,itinerante La Roque d'O,Ari%C3%A8ge
+U1001,Centre de distribution de Bar-sur-Seine,212,10,DD DE L AUBE,21,CHAMPAGNE-ARDENNE,Bar-sur-Seine,Aube
+U1002,Centre de distribution Nogent/Seine,213,10,DD DE L AUBE,21,CHAMPAGNE-ARDENNE,Nogent/Seine,Aube
+U1003,A DEFINIR (ES),215,10,DD DE L AUBE,21,CHAMPAGNE-ARDENNE,NON RENSEIGNE,Aube
+U1004,FERME de d'Arcis-sur-Aube,3962,10,DD DE L AUBE,21,CHAMPAGNE-ARDENNE,Arcis-sur-Aube,Aube
+U1005,Centre distribution de Troyes,215,10,DD DE L AUBE,21,CHAMPAGNE-ARDENNE,Troyes,Aube
+U1006,Centre de distribution d'Auxon,2123,10,DD DE L AUBE,21,CHAMPAGNE-ARDENNE,Auxon,Aube
+U1007,A DEFINIR (ES),212,10,DD DE L AUBE,21,CHAMPAGNE-ARDENNE,NON RENSEIGNE,Aube
+U1101,A DEFINIR (CD),15,11,DD DE L AUDE,91,LANGUEDOC-ROUSSILLON,NON RENSEIGNE,Aude
+U1102,Samu social de Trebes,216,11,DD DE L AUDE,91,LANGUEDOC-ROUSSILLON,Trebes,Aude
+U1103,Centre de distribution Carcassonne,216,11,DD DE L AUDE,91,LANGUEDOC-ROUSSILLON,Carcassonne,Aude
+U1104,Samu social de Carcassonne,216,11,DD DE L AUDE,91,LANGUEDOC-ROUSSILLON,Carcassonne,Aude
+U1105,Centre de distribution de Lezignan,218,11,DD DE L AUDE,91,LANGUEDOC-ROUSSILLON,Lezignan,Aude
+U1106,Centre de distribution de Narbonne,220,11,DD DE L AUDE,91,LANGUEDOC-ROUSSILLON,Narbonne,Aude
+U1107,Centre de distribution de Limoux,219,11,DD DE L AUDE,91,LANGUEDOC-ROUSSILLON,Limoux,Aude
+U12,DD de l'Aveyron,16,12,DD DE L AVEYRON,73,MIDI-PYRENEES,Aveyron,Aveyron
+U1201,Samu social de Rodez,225,12,DD DE L AVEYRON,73,MIDI-PYRENEES,Rodez,Aveyron
+U1202,Centre de distribution de Rodez,225,12,DD DE L AVEYRON,73,MIDI-PYRENEES,Rodez,Aveyron
+U1203,Distribution CAP de Millau,224,12,DD DE L AVEYRON,73,MIDI-PYRENEES,Millau,Aveyron
+U1204,Distribution CAP de Villefranche de Roue,229,12,DD DE L AVEYRON,73,MIDI-PYRENEES,Villefranche Roue,Aveyron
+U1301,Centre de distribution d'Arles,231,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Arles,Bouches-du-Rh%C3%B4ne
+U1302,Centre de distribution Aix en Provence,230,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Aix en Provence,Bouches-du-Rh%C3%B4ne
+U1303,Samu social d'Aix en Provence,230,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Aix en Provence,Bouches-du-Rh%C3%B4ne
+U1304,Centre de distribution de Rognac,241,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Rognac,Bouches-du-Rh%C3%B4ne
+U1305,Centre de distribution d'Aubagne,232,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Aubagne,Bouches-du-Rh%C3%B4ne
+U1306,Centre de distribution de Chateaurenard,240,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Chateaurenard,Bouches-du-Rh%C3%B4ne
+U1307,Centre distribution d'Istres,233,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Istres,Bouches-du-Rh%C3%B4ne
+U1308,Epicerie sociale de Marignane,235,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Marignane,Bouches-du-Rh%C3%B4ne
+U1309,Centre distribution de La Ciotat,234,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,La Ciotat,Bouches-du-Rh%C3%B4ne
+U1310,Samu social de la Ciotat,234,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,la Ciotat,Bouches-du-Rh%C3%B4ne
+U1311,Centre distribution Marseille Belle de M,236,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Marseille Belle M,Bouches-du-Rh%C3%B4ne
+U1312,Centre distrib de Marseille Simone Sedan,236,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Marseille Simone Sedan,Bouches-du-Rh%C3%B4ne
+U1313,Centre de distribution de Martigues,237,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Martigues,Bouches-du-Rh%C3%B4ne
+U1314,Centre de distrib Port St Louis du Rhone,233,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Port St Louis Rhone,Bouches-du-Rh%C3%B4ne
+U1315,Point alimentaire bebe Aix en provence,230,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,bebe Aix en provence,Bouches-du-Rh%C3%B4ne
+U1316,FERMER - CD de Vitrolles,230,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Vitrolles,Bouches-du-Rh%C3%B4ne
+U1317,Centre distribution Marseille Caillols,236,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Marseille Caillols,Bouches-du-Rh%C3%B4ne
+U1318,Centre de distribution Marseille Panier,236,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Marseille Panier,Bouches-du-Rh%C3%B4ne
+U1319,Centre de distribution de Marignane,17,13,DD DES BOUCHES-DU-RHONE,93,PROVENCE-ALPES-COTE-D AZUR,Marignane,Bouches-du-Rh%C3%B4ne
+U14,DD du Calvados,18,14,DD DU CALVADOS,25,BASSE-NORMANDIE,Calvados,Calvados
+U1401,Centre de distribution de Caen,245,14,DD DU CALVADOS,25,BASSE-NORMANDIE,Caen,Calvados
+U1402,Entrepot de Caen,245,14,DD DU CALVADOS,25,BASSE-NORMANDIE,Caen,Calvados
+U1403,Samu social de Caen,245,14,DD DU CALVADOS,25,BASSE-NORMANDIE,Caen,Calvados
+U1404,Centre distribution St-Pierre-sur-Dives,247,14,DD DU CALVADOS,25,BASSE-NORMANDIE,St-Pierre-sur-Dives,Calvados
+U1405,A DEFINIR (ES),18,14,DD DU CALVADOS,25,BASSE-NORMANDIE,NON RENSEIGNE,Calvados
+U1406,Centre distribution Conde sur Noireau,253,14,DD DU CALVADOS,25,BASSE-NORMANDIE,Consur Noireau,Calvados
+U1407,Centre distribution de Vire,244,14,DD DU CALVADOS,25,BASSE-NORMANDIE,Vire,Calvados
+U1408,Centre distribution Aunay-sur-Odon,252,14,DD DU CALVADOS,25,BASSE-NORMANDIE,Aunay-sur-Odon,Calvados
+U1409,Centre de distribution Lisieux,247,14,DD DU CALVADOS,25,BASSE-NORMANDIE,Lisieux,Calvados
+U1410,Samu social de Lisieux,247,14,DD DU CALVADOS,25,BASSE-NORMANDIE,Lisieux,Calvados
+U1411,Espace bebe maman de Caen,18,14,DD DU CALVADOS,25,BASSE-NORMANDIE,Caen,Calvados
+U1501,Samu social test,247,15,DT DU CANTAL,83,AUVERGNE,test,Cantal
+U16,DD de Charente,20,16,DD DE LA CHARENTE,54,POITOU-CHARENTES,Charente,Charente
+U1601,Centre de distribution Angouleme,2462,16,DD DE LA CHARENTE,54,POITOU-CHARENTES,Angouleme,Charente
+U1602,Centre distribution Jarnac,3939,16,DD DE LA CHARENTE,54,POITOU-CHARENTES,Jarnac,Charente
+U1603,Centre distribution Rouillac,3939,16,DD DE LA CHARENTE,54,POITOU-CHARENTES,Rouillac,Charente
+U1604,Centre distrib de Barbezieux St Hilaire,3938,16,DD DE LA CHARENTE,54,POITOU-CHARENTES,Barbezieux St Hilaire,Charente
+U1605,Centre distribution Villebois-Lavalette,3938,16,DD DE LA CHARENTE,54,POITOU-CHARENTES,Villebois-Lavalette,Charente
+U1606,Centre distribution Montmoreau St Cybard,3938,16,DD DE LA CHARENTE,54,POITOU-CHARENTES,Montmoreau St Cybard,Charente
+U1607,Distribution CAP de Confolens,3940,16,DD DE LA CHARENTE,54,POITOU-CHARENTES,Confolens,Charente
+U1608,Distribution CAP de Rochefoucauld,3940,16,DD DE LA CHARENTE,54,POITOU-CHARENTES,Rochefoucauld,Charente
+U1609,Distribution CAP de Roumazieres-Loubert,3940,16,DD DE LA CHARENTE,54,POITOU-CHARENTES,Roumazieres-Loubert,Charente
+U1701,Centre de distribution de La Rochelle,273,17,DD DE CHARENTE-MARITIME,54,POITOU-CHARENTES,La Rochelle,Charente-Maritime
+U1702,Centre de distribution de Rochefort,277,17,DD DE CHARENTE-MARITIME,54,POITOU-CHARENTES,Rochefort,Charente-Maritime
+U1703,A DEFINIR,21,17,DD DE CHARENTE-MARITIME,54,POITOU-CHARENTES,NON RENSEIGNE,Charente-Maritime
+U1704,Distribution CAP de Royan,278,17,DD DE CHARENTE-MARITIME,54,POITOU-CHARENTES,Royan,Charente-Maritime
+U1705,Centre de distribution de Saintes,279,17,DD DE CHARENTE-MARITIME,54,POITOU-CHARENTES,Saintes,Charente-Maritime
+U1706,Distribution CAP St Jean d'Angely,277,17,DD DE CHARENTE-MARITIME,54,POITOU-CHARENTES,St Jean d'Angely,Charente-Maritime
+U1801,Centre distribution St Florent / Cher,3972,18,DT DU CHER,24,CENTRE,St Florent / Cher,Cher
+U19,DD de la Correze,23,19,DD DE LA CORREZE,74,LIMOUSIN,Correze,Corr%C3%A8ze
+U1901,Centre distribution de Meyssac,2240,19,DD DE LA CORREZE,74,LIMOUSIN,Meyssac,Corr%C3%A8ze
+U1902,Centre distribution de Beynat,2240,19,DD DE LA CORREZE,74,LIMOUSIN,Beynat,Corr%C3%A8ze
+U1903,Centre de distribution de Tulle,293,19,DD DE LA CORREZE,74,LIMOUSIN,Tulle,Corr%C3%A8ze
+U1904,Samu social de Brive,292,19,DD DE LA CORREZE,74,LIMOUSIN,Brive,Corr%C3%A8ze
+U1905,Accueil de jour de Brive,292,19,DD DE LA CORREZE,74,LIMOUSIN,Brive,Corr%C3%A8ze
+U1906,Centre distribution Brives la Gaillarde,292,19,DD DE LA CORREZE,74,LIMOUSIN,Brives la Gaillar,Corr%C3%A8ze
+U1907,Centre de distribution d'Ussel,294,19,DD DE LA CORREZE,74,LIMOUSIN,Ussel,Corr%C3%A8ze
+U1908,Centre de distribution itinereant Brive,23,19,DD DE LA CORREZE,74,LIMOUSIN,itinereant Brive,Corr%C3%A8ze
+U2001,Centre de distribution de Folelli,3984,20,DT DE LA HAUTE-CORSE,94,CORSE,Folelli,Corse
+U2002,Centre de distribution de Corte,3982,20,DT DE LA HAUTE-CORSE,94,CORSE,Corte,Corse
+U2003,Centre de distribution de Bastia,3979,20,DT DE LA HAUTE-CORSE,94,CORSE,Bastia,Corse
+U2004,Centre distribution de Porto Vecchio,3978,20,DT CORSE DU SUD,94,CORSE,Porto Vecchio,Corse
+U2005,Centre distribution d'Ajaccio,3977,20,DT CORSE DU SUD,94,CORSE,Ajaccio,Corse
+U2101,Epicerie sociale Dijon,307,21,DD DE LA COTE-D OR,26,BOURGOGNE,Dijon,C%C3%B4te-d%27Or
+U2102,Samu social de Dijon,307,21,DD DE LA COTE-D OR,26,BOURGOGNE,Dijon,C%C3%B4te-d%27Or
+U2103,A DEFINIR,305,21,DD DE LA COTE-D OR,26,BOURGOGNE,NON RENSEIGNE,C%C3%B4te-d%27Or
+U2104,Epicerie sociale de Beaune,305,21,DD DE LA COTE-D OR,26,BOURGOGNE,Beaune,C%C3%B4te-d%27Or
+U2201,Centre de distribution St Brieuc,4006,22,DT DES COTES-D ARMOR,53,BRETAGNE,St Brieuc,C%C3%B4tes-d%27Armor
+U2202,Samu social de St Brieuc,4006,22,DT DES COTES-D ARMOR,53,BRETAGNE,St Brieuc,C%C3%B4tes-d%27Armor
+U2203,Centre distribution Plestin les Greves,4052,22,DT DES COTES-D ARMOR,53,BRETAGNE,Plestin les Greves,C%C3%B4tes-d%27Armor
+U2204,Distribution CAP Dinan,4005,22,DT DES COTES-D ARMOR,53,BRETAGNE,Dinan,C%C3%B4tes-d%27Armor
+U2205,Samu social de Dinan,4005,22,DT DES COTES-D ARMOR,53,BRETAGNE,Dinan,C%C3%B4tes-d%27Armor
+U2206,Centre de distribution de Lannion,4007,22,DT DES COTES-D ARMOR,53,BRETAGNE,Lannion,C%C3%B4tes-d%27Armor
+U2207,Distribution CAP de Lamballe,3971,22,DT DES COTES-D ARMOR,53,BRETAGNE,Lamballe,C%C3%B4tes-d%27Armor
+U2208,Centre distribution de Loudeac,4008,22,DT DES COTES-D ARMOR,53,BRETAGNE,Loudeac,C%C3%B4tes-d%27Armor
+U2209,Epicerie sociale de Dinan,4005,22,DT DES COTES-D ARMOR,53,BRETAGNE,Dinan,C%C3%B4tes-d%27Armor
+U2210,Centre de distribution de Paimpol,3971,22,DT DES COTES-D ARMOR,53,BRETAGNE,Paimpol,C%C3%B4tes-d%27Armor
+U2211,Distribution de CAP Saint Brieuc,1,22,DT DES COTES-D ARMOR,53,BRETAGNE,Saint Brieuc,C%C3%B4tes-d%27Armor
+U23,DD de la Creuse,28,23,DD DE LA CREUSE,74,LIMOUSIN,Creuse,Creuse
+U2301,Centre de distribution d'Auzances,2529,23,DD DE LA CREUSE,74,LIMOUSIN,Auzances,Creuse
+U2302,Centre de distribution de Boussac,329,23,DD DE LA CREUSE,74,LIMOUSIN,Boussac,Creuse
+U2303,FERME CD Chambon/Voueize,330,23,DD DE LA CREUSE,74,LIMOUSIN,Chambon/Voueize,Creuse
+U2304,Centre distribution de Gueret,331,23,DD DE LA CREUSE,74,LIMOUSIN,Gueret,Creuse
+U2305,Centre distribution de Dun le Palestel,333,23,DD DE LA CREUSE,74,LIMOUSIN,Dun le Palestel,Creuse
+U2306,Centre de distribution d'Aubusson,327,23,DD DE LA CREUSE,74,LIMOUSIN,Aubusson,Creuse
+U2307,Centre distribution de la Souterraine,332,23,DD DE LA CREUSE,74,LIMOUSIN,la Souterraine,Creuse
+U2308,Centre distribution de Bourganeuf,328,23,DD DE LA CREUSE,74,LIMOUSIN,Bourganeuf,Creuse
+U2401,Centre de distribution de Sarlat,3995,24,DT DE LA DORDOGNE,72,AQUITAINE,Sarlat,Dordogne
+U2402,Centre de distribution de Perigueux,3994,24,DT DE LA DORDOGNE,72,AQUITAINE,Perigueux,Dordogne
+U2403,Centre distribution de Bergerac,3993,24,DT DE LA DORDOGNE,72,AQUITAINE,Bergerac,Dordogne
+U2404,Centre distribution de Riberac,3996,24,DT DE LA DORDOGNE,72,AQUITAINE,Riberac,Dordogne
+U2405,Centre distribution de Mareuil-sur-Belle,4083,24,DT DE LA DORDOGNE,72,AQUITAINE,Mareuil-sur-Belle,Dordogne
+U2406,Centre de distribution de Bugue,4084,24,DT DE LA DORDOGNE,72,AQUITAINE,Bugue,Dordogne
+U2407,Centre distribution de Saint Cyprien,3968,24,DT DE LA DORDOGNE,72,AQUITAINE,Saint Cyprien,Dordogne
+U2408,Centre distribution de Nontron,4082,24,DT DE LA DORDOGNE,72,AQUITAINE,Nontron,Dordogne
+U2409,Centre de distribution de Lolme,3993,24,DT DE LA DORDOGNE,72,AQUITAINE,Lolme,Dordogne
+U2410,Centre Distribution St Antoine Breuilh,3968,24,DT DE LA DORDOGNE,72,AQUITAINE,St Antoine Breuilh,Dordogne
+U2501,Centre de distribution Baume les Dames,342,25,DD DU DOUBS,43,FRANCHE-COMTE,Baume les Dames,Doubs
+U2502,Centre de distribution de Besancon,343,25,DD DU DOUBS,43,FRANCHE-COMTE,Besancon,Doubs
+U2503,Centre de distribution Besancon Planoise,343,25,DD DU DOUBS,43,FRANCHE-COMTE,Besancon Planoise,Doubs
+U2601,Epicerie sociale de Montelimar,354,26,DD DE LA DROME,82,RHONE-ALPES,Montelimar,Dr%C3%B4me
+U2701,Centre de distribution d'Evreux,371,27,DD DE L EURE,23,HAUTE-NORMANDIE,Evreux,Eure
+U2702,Centre distribution de Gaillon,373,27,DD DE L EURE,23,HAUTE-NORMANDIE,Gaillon,Eure
+U2703,Centre de distribution de Bernay,365,27,DD DE L EURE,23,HAUTE-NORMANDIE,Bernay,Eure
+U2704,Centre distribution de Le Neubourg,377,27,DD DE L EURE,23,HAUTE-NORMANDIE,Le Neubourg,Eure
+U2705,Centre distribution Breteuil sur Iton,3697,27,DD DE L EURE,23,HAUTE-NORMANDIE,Breteuil sur Iton,Eure
+U2706,Centre de distribution Rugles,3697,27,DD DE L EURE,23,HAUTE-NORMANDIE,Rugles,Eure
+U2707,Centre de distribution Conches-en-Ouche,3697,27,DD DE L EURE,23,HAUTE-NORMANDIE,Conches-en-Ouche,Eure
+U2708,Centre de distribution Etrepagny,3695,27,DD DE L EURE,23,HAUTE-NORMANDIE,Etrepagny,Eure
+U2709,Centre de distribution de Brionne,365,27,DD DE L EURE,23,HAUTE-NORMANDIE,Brionne,Eure
+U2710,Centre distribution de Gisors,3695,27,DD DE L EURE,23,HAUTE-NORMANDIE,Gisors,Eure
+U2711,Centre distribution Fleury sur Andelle,3695,27,DD DE L EURE,23,HAUTE-NORMANDIE,Fleury sur Andelle,Eure
+U2801,Centre de distribution Chartres,384,28,DD D EURE-ET-LOIR,24,CENTRE,Chartres,Eure-et-Loir
+U2802,Maraude de Chartres,384,28,DD D EURE-ET-LOIR,24,CENTRE,Chartres,Eure-et-Loir
+U2803,Centre distribution Nogent le Rotrou,386,28,DD D EURE-ET-LOIR,24,CENTRE,Nogent le Rotrou,Eure-et-Loir
+U2804,FERME CD de Chateaudun,385,28,DD D EURE-ET-LOIR,24,CENTRE,Chateaudun,Eure-et-Loir
+U2901,Centre de distribution de Carhaix,389,29,DD DU FINISTERE,53,BRETAGNE,Carhaix,Finist%C3%A8re
+U3001,Centre de distribution Beaucaire,400,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,Beaucaire,Gard
+U3002,Centre de distribution de Nimes,404,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,Nimes,Gard
+U3003,Centre de distribution d'Ales,397,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,Ales,Gard
+U3004,Samu social d'Ales,397,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,Ales,Gard
+U3005,Centre de distribution de Besseges,401,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,Besseges,Gard
+U3006,Centre de distribution de St Ambroix,3964,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,St Ambroix,Gard
+U3007,Centre de distribution de Quissac,406,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,Quissac,Gard
+U3008,Centre de distribution de Roquemaure,3736,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,Roquemaure,Gard
+U3009,Centre de Distribution d'Uzes,413,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,Uzes,Gard
+U3010,Centre de distribution de Pont St Esprit,405,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,Pont St Esprit,Gard
+U3011,Centre de distribution de Saint Gilles,409,30,DD DU GARD,91,LANGUEDOC-ROUSSILLON,Saint Gilles,Gard
+U3101,Centre de distribution Toulouse Mirail,426,31,\N,\N,\N,Toulouse Mirail,Haute-Garonne
+U3102,Centre de distribution de Cugnaux,426,31,\N,\N,\N,Cugnaux,Haute-Garonne
+U3103,Centre de distribution de Fonsorbes,419,31,\N,\N,\N,Fonsorbes,Haute-Garonne
+U3104,CD de Bessiere,426,31,\N,\N,\N,Bessiere,Haute-Garonne
+U3201,Centre de distribution de Masseube,3829,32,DD DU GERS,73,MIDI-PYRENEES,Masseube,Gers
+U3202,Centre distribution de Lombez,3829,32,DD DU GERS,73,MIDI-PYRENEES,Lombez,Gers
+U3203,Centre distribution de L'Isle Jourdain,435,32,DD DU GERS,73,MIDI-PYRENEES,L'Isle Jourdain,Gers
+U3204,Centre distribution de Mirande,440,32,DD DU GERS,73,MIDI-PYRENEES,Miran,Gers
+U33,DD Gironde,38,33,DD DE LA GIRONDE,72,AQUITAINE,Giron,Gironde
+U3301,Centre de distribution Arcachon,445,33,DD DE LA GIRONDE,72,AQUITAINE,Arcachon,Gironde
+U3302,Centre de distribution Begles,448,33,DD DE LA GIRONDE,72,AQUITAINE,Begles,Gironde
+U3303,Centre de distribution Bordeaux Bastide,448,33,DD DE LA GIRONDE,72,AQUITAINE,Bordeaux Basti,Gironde
+U3304,FERME CD Bordeaux Bacalan,448,33,DD DE LA GIRONDE,72,AQUITAINE,Bordeaux Bacalan,Gironde
+U3305,Espace bebe maman Bordeaux,448,33,DD DE LA GIRONDE,72,AQUITAINE,Bordeaux,Gironde
+U3306,Distribution CAP Bouscat-Bruges,458,33,DD DE LA GIRONDE,72,AQUITAINE,Bouscat-Bruges,Gironde
+U3307,Distribution CAP Coutras,449,33,DD DE LA GIRONDE,72,AQUITAINE,Coutras,Gironde
+U3308,Distribution CAP Pessac,2188,33,DD DE LA GIRONDE,72,AQUITAINE,Pessac,Gironde
+U3309,Distribution CAP Eysines,2185,33,DD DE LA GIRONDE,72,AQUITAINE,Eysines,Gironde
+U3310,FERMER - CD Villenave d'Ornon,2189,33,DD DE LA GIRONDE,72,AQUITAINE,Villenave d'Ornon,Gironde
+U3311,Centre Distribution de St Loubes,456,33,DD DE LA GIRONDE,72,AQUITAINE,St Loubes,Gironde
+U3312,Distribution CAP Merignac,2187,33,DD DE LA GIRONDE,72,AQUITAINE,Merignac,Gironde
+U3313,FERMER - CD Merignac,2187,33,DD DE LA GIRONDE,72,AQUITAINE,Merignac,Gironde
+U3314,Centre distribution Sainte-Foy-la-Grande,3931,33,DD DE LA GIRONDE,72,AQUITAINE,Sainte-Foy-la-Gran,Gironde
+U3315,Centre de distribution de Langon,450,33,DD DE LA GIRONDE,72,AQUITAINE,Langon,Gironde
+U3316,FERME CD de Libourne,452,33,DD DE LA GIRONDE,72,AQUITAINE,Libourne,Gironde
+U3317,Epicerie sociale d'Arcachon,445,33,DD DE LA GIRONDE,72,AQUITAINE,Arcachon,Gironde
+U3318,Centre de distibution de Macau,38,33,DD DE LA GIRONDE,72,AQUITAINE,distibution Macau,Gironde
+U3401,Centre distribution Balaruc les Bains,470,34,DD DE L HERAULT,91,LANGUEDOC-ROUSSILLON,Balaruc les Bains,H%C3%A9rault
+U3402,Centre de distribution Pezenas,468,34,DD DE L HERAULT,91,LANGUEDOC-ROUSSILLON,Pezenas,H%C3%A9rault
+U3403,Centre distribution de Montpellier,467,34,DD DE L HERAULT,91,LANGUEDOC-ROUSSILLON,Montpellier,H%C3%A9rault
+U3404,Epicerie sociale de Gignac,467,34,DD DE L HERAULT,91,LANGUEDOC-ROUSSILLON,Gignac,H%C3%A9rault
+U3405,Accueil de jour de Montpellier,467,34,DD DE L HERAULT,91,LANGUEDOC-ROUSSILLON,Montpellier,H%C3%A9rault
+U3406,A DEFINIR  CD Frontignan,470,34,DD DE L HERAULT,91,LANGUEDOC-ROUSSILLON,Frontignan,H%C3%A9rault
+U3407,Distribution CAP Lodeve,465,34,DD DE L HERAULT,91,LANGUEDOC-ROUSSILLON,Lodeve,H%C3%A9rault
+U3408,Epicerie sociale de Frontignan,4056,34,DD DE L HERAULT,91,LANGUEDOC-ROUSSILLON,Frontignan,H%C3%A9rault
+U3409,Centre de distribution de Vias,39,34,\N,\N,\N,Vias,H%C3%A9rault
+U35,DD Ille et Vilaine,40,35,DD DE L ILLE-ET-VILAINE,53,BRETAGNE,Ille et Vilaine,Ille-et-Vilaine
+U3501,Centre de distribution de Redon,473,35,DD DE L ILLE-ET-VILAINE,53,BRETAGNE,Redon,Ille-et-Vilaine
+U3502,Centre de distribution Rennes,474,35,DD DE L ILLE-ET-VILAINE,53,BRETAGNE,Rennes,Ille-et-Vilaine
+U3503,FERMER PAB de Rennes,474,35,DD DE L ILLE-ET-VILAINE,53,BRETAGNE,PAB Rennes,Ille-et-Vilaine
+U3504,Samu social de Rennes,474,35,DD DE L ILLE-ET-VILAINE,53,BRETAGNE,Rennes,Ille-et-Vilaine
+U3601,Centre de distribution d'Issoudun,481,36,DD DE L INDRE,24,CENTRE,Issoudun,Indre
+U3602,Centre de distribution d' Aigurande,478,36,DD DE L INDRE,24,CENTRE,Aiguran,Indre
+U3603,Centre de distribution de Chateauroux,480,36,DD DE L INDRE,24,CENTRE,Chateauroux,Indre
+U3701,Epicerie sociale de Joue les Tours,500,37,DD D INDRE-ET-LOIRE,24,CENTRE,Joue les Tours,Indre-et-Loire
+U3702,Epicerie sociale Tours,500,37,DD D INDRE-ET-LOIRE,24,CENTRE,Tours,Indre-et-Loire
+U3703,Centre de distribution L'ile Bouchard,491,37,DD D INDRE-ET-LOIRE,24,CENTRE,L'ile Bouchard,Indre-et-Loire
+U3704,Centre de distribution de Chinon,491,37,DD D INDRE-ET-LOIRE,24,CENTRE,Chinon,Indre-et-Loire
+U3705,Epicerie sociale La Rouchouze Langeais,489,37,DD D INDRE-ET-LOIRE,24,CENTRE,La Rouchouze Langeais,Indre-et-Loire
+U3706,Epicerie sociale Descartes,498,37,DD D INDRE-ET-LOIRE,24,CENTRE,Descartes,Indre-et-Loire
+U3707,Epicerie sociale de Preuilly sur Claise,498,37,DD D INDRE-ET-LOIRE,24,CENTRE,Preuilly sur Claise,Indre-et-Loire
+U3708,Epicerie sociale de Ligueil,498,37,DD D INDRE-ET-LOIRE,24,CENTRE,Ligueil,Indre-et-Loire
+U3709,Epicerie sociale le Grand Pressigny,498,37,DD D INDRE-ET-LOIRE,24,CENTRE,le Grand Pressigny,Indre-et-Loire
+U3710,Centre de Distribution de Sainte Maure,491,37,DD D INDRE-ET-LOIRE,24,CENTRE,Sainte Maure,Indre-et-Loire
+U3711,Centre distribution St Etienne de Chigny,500,37,DD D INDRE-ET-LOIRE,24,CENTRE,St Etienne Chigny,Indre-et-Loire
+U3712,Centre de distribution Azay le Rideau,2613,37,DD D INDRE-ET-LOIRE,24,CENTRE,Azay le Rideau,Indre-et-Loire
+U3713,Centre distribution Cinq-mars-la-pile,4168,37,DD D INDRE-ET-LOIRE,24,CENTRE,Cinq-mars-la-pile,Indre-et-Loire
+U3714,Centre de distribution Tours S/Francisco,500,37,\N,\N,\N,Tours S/Francisco,Indre-et-Loire
+U3715,Centre de distribution Tours-Bretonneau,500,37,\N,\N,\N,Tours-Bretonneau,Indre-et-Loire
+U3716,Centre de distribution de Tours,500,37,\N,\N,\N,Tours,Indre-et-Loire
+U38,DD d'Isere,43,38,DD DE L ISERE,82,RHONE-ALPES,Isere,Is%C3%A8re
+U3801,Centre distribution de Grenoble,503,38,DD DE L ISERE,82,RHONE-ALPES,Grenoble,Is%C3%A8re
+U3802,Samu social de Grenoble,503,38,DD DE L ISERE,82,RHONE-ALPES,Grenoble,Is%C3%A8re
+U3803,Centre distribution St Quentin Fallavier,508,38,DD DE L ISERE,82,RHONE-ALPES,St Quentin Fallavier,Is%C3%A8re
+U3804,Distribution CAP de Crolles,503,38,DD DE L ISERE,82,RHONE-ALPES,Crolles,Is%C3%A8re
+U3805,Centre distribution de Vienne,508,38,DD DE L ISERE,82,RHONE-ALPES,Vienne,Is%C3%A8re
+U3806,Centre distribution de Verpilliere,508,38,DD DE L ISERE,82,RHONE-ALPES,Verpilliere,Is%C3%A8re
+U3807,Centre de distribution de Voiron,509,38,DD DE L ISERE,82,RHONE-ALPES,Voiron,Is%C3%A8re
+U3808,Centre distribution Pont de Beauvoisin,506,38,DD DE L ISERE,82,RHONE-ALPES,Pont Beauvoisin,Is%C3%A8re
+U3809,Centre distribution de La Tour du Pin,506,38,DD DE L ISERE,82,RHONE-ALPES,La Tour Pin,Is%C3%A8re
+U3810,Samu social d'Echirolles,2190,38,DD DE L ISERE,82,RHONE-ALPES,Echirolles,Is%C3%A8re
+U3811,Centre de distribution Villefontaine,502,38,DD DE L ISERE,82,RHONE-ALPES,Villefontaine,Is%C3%A8re
+U3812,Centre distribution de St Marcellin,507,38,DD DE L ISERE,82,RHONE-ALPES,St Marcellin,Is%C3%A8re
+U3813,Centre Distribution Bourgoin Jallieu,502,38,DD DE L ISERE,82,RHONE-ALPES,Bourgoin Jallieu,Is%C3%A8re
+U3814,Samu social Bourgoin Jallieu,502,38,DD DE L ISERE,82,RHONE-ALPES,Bourgoin Jallieu,Is%C3%A8re
+U3815,Centre distribution Rives,509,38,DD DE L ISERE,82,RHONE-ALPES,Rives,Is%C3%A8re
+U3816,Distribution CAP de La Mure,2190,38,DD DE L ISERE,82,RHONE-ALPES,La Mure,Is%C3%A8re
+U3901,FERME ****CD Bletterans****,520,39,DD DU JURA,43,FRANCHE-COMTE,****Bletterans****,Jura
+U3902,Centre de distribution de Arinthod,513,39,DD DU JURA,43,FRANCHE-COMTE,Arinthod,Jura
+U3903,Centre de distribution de Lons le Saunie,513,39,DD DU JURA,43,FRANCHE-COMTE,Lons le Saunie,Jura
+U3904,Centre de distribution Orgelet,513,39,DD DU JURA,43,FRANCHE-COMTE,Orgelet,Jura
+U3905,Centre de distribution de Saint Amour,513,39,DD DU JURA,43,FRANCHE-COMTE,Saint Amour,Jura
+U3906,Centre de distribution d'Arbois,510,39,DD DU JURA,43,FRANCHE-COMTE,Arbois,Jura
+U3907,Epicerie sociale de Bletterans,520,39,DD DU JURA,43,FRANCHE-COMTE,Bletterans,Jura
+U40,DD des Landes,45,40,DD DES LANDES,72,AQUITAINE,Landes,Landes
+U4001,Centre de distribution de Mont de Marsan,525,40,DD DES LANDES,72,AQUITAINE,Mont Marsan,Landes
+U4002,Samu social de Peyrehorade,3961,40,DD DES LANDES,72,AQUITAINE,Peyrehora,Landes
+U4003,Distribution CAP Dax,524,40,DD DES LANDES,72,AQUITAINE,Dax,Landes
+U4004,Distribution CAP St Vincent Tyrosse,3961,40,DD DES LANDES,72,AQUITAINE,St Vincent Tyrosse,Landes
+U4005,Distribution CAP de Parentis en Born,522,40,DD DES LANDES,72,AQUITAINE,Parentis en Born,Landes
+U4006,Distribution CAP de St Martin Seignanx,3961,40,DD DES LANDES,72,AQUITAINE,St Martin Seignanx,Landes
+U4007,Distribution CAP de Mont de Marsan,525,40,DD DES LANDES,72,AQUITAINE,Mont Marsan,Landes
+U4101,Centre de distribution de Vendome,532,41,\N,\N,\N,Vendome,Loir-et-Cher
+U4201,Centre de distribution de St Etienne,540,42,DD DE LA LOIRE,82,RHONE-ALPES,St Etienne,Loire
+U4202,Centre de distribution de Montbrison,536,42,DD DE LA LOIRE,82,RHONE-ALPES,Montbrison,Loire
+U4203,Centre de distribution Sury-le-Comtal,536,42,DD DE LA LOIRE,82,RHONE-ALPES,Sury-le-Comtal,Loire
+U4204,Centre de distribution de Firminy,541,42,DD DE LA LOIRE,82,RHONE-ALPES,Firminy,Loire
+U4205,Centre de distribution de Veauche,540,42,\N,\N,\N,Veauche,Loire
+U4301,Centre Distribution de Puy en Velay,2672,43,DT DE LA HAUTE-LOIRE,83,AUVERGNE,Puy en Velay,Haute-Loire
+U4302,Centre de Distribution de Saint Sigolene,2670,43,DT DE LA HAUTE-LOIRE,83,AUVERGNE,Saint Sigolene,Haute-Loire
+U4303,Centre de Distribution de Bas en Basset,48,43,DT DE LA HAUTE-LOIRE,83,AUVERGNE,Bas en Basset,Haute-Loire
+U44,DD Loire-Atlantique,49,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Loire-Atlantique,Loire-Atlantique
+U4401,Centre de distribution du Pontchateau,561,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Pontchateau,Loire-Atlantique
+U4402,Centre de distribution Vallet,3827,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Vallet,Loire-Atlantique
+U4403,Centre de distribution Reze,3827,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Reze,Loire-Atlantique
+U4404,Centre de distribution Nantes Trebuchet,558,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Nantes Trebuchet,Loire-Atlantique
+U4405,Centre de distribution Batz sur Mer,561,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Batz sur Mer,Loire-Atlantique
+U4406,Epicerie sociale de Carquefou,558,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Carquefou,Loire-Atlantique
+U4407,Centre distribution de St Nazaire,561,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,St Nazaire,Loire-Atlantique
+U4408,Centre de distribution de Paimboeuf,563,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Paimboeuf,Loire-Atlantique
+U4409,Centre de  distribution de St Michel C/C,563,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,distribution St Michel C/C,Loire-Atlantique
+U4410,Distribution CAP Ancenis,554,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Ancenis,Loire-Atlantique
+U4411,Distribution de CAP de Chateaubriant,556,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Chateaubriant,Loire-Atlantique
+U4412,Centre de distribution de Savenay,555,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Savenay,Loire-Atlantique
+U4413,Centre distribution de la Turballe,561,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,la Turballe,Loire-Atlantique
+U4414,Centre distribution de Guerande,561,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Gueran,Loire-Atlantique
+U4415,Centre distribution de Croisic,561,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Croisic,Loire-Atlantique
+U4416,A DEFINIR,555,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,NON RENSEIGNE,Loire-Atlantique
+U4417,Distribution ambulante St Nazaire,561,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,ambulante St Nazaire,Loire-Atlantique
+U4418,Centre de distribution de Blain,555,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Blain,Loire-Atlantique
+U4419,Centre distribution Grandchamp Fontaines,555,44,DD DE LA LOIRE-ATLANTIQUE,52,PAYS-DE-LA-LOIRE,Grandchamp Fontaines,Loire-Atlantique
+U4501,Centre de distribution d'Orleans,570,45,DT DU LOIRET,24,CENTRE,Orleans,Loiret
+U4502,Samu social d'Orleans,570,45,DT DU LOIRET,24,CENTRE,Orleans,Loiret
+U4503,Centre distribution de Montargis,569,45,DT DU LOIRET,24,CENTRE,Montargis,Loiret
+U4504,Centre distribution de St Jean le Blanc,570,45,DT DU LOIRET,24,CENTRE,St Jean le Blanc,Loiret
+U46,DD du Lot,51,46,DD DU LOT,73,MIDI-PYRENEES,Lot,Lot
+U4601,Centre de distribution de Saint-Cere,580,46,DD DU LOT,73,MIDI-PYRENEES,Saint-Cere,Lot
+U4602,Centre de distribution de Cahors,572,46,DD DU LOT,73,MIDI-PYRENEES,Cahors,Lot
+U4603,Samu social de Cahors,572,46,DD DU LOT,73,MIDI-PYRENEES,Cahors,Lot
+U4604,Centre de distribution de Figeac,573,46,DD DU LOT,73,MIDI-PYRENEES,Figeac,Lot
+U4605,Distribution de CAP de Souillac,581,46,DD DU LOT,73,MIDI-PYRENEES,Souillac,Lot
+U4606,Distribution de CAP de Luzech,578,46,DD DU LOT,73,MIDI-PYRENEES,Luzech,Lot
+U47,DD Lot-et-Garonne,52,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Lot-et-Garonne,Lot-et-Garonne
+U4701,Centre de distribution Marmande,588,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Marman,Lot-et-Garonne
+U4702,Samu social de Tonneins,590,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Tonneins,Lot-et-Garonne
+U4703,Samu social de Marmande,588,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Marman,Lot-et-Garonne
+U4704,Centre de distribution d'Agen,583,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Agen,Lot-et-Garonne
+U4705,Distribution CAP Tonneins,590,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Tonneins,Lot-et-Garonne
+U4706,Centre de distribution de Villereal,592,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Villereal,Lot-et-Garonne
+U4707,Centre de distribution d'Aiguillon,584,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Aiguillon,Lot-et-Garonne
+U4708,Samu social d'Agen,583,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Agen,Lot-et-Garonne
+U4709,Samu de Villeneuve sur Lot,591,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Villeneuve sur Lot,Lot-et-Garonne
+U4710,Centre distribution Villeneuve sur Lot,591,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Villeneuve sur Lot,Lot-et-Garonne
+U4711,Centre de distribution de Tonneins,590,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Tonneins,Lot-et-Garonne
+U4712,Centre de distribution de Miramont,593,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Miramont,Lot-et-Garonne
+U4713,Espace Parent/Enfant de Nerac,589,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Parent/Enfant Nerac,Lot-et-Garonne
+U4714,Centre de distribution de Castillonnes,592,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,Castillonnes,Lot-et-Garonne
+U4715,A DEFINIR,591,47,DD DU LOT-ET-GARONNE,72,AQUITAINE,NON RENSEIGNE,Lot-et-Garonne
+U4801,Centre distribution Saint Chely d'Apcher,599,48,DD DE LA LOZERE,91,LANGUEDOC-ROUSSILLON,Saint Chely d'Apcher,Loz%C3%A8re
+U4802,Centre de distribution Langogne,596,48,DD DE LA LOZERE,91,LANGUEDOC-ROUSSILLON,Langogne,Loz%C3%A8re
+U4803,Centre distribution la Canourgue,597,48,DD DE LA LOZERE,91,LANGUEDOC-ROUSSILLON,la Canourgue,Loz%C3%A8re
+U4804,Centre distribution de Mende,598,48,DD DE LA LOZERE,91,LANGUEDOC-ROUSSILLON,Men,Loz%C3%A8re
+U49,Distribution CAP DD Maine et Loire,54,49,DD DU MAINE-ET-LOIRE,52,PAYS-DE-LA-LOIRE,Maine et Loire,Maine-et-Loire
+U4901,Centre de distribution de Saumur,603,49,DD DU MAINE-ET-LOIRE,52,PAYS-DE-LA-LOIRE,Saumur,Maine-et-Loire
+U4902,Centre distribution d'Angers,600,49,DD DU MAINE-ET-LOIRE,52,PAYS-DE-LA-LOIRE,Angers,Maine-et-Loire
+U50,DD de la Manche,55,50,DD DE LA MANCHE,25,BASSE-NORMANDIE,Manche,Manche
+U5001,Centre distribution de Periers,613,50,DD DE LA MANCHE,25,BASSE-NORMANDIE,Periers,Manche
+U5002,Centre distribution de Saint Lo,615,50,DD DE LA MANCHE,25,BASSE-NORMANDIE,Saint Lo,Manche
+U5003,Centre distribution de Valognes,616,50,DD DE LA MANCHE,25,BASSE-NORMANDIE,Valognes,Manche
+U5004,Centre distribution de Cherbourg,608,50,DD DE LA MANCHE,25,BASSE-NORMANDIE,Cherbourg,Manche
+U5005,Samu social de Cherbourg,608,50,DD DE LA MANCHE,25,BASSE-NORMANDIE,Cherbourg,Manche
+U5006,Point alimentation bebe de Granville,3681,50,DD DE LA MANCHE,25,BASSE-NORMANDIE,bebe Granville,Manche
+U5007,Espace bebe maman d'Avranches,3681,50,DD DE LA MANCHE,25,BASSE-NORMANDIE,Avranches,Manche
+U5008,Centre de distribution Coutances,609,50,DD DE LA MANCHE,25,BASSE-NORMANDIE,Coutances,Manche
+U5009,Centre de distribution Sourdeval,3698,50,DD DE LA MANCHE,25,BASSE-NORMANDIE,Sourdeval,Manche
+U5101,FERMER CD de Reims,623,51,\N,\N,\N,Reims,Marne
+U5102,Centre distribution Chalons en Champagne,619,51,DD DE LA MARNE,21,CHAMPAGNE-ARDENNE,Chalons en Champagne,Marne
+U5201,Centre distribution de Chaumont,4058,52,DT DE LA HAUTE-MARNE,21,CHAMPAGNE-ARDENNE,Chaumont,Haute-Marne
+U5202,Centre de distribution de Joinville,4059,52,DT DE LA HAUTE-MARNE,21,CHAMPAGNE-ARDENNE,Joinville,Haute-Marne
+U5203,Centre distribution de Saint Dizier,4060,52,DT DE LA HAUTE-MARNE,21,CHAMPAGNE-ARDENNE,Saint Dizier,Haute-Marne
+U5301,Centre de distribution de Laval,635,53,DD DE LA MAYENNE,52,PAYS-DE-LA-LOIRE,Laval,Mayenne
+U5401,Centre de distribution de Jarny,639,54,DD DE MEURTHE-ET-MOSELLE,41,LORRAINE,Jarny,Meurthe-et-Moselle
+U5402,Centre distribution Dombasle sur Meurthe,640,54,DD DE MEURTHE-ET-MOSELLE,41,LORRAINE,Dombasle sur Meurthe,Meurthe-et-Moselle
+U5403,Centre distribution St Nicolas de Port,640,54,DD DE MEURTHE-ET-MOSELLE,41,LORRAINE,St Nicolas Port,Meurthe-et-Moselle
+U5404,Centre distribution de Varangeville,640,54,DD DE MEURTHE-ET-MOSELLE,41,LORRAINE,Varangeville,Meurthe-et-Moselle
+U5405,Centre distribution Rosiere aux Salines,640,54,DD DE MEURTHE-ET-MOSELLE,41,LORRAINE,Rosiere aux Salines,Meurthe-et-Moselle
+U5406,Centre distribution de Longuyon,644,54,DD DE MEURTHE-ET-MOSELLE,41,LORRAINE,Longuyon,Meurthe-et-Moselle
+U5407,Centre de distribution de Nancy,646,54,DD DE MEURTHE-ET-MOSELLE,41,LORRAINE,Nancy,Meurthe-et-Moselle
+U5408,Centre distribution de Luneville,645,54,DD DE MEURTHE-ET-MOSELLE,41,LORRAINE,Luneville,Meurthe-et-Moselle
+U5409,Centre distribution de Pont a Mousson,649,54,DD DE MEURTHE-ET-MOSELLE,41,LORRAINE,Pont a Mousson,Meurthe-et-Moselle
+U5410,Distribution CAP d'Auboue,639,54,DD DE MEURTHE-ET-MOSELLE,41,LORRAINE,Auboue,Meurthe-et-Moselle
+U5411,Epicerie sociale de Longwy,644,54,DD DE MEURTHE-ET-MOSELLE,41,LORRAINE,Longwy,Meurthe-et-Moselle
+U55,DD de la Meuse,60,55,DD DE LA MEUSE,41,LORRAINE,Meuse,Meuse
+U5501,Centre de distribution de Bar le Duc,652,55,DD DE LA MEUSE,41,LORRAINE,Bar le Duc,Meuse
+U5502,FERMER CD de St Mihiel,653,55,DD DE LA MEUSE,41,LORRAINE,St Mihiel,Meuse
+U5503,Centre de distribution de Commercy,653,55,DD DE LA MEUSE,41,LORRAINE,Commercy,Meuse
+U5504,Distribution CAP de Revigny,658,55,DD DE LA MEUSE,41,LORRAINE,Revigny,Meuse
+U5505,Centre de distribution d'Etain,661,55,DD DE LA MEUSE,41,LORRAINE,Etain,Meuse
+U5506,Centre de distribution de Verdun,661,55,DD DE LA MEUSE,41,LORRAINE,Verdun,Meuse
+U5507,FERMER CD Vaucouleurs,660,55,\N,\N,\N,Vaucouleurs,Meuse
+U56,DD du Morbihan,61,56,DD DU MORBIHAN,53,BRETAGNE,Morbihan,Morbihan
+U5601,Distribution CAP de Questembert,668,56,DD DU MORBIHAN,53,BRETAGNE,Questembert,Morbihan
+U5602,Distribution de CAP de Lorient,665,56,DD DU MORBIHAN,53,BRETAGNE,Lorient,Morbihan
+U5603,Distribution CAP de Quiberon,3703,56,DD DU MORBIHAN,53,BRETAGNE,Quiberon,Morbihan
+U5604,Samu social de Lorient,665,56,DD DU MORBIHAN,53,BRETAGNE,Lorient,Morbihan
+U5605,Samu social de Vannes,670,56,DD DU MORBIHAN,53,BRETAGNE,Vannes,Morbihan
+U5606,Point alimentation bebe de Vannes,670,56,DD DU MORBIHAN,53,BRETAGNE,bebe Vannes,Morbihan
+U5607,Distribution de CAP de Vannes,670,56,DD DU MORBIHAN,53,BRETAGNE,Vannes,Morbihan
+U5608,Point alimentation bebe de Lorient,665,56,DD DU MORBIHAN,53,BRETAGNE,bebe Lorient,Morbihan
+U5609,Distribution CAP de Ploermel,666,56,DD DU MORBIHAN,53,BRETAGNE,Ploermel,Morbihan
+U57,DD de la Moselle,62,57,DD DE LA MOSELLE,41,LORRAINE,Moselle,Moselle
+U5701,Centre de distribution de Sarralbe,685,57,DD DE LA MOSELLE,41,LORRAINE,Sarralbe,Moselle
+U5702,Epicerie sociale de Sarrebourg,686,57,DD DE LA MOSELLE,41,LORRAINE,Sarrebourg,Moselle
+U5703,Centre de distribution d'Uckange,678,57,DD DE LA MOSELLE,41,LORRAINE,Uckange,Moselle
+U5704,Centre de distribution de Fontoy,678,57,DD DE LA MOSELLE,41,LORRAINE,Fontoy,Moselle
+U5705,Centre distribution de Hagondange,678,57,DD DE LA MOSELLE,41,LORRAINE,Hagondange,Moselle
+U5706,FERMER CD de Boulay,681,57,DD DE LA MOSELLE,41,LORRAINE,Boulay,Moselle
+U5707,FERMER CD de Bouzonville,687,57,DD DE LA MOSELLE,41,LORRAINE,Bouzonville,Moselle
+U5708,Distribution CAP de Creutzwald,683,57,DD DE LA MOSELLE,41,LORRAINE,Creutzwald,Moselle
+U5709,Distribution CAP Ars sur Moselle,681,57,DD DE LA MOSELLE,41,LORRAINE,Ars sur Moselle,Moselle
+U5710,Distribution CAP Metz,681,57,DD DE LA MOSELLE,41,LORRAINE,Metz,Moselle
+U5711,FERMER CD de Metz,681,57,DD DE LA MOSELLE,41,LORRAINE,Metz,Moselle
+U5712,Centre distribution de Audun le Tiche,687,57,DD DE LA MOSELLE,41,LORRAINE,Audun le Tiche,Moselle
+U5713,Centre de distribution de Guenange,687,57,DD DE LA MOSELLE,41,LORRAINE,Guenange,Moselle
+U5714,Centre distribution de Sierck les Bains,687,57,DD DE LA MOSELLE,41,LORRAINE,Sierck les Bains,Moselle
+U5715,Centre distribution de St Avold,683,57,DD DE LA MOSELLE,41,LORRAINE,St Avold,Moselle
+U5716,Centre distribution de Dieuze,676,57,DD DE LA MOSELLE,41,LORRAINE,Dieuze,Moselle
+U5717,Distribution CAP de Forbach,683,57,DD DE LA MOSELLE,41,LORRAINE,Forbach,Moselle
+U5718,Distribution CAP de Sarreguemines,684,57,DD DE LA MOSELLE,41,LORRAINE,Sarreguemines,Moselle
+U5719,CD de Morhange,676,57,DD DE LA MOSELLE,41,LORRAINE,Morhange,Moselle
+U5720,Centre distribution de Yutz,687,57,DD DE LA MOSELLE,41,LORRAINE,Yutz,Moselle
+U5721,Entrepot de Thionville,687,57,DD DE LA MOSELLE,41,LORRAINE,Thionville,Moselle
+U5722,Epicerie sociale de Metz,681,57,DD DE LA MOSELLE,41,LORRAINE,Metz,Moselle
+U5901,Centre de distribution de Denain,716,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Denain,Nord
+U5902,Centre de distribution de Lille,725,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Lille,Nord
+U5903,Centre de distribution de Wattignies,725,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Wattignies,Nord
+U5904,Centre de distribution de Templemars,725,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Templemars,Nord
+U5905,Centre distribution Roubaix,728,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Roubaix,Nord
+U5906,Centre de distribution Houplin-Ancoisne,725,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Houplin-Ancoisne,Nord
+U5907,Centre de distribution de Bailleuil,721,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Bailleuil,Nord
+U5908,Centre de distribution de Thumeries,725,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Thumeries,Nord
+U5909,Centre distribution de Dunkerque,718,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Dunkerque,Nord
+U5910,Centre de distribution St Amand les Eaux,2612,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,St Amand les Eaux,Nord
+U5911,Centre de distribution de Maubeuge,727,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Maubeuge,Nord
+U5912,Centre distribution St-Andre-Lez-Lille,725,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,St-Andre-Lez-Lille,Nord
+U5913,Centre de distribution de Douai,717,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Douai,Nord
+U5914,Centre distribution de Caudry,715,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Caudry,Nord
+U5915,Centre de distribution de Valenciennes,731,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Valenciennes,Nord
+U5916,Centre de distribution de Cambrai,714,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Cambrai,Nord
+U5917,Centre de distribution de Tourcoing,730,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Tourcoing,Nord
+U5918,Centre de distribution de Hautmont,727,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Hautmont,Nord
+U5919,Epicerie sociale de Lille,725,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Lille,Nord
+U5920,Centre de distribution de Jeumont,725,59,DD DU NORD,31,NORD-PAS-DE-CALAIS,Jeumont,Nord
+U60,DD de l'Oise,65,60,DD DE L OISE,22,PICARDIE,Oise,Oise
+U6001,Centre de distribution de Mouy,739,60,DD DE L OISE,22,PICARDIE,Mouy,Oise
+U6002,Centre de distribution de Creil,736,60,DD DE L OISE,22,PICARDIE,Creil,Oise
+U6003,Distribution de CAP Compiegne,735,60,DD DE L OISE,22,PICARDIE,Compiegne,Oise
+U6004,Distribution CAP Noyon,742,60,DD DE L OISE,22,PICARDIE,Noyon,Oise
+U6005,Distribution CAP Senlis,744,60,DD DE L OISE,22,PICARDIE,Senlis,Oise
+U6006,Distribution CAP de Noailles,741,60,DD DE L OISE,22,PICARDIE,Noailles,Oise
+U6007,Distribution CAP de Nanteuil,740,60,DD DE L OISE,22,PICARDIE,Nanteuil,Oise
+U6008,Distribution CAP de Crepy en Valois,737,60,DD DE L OISE,22,PICARDIE,Crepy en Valois,Oise
+U6009,Distribution CAP de Beauvais,732,60,DD DE L OISE,22,PICARDIE,Beauvais,Oise
+U61,DD de l'Orne,66,61,DD DE L ORNE,25,BASSE-NORMANDIE,Orne,Orne
+U6101,Distribution CAP Mortagne au Perche,754,61,DD DE L ORNE,25,BASSE-NORMANDIE,Mortagne au Perche,Orne
+U6102,Centre de distribution d'Alencon,745,61,DD DE L ORNE,25,BASSE-NORMANDIE,Alencon,Orne
+U6103,A DEFINIR,754,61,DD DE L ORNE,25,BASSE-NORMANDIE,NON RENSEIGNE,Orne
+U62,DD Pas-de-Calais,67,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Pas-de-Calais,Pas-de-Calais
+U6201,Centre distribution de Saint Omer,766,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Saint Omer,Pas-de-Calais
+U6202,Centre distribution de Boulogne sur mer,761,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Boulogne sur mer,Pas-de-Calais
+U6203,Centre de distribution Montreuil,759,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Montreuil,Pas-de-Calais
+U6204,Centre distribution de Lens,765,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Lens,Pas-de-Calais
+U6205,Centre de distribution d'Arras,758,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Arras,Pas-de-Calais
+U6206,Centre de distribution de Lievin,765,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Lievin,Pas-de-Calais
+U6207,Centre distribution de Calais,762,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Calais,Pas-de-Calais
+U6208,Centre distribution Bruay la Buissiere,760,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Bruay la Buissiere,Pas-de-Calais
+U6209,Centre distribution d'Auchel,760,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Auchel,Pas-de-Calais
+U6210,Centre distribution de Bethune,760,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Bethune,Pas-de-Calais
+U6211,Centre distribution  St Pol sur Ternoise,3935,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,St Pol sur Ternoise,Pas-de-Calais
+U6212,Centre de distribution Mericourt,765,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Mericourt,Pas-de-Calais
+U6213,Centre de Distribution de Berck,759,62,DD DU PAS-DE-CALAIS,31,NORD-PAS-DE-CALAIS,Berck,Pas-de-Calais
+U6301,Centre de distribution d'Issoire,770,63,DD DU PUY-DE-DOME,83,AUVERGNE,Issoire,Puy-de-D%C3%B4me
+U6302,Centre de distribution de Riom,772,63,DD DU PUY-DE-DOME,83,AUVERGNE,Riom,Puy-de-D%C3%B4me
+U6303,Centre Distribution Clermont Ferrand,769,63,DD DU PUY-DE-DOME,83,AUVERGNE,Clermont Ferrand,Puy-de-D%C3%B4me
+U6401,Centre de distribution d'Hendaye,69,64,DD DES PYRENEES-ATLANTIQUES,72,AQUITAINE,Hendaye,Pyr%C3%A9n%C3%A9es-Atlantiques
+U6402,Centre distribution Saint Jean de Luz,786,64,DD DES PYRENEES-ATLANTIQUES,72,AQUITAINE,Saint Jean Luz,Pyr%C3%A9n%C3%A9es-Atlantiques
+U6403,Epicerie sociale de Bayonne,775,64,\N,\N,\N,Bayonne,Pyr%C3%A9n%C3%A9es-Atlantiques
+U6404,Centre de distribution de Biarritz,776,64,\N,\N,\N,Biarritz,Pyr%C3%A9n%C3%A9es-Atlantiques
+U6405,Epicerie sociale de Pau Coupfin,69,64,\N,\N,\N,Pau Coupfin,Pyr%C3%A9n%C3%A9es-Atlantiques
+U6406,Epicerie sociale d'Orthez,2458,64,\N,\N,\N,Orthez,Pyr%C3%A9n%C3%A9es-Atlantiques
+U6501,Centre distribution de Lourdes,4012,65,DT DES HAUTES-PYRENEES,73,MIDI-PYRENEES,Lourdes,Hautes-Pyr%C3%A9n%C3%A9es
+U6502,Centre distribution de Tarbes,4015,65,DT DES HAUTES-PYRENEES,73,MIDI-PYRENEES,Tarbes,Hautes-Pyr%C3%A9n%C3%A9es
+U6503,Centre distribution de Maubourguet,4013,65,DT DES HAUTES-PYRENEES,73,MIDI-PYRENEES,Maubourguet,Hautes-Pyr%C3%A9n%C3%A9es
+U6504,Centre distribution Bagneres de Bigorre,4010,65,DT DES HAUTES-PYRENEES,73,MIDI-PYRENEES,Bagneres Bigorre,Hautes-Pyr%C3%A9n%C3%A9es
+U6505,Centre de distribution Lannemezan,3969,65,DT DES HAUTES-PYRENEES,73,MIDI-PYRENEES,Lannemezan,Hautes-Pyr%C3%A9n%C3%A9es
+U6506,Centre de distribution de Vic en Bigorre,4016,65,\N,\N,\N,Vic en Bigorre,Hautes-Pyr%C3%A9n%C3%A9es
+U6601,Epicerie sociale de Vinca,804,66,DD DES PYRENEES-ORIENTALES,91,LANGUEDOC-ROUSSILLON,Vinca,Pyr%C3%A9n%C3%A9es-Orientales
+U6602,Epicerie sociale de Perpignan,802,66,DD DES PYRENEES-ORIENTALES,91,LANGUEDOC-ROUSSILLON,Perpignan,Pyr%C3%A9n%C3%A9es-Orientales
+U6603,Centre de distribution de Rivesaltes,2648,66,\N,\N,\N,Rivesaltes,Pyr%C3%A9n%C3%A9es-Orientales
+U6701,Centre distribution de Saverne,817,67,DD DU BAS-RHIN,42,ALSACE,Saverne,Bas-Rhin
+U6702,Centre de distribution d'Erstein,810,67,\N,\N,\N,Erstein,Bas-Rhin
+U6703,Centre de distribution de Molsheim,813,67,\N,\N,\N,Molsheim,Bas-Rhin
+U6704,Centre de distribution Strasbourg,821,67,\N,\N,\N,Strasbourg,Bas-Rhin
+U6705,Centre de distribution de Wasselonne,822,67,\N,\N,\N,Wasselonne,Bas-Rhin
+U6801,CD de Mulhouse,832,68,\N,\N,\N,Mulhouse,Haut-Rhin
+U69,DD du Rhone 69,74,69,DD DU RHONE,82,RHONE-ALPES,Rhone 69,Rh%C3%B4ne
+U6901,FERMER - CD Villeurbanne,842,69,DD DU RHONE,82,RHONE-ALPES,Villeurbanne,Rh%C3%B4ne
+U6902,Centre distribution de Lyon 6,837,69,DD DU RHONE,82,RHONE-ALPES,Lyon 6,Rh%C3%B4ne
+U6903,Distribution CAP Villefranche sur Saone,3945,69,DD DU RHONE,82,RHONE-ALPES,Villefranche sur Saone,Rh%C3%B4ne
+U6904,Centre de distribution de Lyon 9,837,69,DD DU RHONE,82,RHONE-ALPES,Lyon 9,Rh%C3%B4ne
+U6905,Centre de distribution de Brignais,3878,69,DD DU RHONE,82,RHONE-ALPES,Brignais,Rh%C3%B4ne
+U6906,Epicerie sociale Villeurbanne,842,69,DD DU RHONE,82,RHONE-ALPES,Villeurbanne,Rh%C3%B4ne
+U6907,Centre distrib St Laurent de Chamousset,3878,69,DD DU RHONE,82,RHONE-ALPES,St Laurent Chamousset,Rh%C3%B4ne
+U6908,Centre distribution St Martin en haut,3878,69,DD DU RHONE,82,RHONE-ALPES,St Martin en haut,Rh%C3%B4ne
+U6909,Samu social de Lyon,837,69,DD DU RHONE,82,RHONE-ALPES,Lyon,Rh%C3%B4ne
+U6910,Centre de distribution Thizy les Bourgs,3945,69,DD DU RHONE,82,RHONE-ALPES,Thizy les Bourgs,Rh%C3%B4ne
+U6911,Centre de distribution de Tarare,3945,69,\N,\N,\N,Tarare,Rh%C3%B4ne
+U70,Distribution CAP DD Vesoul,75,70,DD DE HAUTE-SAONE,43,FRANCHE-COMTE,Vesoul,Haute-Sa%C3%B4ne
+U7001,Centre de distribution d'Hericourt,846,70,DD DE HAUTE-SAONE,43,FRANCHE-COMTE,Hericourt,Haute-Sa%C3%B4ne
+U7002,Centre de Distribution de Gray,845,70,DD DE HAUTE-SAONE,43,FRANCHE-COMTE,Gray,Haute-Sa%C3%B4ne
+U7003,Centre de Distribution de Plancher les M,847,70,DD DE HAUTE-SAONE,43,FRANCHE-COMTE,Plancher les M,Haute-Sa%C3%B4ne
+U7004,Centre de Distribution de Lure,847,70,DD DE HAUTE-SAONE,43,FRANCHE-COMTE,Lure,Haute-Sa%C3%B4ne
+U7005,Centre distribution de Vesoul,851,70,DD DE HAUTE-SAONE,43,FRANCHE-COMTE,Vesoul,Haute-Sa%C3%B4ne
+U7006,Centre de distribution Luxeuil les Bains,848,70,DD DE HAUTE-SAONE,43,FRANCHE-COMTE,Luxeuil les Bains,Haute-Sa%C3%B4ne
+U7007,Centre de distribution de Jussey,851,70,DD DE HAUTE-SAONE,43,FRANCHE-COMTE,Jussey,Haute-Sa%C3%B4ne
+U7008,Centre de distribution St Loup sur Semou,848,70,DD DE HAUTE-SAONE,43,FRANCHE-COMTE,St Loup sur Semou,Haute-Sa%C3%B4ne
+U7009,Centre distribution itinerant Haute-saon,851,70,DD DE HAUTE-SAONE,43,FRANCHE-COMTE,itinerant Haute-saon,Haute-Sa%C3%B4ne
+U7101,EBM St Pantaleon,852,71,DD DE SAONE-ET-LOIRE,26,BOURGOGNE,St Pantaleon,Sa%C3%B4ne-et-Loire
+U7102,Centre de distribution de Macon,860,71,DD DE SAONE-ET-LOIRE,26,BOURGOGNE,Macon,Sa%C3%B4ne-et-Loire
+U7103,Epicerie sociale de Macon,860,71,DD DE SAONE-ET-LOIRE,26,BOURGOGNE,Macon,Sa%C3%B4ne-et-Loire
+U7104,Samu social de Chalon sur Saone,853,71,DD DE SAONE-ET-LOIRE,26,BOURGOGNE,Chalon sur Saone,Sa%C3%B4ne-et-Loire
+U7105,Centre de distribution Le Creusot,859,71,DD DE SAONE-ET-LOIRE,26,BOURGOGNE,Le Creusot,Sa%C3%B4ne-et-Loire
+U7106,Centre de distribution Cluny,854,71,DD DE SAONE-ET-LOIRE,26,BOURGOGNE,Cluny,Sa%C3%B4ne-et-Loire
+U7107,Centre distribution Montceau-Les-Mines,861,71,DD DE SAONE-ET-LOIRE,26,BOURGOGNE,Montceau-Les-Mines,Sa%C3%B4ne-et-Loire
+U7108,Centre de distribution  Pierre-de-Bresse,863,71,DD DE SAONE-ET-LOIRE,26,BOURGOGNE,Pierre-de-Bresse,Sa%C3%B4ne-et-Loire
+U7201,Centre de distribution Le Mans,870,72,DD DE LA SARTHE,52,PAYS-DE-LA-LOIRE,Le Mans,Sarthe
+U7202,Centre de distribution de la Fleche,868,72,DD DE LA SARTHE,52,PAYS-DE-LA-LOIRE,la Fleche,Sarthe
+U7203,Centre de distribution Le Lude,869,72,DD DE LA SARTHE,52,PAYS-DE-LA-LOIRE,Le Lu,Sarthe
+U73,DD Savoie,78,73,DT DE LA SAVOIE,82,RHONE-ALPES,Savoie,Savoie
+U7301,Centre de distribution de la Rochette,3986,73,DT DE LA SAVOIE,82,RHONE-ALPES,la Rochette,Savoie
+U7302,Distribution CAP de Modane,3991,73,DT DE LA SAVOIE,82,RHONE-ALPES,Modane,Savoie
+U7303,Distribution CAP Chambery,3986,73,DT DE LA SAVOIE,82,RHONE-ALPES,Chambery,Savoie
+U7304,Distribution CAP Moutiers Tarentaise,3986,73,DT DE LA SAVOIE,82,RHONE-ALPES,Moutiers Tarentaise,Savoie
+U7305,Centre de distribution Aix les Bains,3988,73,DT DE LA SAVOIE,82,RHONE-ALPES,Aix les Bains,Savoie
+U7306,Centre de distribution Albertville,3986,73,DT DE LA SAVOIE,82,RHONE-ALPES,Albertville,Savoie
+U7307,Centre distribution Pont de Beauvoisin,3986,73,DT DE LA SAVOIE,82,RHONE-ALPES,Pont Beauvoisin,Savoie
+U74,DD Haute Savoie,79,74,DD DE LA HAUTE-SAVOIE,82,RHONE-ALPES,Haute Savoie,Haute-Savoie
+U7401,Centre distribution Anthy sur Leman,888,74,DD DE LA HAUTE-SAVOIE,82,RHONE-ALPES,Anthy sur Leman,Haute-Savoie
+U7402,Centre distribution La Roche sur Foron,886,74,DD DE LA HAUTE-SAVOIE,82,RHONE-ALPES,La Roche sur Foron,Haute-Savoie
+U7403,Samu social de Thonon les Bains,888,74,DD DE LA HAUTE-SAVOIE,82,RHONE-ALPES,Thonon les Bains,Haute-Savoie
+U7404,Centre de distribution d'Annecy,883,74,DD DE LA HAUTE-SAVOIE,82,RHONE-ALPES,Annecy,Haute-Savoie
+U7405,Epicerie sociale Rumilly,883,74,DD DE LA HAUTE-SAVOIE,82,RHONE-ALPES,Rumilly,Haute-Savoie
+U7501,Epicerie sociale de Paris 15,903,75,DD DE PARIS,11,ILE-DE-FRANCE,Paris 15,Paris
+U7502,Samu social de Paris 15,903,75,DD DE PARIS,11,ILE-DE-FRANCE,Paris 15,Paris
+U7503,Epicerie sociale de Paris 12,900,75,DD DE PARIS,11,ILE-DE-FRANCE,Paris 12,Paris
+U7601,Centre de distribution Fecamp,3946,76,DD DE LA SEINE-MARITIME,23,HAUTE-NORMANDIE,Fecamp,Seine-Maritime
+U7602,A DEFINIR (CAP),914,76,DD DE LA SEINE-MARITIME,23,HAUTE-NORMANDIE,NON RENSEIGNE,Seine-Maritime
+U7603,FERME Centre distribution Dieppe,914,76,DD DE LA SEINE-MARITIME,23,HAUTE-NORMANDIE,distribution Dieppe,Seine-Maritime
+U7604,Centre de Distrib. Havre Pre Fleuri,923,76,DD DE LA SEINE-MARITIME,23,HAUTE-NORMANDIE,Distrib. Havre Pre Fleuri,Seine-Maritime
+U7605,Centre de Distribution Havre Aplemont,923,76,DD DE LA SEINE-MARITIME,23,HAUTE-NORMANDIE,Havre Aplemont,Seine-Maritime
+U7606,Centre de Distribution Havre Briand,923,76,DD DE LA SEINE-MARITIME,23,HAUTE-NORMANDIE,Havre Briand,Seine-Maritime
+U7607,Centre distribution Saint Romain,923,76,DD DE LA SEINE-MARITIME,23,HAUTE-NORMANDIE,Saint Romain,Seine-Maritime
+U7608,Centre distribution Havre Lamartine,923,76,DD DE LA SEINE-MARITIME,23,HAUTE-NORMANDIE,Havre Lamartine,Seine-Maritime
+U7609,Centre de distribution de Lillebonne,3949,76,DD DE LA SEINE-MARITIME,23,HAUTE-NORMANDIE,Lillebonne,Seine-Maritime
+U7610,Centre distribution Gournay en Bray,922,76,DD DE LA SEINE-MARITIME,23,HAUTE-NORMANDIE,Gournay en Bray,Seine-Maritime
+U7611,Centre distribution Criquetot Hesneval,3946,76,DD DE LA SEINE-MARITIME,23,HAUTE-NORMANDIE,Criquetot Hesneval,Seine-Maritime
+U7612,Centre de distribution d'Eu,3948,76,DD DE LA SEINE-MARITIME,23,HAUTE-NORMANDIE,Eu,Seine-Maritime
+U7613,Centre de distribution de Fauville,3949,76,\N,\N,\N,Fauville,Seine-Maritime
+U7701,Centre de distribution Nemours,3956,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Nemours,Seine-et-Marne
+U7702,Centre de distribution de Meaux,944,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Meaux,Seine-et-Marne
+U7703,Centre distribution de Montereau,947,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Montereau,Seine-et-Marne
+U7704,Centre distribution La Ferte ss Jouarre,3957,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,La Ferte ss Jouarre,Seine-et-Marne
+U7705,Centre de distribution de Combs la Ville,930,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Combs la Ville,Seine-et-Marne
+U7706,Centre distribution de Verneuil-l'Etang,3958,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Verneuil-l'Etang,Seine-et-Marne
+U7707,Centre de distribution de Mormant,3958,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Mormant,Seine-et-Marne
+U7708,Centre de distribution de Guignes,3958,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Guignes,Seine-et-Marne
+U7709,Centre distribution Donnemarie-Dontilly,937,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Donnemarie-Dontilly,Seine-et-Marne
+U7710,A DEFINIR - Entrepot,930,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,- ,Seine-et-Marne
+U7711,Centre distribution de Melun,945,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Melun,Seine-et-Marne
+U7712,Centre de distribution de Rebais,3957,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Rebais,Seine-et-Marne
+U7714,Centre de distribution Tournan en Brie,955,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Tournan en Brie,Seine-et-Marne
+U7719,Centre de distribution de Fontainebleau,3956,77,DD DE LA SEINE-ET-MARNE,11,ILE-DE-FRANCE,Fontainebleau,Seine-et-Marne
+U7720,Centre de distribution Fontenay Tresigny,3958,77,\N,\N,\N,Fontenay Tresigny,Seine-et-Marne
+U78,DD Yvelines,83,78,DD DES YVELINES,11,ILE-DE-FRANCE,Yvelines,Yvelines
+U7801,Epicerie Sociale Chatou,960,78,DD DES YVELINES,11,ILE-DE-FRANCE,Chatou,Yvelines
+U7802,Entrepot de Maurepas,971,78,DD DES YVELINES,11,ILE-DE-FRANCE,Maurepas,Yvelines
+U7803,Epicerie de Trappes,971,78,DD DES YVELINES,11,ILE-DE-FRANCE,Trappes,Yvelines
+U7804,Epicerie sociale d'Elancourt,971,78,DD DES YVELINES,11,ILE-DE-FRANCE,Elancourt,Yvelines
+U7805,FERME CD Montigny Bretonneux,971,78,DD DES YVELINES,11,ILE-DE-FRANCE,Montigny Bretonneux,Yvelines
+U7806,Samu social de Guyancourt,971,78,DD DES YVELINES,11,ILE-DE-FRANCE,Guyancourt,Yvelines
+U7807,Centre de distribution VIROFLAY,982,78,DD DES YVELINES,11,ILE-DE-FRANCE,VIROFLAY,Yvelines
+U7808,Centre de distribution de Versailles,980,78,DD DES YVELINES,11,ILE-DE-FRANCE,Versailles,Yvelines
+U7809,Centre distribution La Celle Saint Cloud,966,78,DD DES YVELINES,11,ILE-DE-FRANCE,La Celle Saint Cloud,Yvelines
+U7810,Centre de distribution de Meulan,972,78,DD DES YVELINES,11,ILE-DE-FRANCE,Meulan,Yvelines
+U7811,Centre de distribution de Chevreuse,961,78,DD DES YVELINES,11,ILE-DE-FRANCE,Chevreuse,Yvelines
+U7812,Centre de distribution de Poissy,974,78,DD DES YVELINES,11,ILE-DE-FRANCE,Poissy,Yvelines
+U7901,Centre distribution de Parthenay,987,79,DD DES DEUX-SEVRES,54,POITOU-CHARENTES,Parthenay,Deux-S%C3%A8vres
+U7902,Epicerie sociale de St Maixent-l'Ecole,988,79,DD DES DEUX-SEVRES,54,POITOU-CHARENTES,St Maixent-l'Ecole,Deux-S%C3%A8vres
+U7903,Epicerie sociale de Prahecq,986,79,DD DES DEUX-SEVRES,54,POITOU-CHARENTES,Prahecq,Deux-S%C3%A8vres
+U7904,Epicerie sociale de Niort,986,79,DD DES DEUX-SEVRES,54,POITOU-CHARENTES,Niort,Deux-S%C3%A8vres
+U7905,Centre distribution de Bressuire,983,79,DD DES DEUX-SEVRES,54,POITOU-CHARENTES,Bressuire,Deux-S%C3%A8vres
+U7906,Centre distribution de Thouars,989,79,DD DES DEUX-SEVRES,54,POITOU-CHARENTES,Thouars,Deux-S%C3%A8vres
+U7907,Epicerie sociale de Chef-Boutonne,985,79,DD DES DEUX-SEVRES,54,POITOU-CHARENTES,Chef-Boutonne,Deux-S%C3%A8vres
+U7908,Epicerie sociale de Melle,985,79,DD DES DEUX-SEVRES,54,POITOU-CHARENTES,Melle,Deux-S%C3%A8vres
+U7910,Epicerie sociale de Thouars,84,79,DD DES DEUX-SEVRES,54,POITOU-CHARENTES,Thouars,Deux-S%C3%A8vres
+U80,DD de la Somme,85,80,DD DE LA SOMME,22,PICARDIE,Somme,Somme
+U8001,Centre de distribution d'Amiens,992,80,DD DE LA SOMME,22,PICARDIE,Amiens,Somme
+U8002,Espace bebe maman d'Amiens,992,80,DD DE LA SOMME,22,PICARDIE,Amiens,Somme
+U8003,Centre de distribution Abbeville,990,80,DD DE LA SOMME,22,PICARDIE,Abbeville,Somme
+U8004,Distribution CAP de Roye,1002,80,DD DE LA SOMME,22,PICARDIE,Roye,Somme
+U8005,Accueil de jour Amiens,992,80,DD DE LA SOMME,22,PICARDIE,Amiens,Somme
+U8006,A DEFINIR,992,80,DD DE LA SOMME,22,PICARDIE,NON RENSEIGNE,Somme
+U8007,Centre distribution de Chaulnes,993,80,DD DE LA SOMME,22,PICARDIE,Chaulnes,Somme
+U8008,Centre de distribution de Peronne,1000,80,DD DE LA SOMME,22,PICARDIE,Peronne,Somme
+U8009,Centre de distribution de Ham,996,80,DD DE LA SOMME,22,PICARDIE,Ham,Somme
+U8010,Centre de distribution de Rue,1003,80,DD DE LA SOMME,22,PICARDIE,Rue,Somme
+U8011,Centre de distribution de Bernaville,995,80,DD DE LA SOMME,22,PICARDIE,Bernaville,Somme
+U8012,Centre de distribution de Rosieres,1001,80,DD DE LA SOMME,22,PICARDIE,Rosieres,Somme
+U8013,Centre distribution de Nesle,999,80,DD DE LA SOMME,22,PICARDIE,Nesle,Somme
+U8014,Centre distribution de Montdidier,998,80,DD DE LA SOMME,22,PICARDIE,Montdidier,Somme
+U8015,Centre distribution de Doullens,995,80,DD DE LA SOMME,22,PICARDIE,Doullens,Somme
+U8016,Centre de distribution Amiens Mozart,992,80,DD DE LA SOMME,22,PICARDIE,Amiens Mozart,Somme
+U81,DD du Tarn,86,81,DD DU TARN,73,MIDI-PYRENEES,Tarn,Tarn
+U8101,Centre de distribution de Gaillac,1010,81,DD DU TARN,73,MIDI-PYRENEES,Gaillac,Tarn
+U8102,Centre de distribution de Realmont,1015,81,DD DU TARN,73,MIDI-PYRENEES,Realmont,Tarn
+U8103,Centre de distribution de Lavaur,1013,81,DD DU TARN,73,MIDI-PYRENEES,Lavaur,Tarn
+U8104,FERMER CD de Mazamet,1008,81,DD DU TARN,73,MIDI-PYRENEES,Mazamet,Tarn
+U8105,Centre de distribution de Castres,1008,81,DD DU TARN,73,MIDI-PYRENEES,Castres,Tarn
+U8106,Centre de distribution de Graulhet,1011,81,DD DU TARN,73,MIDI-PYRENEES,Graulhet,Tarn
+U8107,Centre de distribution d'Albi,1006,81,DD DU TARN,73,MIDI-PYRENEES,Albi,Tarn
+U8201,Centre de distribution Valence d'Agen,1025,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Valence d'Agen,Tarn-et-Garonne
+U8202,Samu social de Montauban,1022,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Montauban,Tarn-et-Garonne
+U8203,Epicerie sociale de Moissac,1021,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Moissac,Tarn-et-Garonne
+U8204,A DEFINIR (CAP),87,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,NON RENSEIGNE,Tarn-et-Garonne
+U8205,Centre de distribution de Montauban,1022,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Montauban,Tarn-et-Garonne
+U8206,Centre de distribution de Beaumont de Lo,1017,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Beaumont Lo,Tarn-et-Garonne
+U8208,Centre distribution de Castelsarrasin,1018,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Castelsarrasin,Tarn-et-Garonne
+U8209,Centre de distribution de Verdun sur G,1026,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Verdun sur G,Tarn-et-Garonne
+U8210,Centre de distribution de Montech,1023,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Montech,Tarn-et-Garonne
+U8211,Centre de distribution Caussade,1019,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Caussa,Tarn-et-Garonne
+U8212,Centre de distribution Lafrancaise,1020,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Lafrancaise,Tarn-et-Garonne
+U8213,A DEFINIR (CAP),87,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,NON RENSEIGNE,Tarn-et-Garonne
+U8214,Centre de distribution de St Antonin Nob,1024,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,St Antonin Nob,Tarn-et-Garonne
+U8215,Centre de distribution de Grisolles,1022,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Grisolles,Tarn-et-Garonne
+U8216,Centre de distribution Moissac,1021,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Moissac,Tarn-et-Garonne
+U8217,Centre distribution Montaigu de Quercy,1021,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Montaigu Quercy,Tarn-et-Garonne
+U8218,Centre de distribution de Lavit,1017,82,DD DU TARN-ET-GARONNE,73,MIDI-PYRENEES,Lavit,Tarn-et-Garonne
+U8301,Centre de distribution de Toulon,4026,83,DT DU VAR,93,PROVENCE-ALPES-COTE-D AZUR,Toulon,Var
+U8302,Distribution CAP de Fayence,4020,83,DT DU VAR,93,PROVENCE-ALPES-COTE-D AZUR,Fayence,Var
+U8303,Distribution CAP de Frejus,4021,83,DT DU VAR,93,PROVENCE-ALPES-COTE-D AZUR,Frejus,Var
+U8304,FERME CAP de Brignoles,4014,83,DT DU VAR,93,PROVENCE-ALPES-COTE-D AZUR,Brignoles,Var
+U8305,FERME CAP Bormes les Mimosas,4018,83,DT DU VAR,93,PROVENCE-ALPES-COTE-D AZUR,Bormes les Mimosas,Var
+U8306,FERME Samu social de St Maximin,4024,83,DT DU VAR,93,PROVENCE-ALPES-COTE-D AZUR,St Maximin,Var
+U8307,Centre distribution de Draguignan,4019,83,DT DU VAR,93,PROVENCE-ALPES-COTE-D AZUR,Draguignan,Var
+U8308,FERME Samu social de Draguignan,4019,83,DT DU VAR,93,PROVENCE-ALPES-COTE-D AZUR,Draguignan,Var
+U8309,FERME Centre distribution Ollioules,4017,83,DT DU VAR,93,PROVENCE-ALPES-COTE-D AZUR,distribution Ollioules,Var
+U8310,FERME CD de Ste Maxime,4022,83,DT DU VAR,93,PROVENCE-ALPES-COTE-D AZUR,Ste Maxime,Var
+U8311,FERME CAP de Hyeres,4023,83,DT DU VAR,93,PROVENCE-ALPES-COTE-D AZUR,Hyeres,Var
+U8401,FERME ES d'Avignon,1040,84,DD DU VAUCLUSE,93,PROVENCE-ALPES-COTE-D AZUR,Avignon,Vaucluse
+U8402,Centre de distribution d'Avignon,1040,84,DD DU VAUCLUSE,93,PROVENCE-ALPES-COTE-D AZUR,Avignon,Vaucluse
+U8403,Centre de distribution d'Orange,1045,84,DD DU VAUCLUSE,93,PROVENCE-ALPES-COTE-D AZUR,Orange,Vaucluse
+U8404,Centre distribution de l'Isle sur Sorgue,1044,84,DD DU VAUCLUSE,93,PROVENCE-ALPES-COTE-D AZUR,Isle sur Sorgue,Vaucluse
+U8405,Centre distribution de Cavaillon,1044,84,DD DU VAUCLUSE,93,PROVENCE-ALPES-COTE-D AZUR,Cavaillon,Vaucluse
+U8406,Centre de Distribution de Carpentras,1042,84,DD DU VAUCLUSE,93,PROVENCE-ALPES-COTE-D AZUR,Carpentras,Vaucluse
+U8407,Centre de distribution d'Apt,1039,84,DD DU VAUCLUSE,93,PROVENCE-ALPES-COTE-D AZUR,Apt,Vaucluse
+U8408,Maraude L'Isle-sur-la-Sorgue,1044,84,\N,\N,\N,L'Isle-sur-la-Sorgue,Vaucluse
+U8409,Centre de distribution de Bollene,1041,84,\N,\N,\N,Bollene,Vaucluse
+U8501,Distribution CAP d'Herbiers,2527,85,DD DU VENDEE,52,PAYS-DE-LA-LOIRE,Herbiers,Vend%C3%A9e
+U8502,Espace bebe maman de la Roche sur Yon,1051,85,DD DU VENDEE,52,PAYS-DE-LA-LOIRE,la Roche sur Yon,Vend%C3%A9e
+U8503,Centre distribution Fontenay le Comte,1050,85,DD DU VENDEE,52,PAYS-DE-LA-LOIRE,Fontenay le Comte,Vend%C3%A9e
+U8504,Centre de distribution Challans,1049,85,DD DU VENDEE,52,PAYS-DE-LA-LOIRE,Challans,Vend%C3%A9e
+U8505,Samu social des Sables d'Olonne,1052,85,DD DU VENDEE,52,PAYS-DE-LA-LOIRE,des Sables d'Olonne,Vend%C3%A9e
+U8506,Distribution CAP des Sables d'Olonne,1052,85,DD DU VENDEE,52,PAYS-DE-LA-LOIRE,des Sables d'Olonne,Vend%C3%A9e
+U8507,Distribution CAP de Lucon,1053,85,DD DU VENDEE,52,PAYS-DE-LA-LOIRE,Lucon,Vend%C3%A9e
+U8601,Centre de distribution de Chatellerault,1054,86,DD DE LA VIENNE,54,POITOU-CHARENTES,Chatellerault,Vienne
+U8602,Samu Social de Poitiers,1060,86,DD DE LA VIENNE,54,POITOU-CHARENTES,Poitiers,Vienne
+U8603,Centre de distribution Poitiers,1060,86,DD DE LA VIENNE,54,POITOU-CHARENTES,Poitiers,Vienne
+U87,DD de Haute Vienne,92,87,DD DE LA HAUTE-VIENNE,74,LIMOUSIN,Haute Vienne,Haute-Vienne
+U8701,Centre distribution Magnac Laval,1070,87,DD DE LA HAUTE-VIENNE,74,LIMOUSIN,Magnac Laval,Haute-Vienne
+U8702,Distribution CAP St Sulpice les feuilles,1078,87,DD DE LA HAUTE-VIENNE,74,LIMOUSIN,St Sulpice les feuilles,Haute-Vienne
+U8703,Centre de distribution d'Ambazac,1062,87,DD DE LA HAUTE-VIENNE,74,LIMOUSIN,Ambazac,Haute-Vienne
+U8704,Centre de distribution de Bellac,1063,87,DD DE LA HAUTE-VIENNE,74,LIMOUSIN,Bellac,Haute-Vienne
+U8705,Centre distribution St Yrieix la Perche,4223,87,DD DE LA HAUTE-VIENNE,74,LIMOUSIN,St Yrieix la Perche,Haute-Vienne
+U8706,Centre de distribution de Nantiat,1071,87,DD DE LA HAUTE-VIENNE,74,LIMOUSIN,Nantiat,Haute-Vienne
+U8707,Centre distribution Chateauponsac,1065,87,DD DE LA HAUTE-VIENNE,74,LIMOUSIN,Chateauponsac,Haute-Vienne
+U8708,Centre de distribution de Limoges,1068,87,DD DE LA HAUTE-VIENNE,74,LIMOUSIN,Limoges,Haute-Vienne
+U8709,Samu social de Limoges,1068,87,DD DE LA HAUTE-VIENNE,74,LIMOUSIN,Limoges,Haute-Vienne
+U8710,Centre distribution St Just Le Martel,3953,87,\N,\N,\N,St Just Le Martel,Haute-Vienne
+U8801,Centre de distribution de Fraize,4033,88,DT DES VOSGES,41,LORRAINE,Fraize,Vosges
+U8802,Centre de distribution du Thillot,4036,88,DT DES VOSGES,41,LORRAINE,Thillot,Vosges
+U8803,Centre de distribution de Neufchateau,4037,88,DT DES VOSGES,41,LORRAINE,Neufchateau,Vosges
+U8804,Centre de distribution de Vittel,4044,88,DT DES VOSGES,41,LORRAINE,Vittel,Vosges
+U8805,Centre distribution St Die des Vosges,4042,88,DT DES VOSGES,41,LORRAINE,St Die des Vosges,Vosges
+U8806,Centre distribution Saulxures/Moselotte,4040,88,DT DES VOSGES,41,LORRAINE,Saulxures/Moselotte,Vosges
+U8807,Centre distribution Gerardmer,4034,88,DT DES VOSGES,41,LORRAINE,Gerardmer,Vosges
+U8808,Centre de distribution d'Epinal,4032,88,DT DES VOSGES,41,LORRAINE,Epinal,Vosges
+U8809,Centre distribution Thaon les Vosges,4043,88,DT DES VOSGES,41,LORRAINE,Thaon les Vosges,Vosges
+U8810,FERME Centre distribution Remiremont,4039,88,DT DES VOSGES,41,LORRAINE,distribution Remiremont,Vosges
+U8811,Centre de distribution de Bruyeres,4029,88,DT DES VOSGES,41,LORRAINE,Bruyeres,Vosges
+U8812,Centre distribution de Raon l'Etape,4038,88,DT DES VOSGES,41,LORRAINE,Raon l'Etape,Vosges
+U8813,Centre de distribution de Contrexeville,4031,88,DT DES VOSGES,41,LORRAINE,Contrexeville,Vosges
+U8901,Centre de distribution d'Avallon,1108,89,DD DE L YONNE,26,BOURGOGNE,Avallon,Yonne
+U8902,Centre de distribution d'Auxerre,1107,89,DD DE L YONNE,26,BOURGOGNE,Auxerre,Yonne
+U8903,Centre de distribution de Joigny,1111,89,DD DE L YONNE,26,BOURGOGNE,Joigny,Yonne
+U8904,Samu social de Migennes,1111,89,DD DE L YONNE,26,BOURGOGNE,Migennes,Yonne
+U8905,Centre de distribution de Migennes,1111,89,DD DE L YONNE,26,BOURGOGNE,Migennes,Yonne
+U8906,Centre de distribution de St Florentin,4027,89,DD DE L YONNE,26,BOURGOGNE,St Florentin,Yonne
+U8907,Centre de distribution de Sens,2461,89,DD DE L YONNE,26,BOURGOGNE,Sens,Yonne
+U9001,Centre de distribution de Belfort,95,90,DT DU TERRITOIRE-DE-BELFORT,43,FRANCHE-COMTE,Belfort,Territoire%20de%20Belfort
+U9002,Centre de distribution de Delle,95,90,DT DU TERRITOIRE-DE-BELFORT,43,FRANCHE-COMTE,Delle,Territoire%20de%20Belfort
+U9003,Centre de distribution de Giromagny,95,90,DT DU TERRITOIRE-DE-BELFORT,43,FRANCHE-COMTE,Giromagny,Territoire%20de%20Belfort
+U9101,Centre de distribution d'Etampes,1130,91,DD DE L ESSONNE,11,ILE-DE-FRANCE,Etampes,Essonne
+U9102,Centre distribution Corbeil-Essonnes,1126,91,DD DE L ESSONNE,11,ILE-DE-FRANCE,Corbeil-Essonnes,Essonne
+U9103,Epicerie Sociale de Courcouronnes,1132,91,DD DE L ESSONNE,11,ILE-DE-FRANCE,Courcouronnes,Essonne
+U9104,Centre de distribution St Michel / Orge,2474,91,\N,\N,\N,St Michel / Orge,Essonne
+U9105,Centre distribution St Germain/Arpajon,1121,91,DD DE L ESSONNE,11,ILE-DE-FRANCE,St Germain/Arpajon,Essonne
+U9106,Centre de distribution Viry Chatillon,1149,91,\N,\N,\N,Viry Chatillon,Essonne
+U9201,Centre distribution de Neuilly sur Seine,1173,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,Neuilly sur Seine,Hauts-de-Seine
+U9202,Samu social de Boulogne Billancourt,1155,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,Boulogne Billancourt,Hauts-de-Seine
+U9203,Espace bebe maman Boulogne Billancourt,1155,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,Boulogne Billancourt,Hauts-de-Seine
+U9204,Samu social Puteaux,1175,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,Puteaux,Hauts-de-Seine
+U9205,Distribution CAP de Boulogne Billancourt,1155,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,Boulogne Billancourt,Hauts-de-Seine
+U9206,Espace bebe maman de Puteaux,1175,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,Puteaux,Hauts-de-Seine
+U9207,A DEFINIR (CD),1163,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,NON RENSEIGNE,Hauts-de-Seine
+U9208,Epicerie sociale de Suresnes,1180,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,Suresnes,Hauts-de-Seine
+U9209,Samu social de Suresnes,1180,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,Suresnes,Hauts-de-Seine
+U9210,Samu Social de Courbevoie,1163,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,Courbevoie,Hauts-de-Seine
+U9211,Epicerie Sociale de Courbevoie,1163,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,Courbevoie,Hauts-de-Seine
+U9212,Distribution de CAP de Chatenay Malabry,1157,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,Chatenay Malabry,Hauts-de-Seine
+U9213,Samu social de Clamart,1160,92,DD DES HAUTS-DE-SEINE,11,ILE-DE-FRANCE,Clamart,Hauts-de-Seine
+U9301,Centre de distribution Pre Saint Gervais,1197,93,DD DE SEINE-SAINT-DENIS,11,ILE-DE-FRANCE,Pre Saint Gervais,Seine-Saint-Denis
+U9302,Centre de Distribution de Sevran,1207,93,DD DE SEINE-SAINT-DENIS,11,ILE-DE-FRANCE,Sevran,Seine-Saint-Denis
+U9303,Centre distribution de la Courneuve,2477,93,DD DE SEINE-SAINT-DENIS,11,ILE-DE-FRANCE,la Courneuve,Seine-Saint-Denis
+U9304,Centre Distribution de Bondy,1187,93,DD DE SEINE-SAINT-DENIS,11,ILE-DE-FRANCE,Bondy,Seine-Saint-Denis
+U9305,Epicerie Sociale de Noisy le Sec,1198,93,DD DE SEINE-SAINT-DENIS,11,ILE-DE-FRANCE,Noisy le Sec,Seine-Saint-Denis
+U9306,Centre de distribution de l'Ourcq,1209,93,DD DE SEINE-SAINT-DENIS,11,ILE-DE-FRANCE,Ourcq,Seine-Saint-Denis
+U9307,Centre distribution Neuilly / Rosny,1202,93,DD DE SEINE-SAINT-DENIS,11,ILE-DE-FRANCE,Neuilly / Rosny,Seine-Saint-Denis
+U9308,Centre distribution du Bourget,1192,93,DD DE SEINE-SAINT-DENIS,11,ILE-DE-FRANCE,Bourget,Seine-Saint-Denis
+U9314,Epicerie sociale de Drancy,1192,93,DD DE SEINE-SAINT-DENIS,11,ILE-DE-FRANCE,Drancy,Seine-Saint-Denis
+U9315,Centre de distribution Dugny,1192,93,DD DE SEINE-SAINT-DENIS,11,ILE-DE-FRANCE,Dugny,Seine-Saint-Denis
+U9316,Centre de distribution Livry Gargan,98,93,DD DE SEINE-SAINT-DENIS,11,ILE-DE-FRANCE,Livry Gargan,Seine-Saint-Denis
+U9317,Centre de distribution de Le Raincy,98,93,\N,\N,\N,Le Raincy,Seine-Saint-Denis
+U9318,A DEFINIR,1209,93,\N,\N,\N,NON RENSEIGNE,Seine-Saint-Denis
+U9401,Centre de distribution Vitry-sur-Seine,1242,94,DD DU VAL-DE-MARNE,11,ILE-DE-FRANCE,Vitry-sur-Seine,Val-de-Marne
+U9402,Centre de distribution Villeneuve-le-Roi,3641,94,DD DU VAL-DE-MARNE,11,ILE-DE-FRANCE,Villeneuve-le-Roi,Val-de-Marne
+U9403,Centre distribution Le Plessis Trevise,3932,94,\N,\N,\N,Le Plessis Trevise,Val-de-Marne
+U9404,Centre de distribution Ivry sur Seine,1226,94,\N,\N,\N,Ivry sur Seine,Val-de-Marne
+U95,DD de Val d'Oise,100,95,DD DU VAL-D OISE,11,ILE-DE-FRANCE,Val d'Oise,Val-d%27Oise
+U9501,Distribution CAP Eaubonne,3700,95,DD DU VAL-D OISE,11,ILE-DE-FRANCE,Eaubonne,Val-d%27Oise
+U9502,A DEFINIR,100,95,DD DU VAL-D OISE,11,ILE-DE-FRANCE,NON RENSEIGNE,Val-d%27Oise
+U9503,Centre distribution Soisy ss Montmorency,3701,95,DD DU VAL-D OISE,11,ILE-DE-FRANCE,Soisy ss Montmorency,Val-d%27Oise
+U9504,Centre de distribution d'Argenteuil,1244,95,DD DU VAL-D OISE,11,ILE-DE-FRANCE,Argenteuil,Val-d%27Oise
+U9505,Accueil de jour d'Ezanville,1249,95,DD DU VAL-D OISE,11,ILE-DE-FRANCE,Ezanville,Val-d%27Oise
+U9506,Centre distribution St Brice S/Foret,1249,95,DD DU VAL-D OISE,11,ILE-DE-FRANCE,St Brice S/Foret,Val-d%27Oise
+U9507,Centre de distribution de Pontoise,1263,95,DD DU VAL-D OISE,11,ILE-DE-FRANCE,Pontoise,Val-d%27Oise
+U9508,Centre de distribution de Bezons,1244,95,DD DU VAL-D OISE,11,ILE-DE-FRANCE,Bezons,Val-d%27Oise
+U9509,Centre de distribution de Montmorency,3701,95,\N,\N,\N,Montmorency,Val-d%27Oise
+U9510,Centre de distribution de Sarcelles,3699,95,\N,\N,\N,Sarcelles,Val-d%27Oise
+U9511,CD de Taverny,1271,95,\N,\N,\N,Taverny,Val-d%27Oise
+U971A,Samu social Les Abymes,4228,971,DT DE LA GUADELOUPE,01,Guadeloupe,Les Abymes,Guadeloupe
+U971B,Distribution CAP Les Abymes,102,971,DT DE LA GUADELOUPE,01,Guadeloupe,Les Abymes,Guadeloupe
+U972A,Epicerie sociale de Saint Pierre,4065,972,DT DE LA REUNION,02,Martinique,Saint Pierre,Martinique
+U974A,Centre distribution de St Denis,4061,974,DT DE LA REUNION,04,Reunion,St Denis,La%20R%C3%A9union
+U974B,Samu social de St Denis,4061,974,DT DE LA REUNION,04,Reunion,St Denis,La%20R%C3%A9union
+U974C,Accueil de jour de St Denis,4061,974,DT DE LA REUNION,04,Reunion,St Denis,La%20R%C3%A9union
+U974D,Centre de distribution de Saint-Benoit,4063,974,DT DE LA REUNION,04,Reunion,Saint-Benoit,La%20R%C3%A9union
+U974E,Accueil de jour de Saint-Benoit,4063,974,DT DE LA REUNION,04,Reunion,Saint-Benoit,La%20R%C3%A9union
+U974F,Samu social de Saint-Benoit,4063,974,DT DE LA REUNION,04,Reunion,Saint-Benoit,La%20R%C3%A9union
+
