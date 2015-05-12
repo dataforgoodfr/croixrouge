@@ -40,5 +40,8 @@ Pour en savoir plus sur les données mises à disposition par la Croix Rouge, [l
 
 ### Vous souhaitez contribuer ? 
 
+- Remplissez [ce formulaire d'inscription](https://martindaniel.typeform.com/to/n8tYUc) pour accéder aux données.   
+
 - Choisissez un problème à résoudre au sein de nos [issues](https://github.com/dataforgoodfr/croixrouge/issues). Utilisez les commentaires pour nous faire part de vos idées. 
+
 - Complètez la documentation que nous réalisons au sein du [Wiki](https://github.com/dataforgoodfr/croixrouge/wiki)
