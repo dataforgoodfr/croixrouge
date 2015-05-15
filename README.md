@@ -36,7 +36,7 @@ Data For Good se propose ainsi:
 
 Depuis 2010, l'Europe a imposé aux associations une stricte traçabilité des produits qu'elles distribuent. Cela signifie qu'elles disposent d'un historique structuré et détaillé de leur activité que nous pouvons analyser. 
 
-Pour en savoir plus sur les données mises à disposition par la Croix Rouge, [lire notre Wiki](https://github.com/dataforgoodfr/croixrouge/wiki/Description-des-tables)
+Pour en savoir plus sur les données mises à disposition par la Croix Rouge, [lire notre Wiki](https://github.com/dataforgoodfr/croixrouge/wiki/Description-des-tables-Croix-Rouge)
 
 ### Vous souhaitez contribuer ? 
 
