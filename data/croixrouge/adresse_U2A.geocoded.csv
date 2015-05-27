@@ -1,0 +1,835 @@
+Code U2A;Libellé U2A;Action menée;Adresse;latitude;longitude;result_address;result_score;result_type;result_id
+A1;Siège;Entrepôt pour aide matérielle;98 rue Didot   75014 PARIS 14EME ARRONDISSEMENT;48.832753;2.325672;14e Arrondissement;0.39;city;75114
+E0101;Entrepôt de Saint Nizier le Désert;Entrepôt pour aide matérielle;3 rue Henry Dunant   1000 BOURG EN BRESSE;46.212381;5.228761;3 Rue Henri Dunant 01000 Bourg-en-Bresse;0.78;housenumber;01053_1860_9b4ea4
+E0901;Entrepôt dept. Ariège;Entrepôt pour aide matérielle;9 avenue du 11 novembre   9600 Laroque-d'Olmes;42.969885;1.866361;9 Avenue du 11 Novembre 1918 09600 Laroque-d'Olmes;0.77;housenumber;09157_0039_e18eb4
+E1101;Entrepôt dept. Carcassonne;Entrepôt pour aide matérielle;18 rue de l'industrie   11800 TREBES;43.20669;2.419186;18 Rue de l'Industrie 11800 Trèbes;0.91;housenumber;11397_0123_3d8aec
+E1301;Entrepôt d'Aix en Provence;Entrepôt pour aide matérielle;1070 rue du Lieutenant Pareyre   13290 LES MILLES;;;;;;
+E3001;Entrepôt de Beaucaire;Entrepôt pour aide matérielle;16, Rue de la Placette   30300 Beaucaire;43.807912;4.646769;16 Rue de la Placette 30300 Beaucaire;0.92;housenumber;30032_0860_5ea923
+E3002;Entrepôt de Nimes;Entrepôt pour aide matérielle;2160 chemin de Bachas   30000 NIMES;43.811189;4.37163;2160 Chemin du Bachas 30000 Nîmes;0.83;housenumber;30189_0745_9457ab
+E5601;A DEFINIR;Centre de Distribution Alimentaire;  6-8 rue François Robin 56100 LORIENT;47.751612;-3.380022;8 Rue François Robin 56100 Lorient;0.88;housenumber;56121_2177_dd55d9
+E5602;Entrepôt du Morbihan;Entrepôt pour aide matérielle;6-8 rue François Robin   56100 LORIENT;47.751612;-3.380022;8 Rue François Robin 56100 Lorient;0.88;housenumber;56121_2177_dd55d9
+E5901;Entrepôt de Lomme;Entrepôt pour aide matérielle;60 rue Destombes .  59160 LOMME;50.645059;3.006093;60 Rue Destombes 59160 Lille;0.71;housenumber;59350_9424_e13d74
+E6201;Entrepôt de Saint Omer;Entrepôt pour aide matérielle;Entrepôt Gillias   62500 Saint Omer;50.751346;2.256874;Rue Allent 62500 Saint-Omer;0.5;street;62765_0070_6e079e
+E6202;Entrepôt de Lens;Entrepôt pour aide matérielle;  176 avenue Van Pelt 62300 Lens;50.430654;2.845914;176 Avenue Alfred Van Pelt 62300 Lens;0.76;housenumber;62498_0090_e5aa1a
+E7001;Entrepôt des alliés Vesoul;Entrepôt pour aide matérielle;78 bd des Alliés   70000 Vesoul;47.618972;6.165417;78 Boulevard des Alliés 70000 Vesoul;0.71;housenumber;70550_0040_dba377
+E7301;Entrepôt dept. Savoie;Entrepôt pour aide matérielle;4 rue Alice Eynard   73100 Aix-les-Bains;45.694196;5.903178;4 Rue Alice Eynard 73100 Aix-les-Bains;0.92;housenumber;73008_0060_066709
+E7701;Entrepôt de Limoges Fourches;Entrepôt pour aide matérielle;Rue de Bougainville prolongée   77550 Limoges Fourches;48.626049;2.682126;Rue de Bougainville 77550 Limoges-Fourches;0.73;street;77252_0020_58c967
+E7702;Entrepôt de Mareuil les Meaux;Entrepôt pour aide matérielle;Village d'Entreprises de Mareuil 832 avenue du Général de Gaulle Bloc 836 77100 MAREUIL LES MEAUX;;;;;;
+E7801;A DEFINIR;Centre de Distribution Alimentaire;9 rue du général Exelmans   78140 VELIZY VILLACOUBLAY;48.781258;2.201203;9 Rue du Général Exelmans 78140 Vélizy-Villacoublay;0.92;housenumber;78640_0229_baadf9
+E7802;Entrepôt de Velizy;Entrepôt pour aide matérielle;9 rue du Général Exelmans   78140 VELIZY VILLACOUBLAY;48.781258;2.201203;9 Rue du Général Exelmans 78140 Vélizy-Villacoublay;0.92;housenumber;78640_0229_baadf9
+E8201;Entrepôt Montauban;Entrepôt pour aide matérielle;830 Bd Blaise Doumerc   82000 MONTAUBAN;44.019372;1.362834;830 Boulevard Blaise Doumerc 82000 Montauban;0.76;housenumber;82121_0830_1f3020
+E8202;Entrepôt de Moissac;Entrepôt pour aide matérielle;  8 Rue Daubasse 82200 Moissac;44.102185;1.088908;8 Rue Daubasse 82200 Moissac;0.92;housenumber;82112_1290_e6b2bb
+E8801;Entrepôt dept. des Vosges;Entrepôt pour aide matérielle;115 rue Neuve Grange Saint-Laurent  88000 EPINAL;48.14637;6.46304;115 Rue Neuve Grange 88000 Épinal;0.66;housenumber;88160_XXXX_3bc805
+E9001;Entrepôt de Belfort;Entrepôt pour aide matérielle;15 Av sarail   90000 BELFORT;47.635423;6.861775;15 Avenue du Général Sarrail 90000 Belfort;0.55;housenumber;90010_1790_795406
+E9403;Entrepôt de Limeil Brevannes;Entrepôt pour aide matérielle;  2 RUE ALBERT GARRY 94450 LIMEIL BREVANNES;48.754182;2.477818;2 Rue Albert Garry 94450 Limeil-Brévannes;0.92;housenumber;94044_XXXX_b553d9
+E9501;Entrepôt dept. Val d'Oise;Entrepôt pour aide matérielle;1 BIS, Rue HENRI DUNANT   95460 EZANVILLE;49.035022;2.342539;1BIS Rue Henri Dunant 95460 Ézanville;0.84;housenumber;95229_0249_85a0cd
+U01;DD de l'Ain;Distribution de chèques;3 rue Henri Dunant   1000 BOURG EN BRESSE;46.212381;5.228761;3 Rue Henri Dunant 01000 Bourg-en-Bresse;0.86;housenumber;01053_1860_9b4ea4
+U0101;Centre distribution de Belley;Centre de Distribution Alimentaire;    ;;;;;;
+U0102;Centre distribution Villars les Dombes;Centre de Distribution Alimentaire;35, Rue PAUL DUPERRIER   1330 Villars les Dombes;46.000227;5.028039;35 Rue Marcel Paul Duperrier 01330 Villars-les-Dombes;0.75;housenumber;01443_XXXX_cc04a3
+U0103;Centre distribution Montrevel en Bresse;Centre de Distribution Alimentaire;15 rue de la Gare   1340 Montrevel en Bresse;46.335977;5.127872;15 Rue de la Gare 01340 Montrevel-en-Bresse;0.86;housenumber;01266_0050_de4a0f
+U0104;Centre distrib Châtillon sur Chalaronne;Centre de Distribution Alimentaire;Impasse des Hortensias   1400 Châtillon sur Chalaronne;46.121829;4.956587;Impasse des Hortensias 01400 Châtillon-sur-Chalaronne;0.87;street;01093_0213_5b60df
+U0105;Centre distribution Hauteville Lompnes;Centre de Distribution Alimentaire;116 rue masonod   1110 HAUTEVILLE LOMPNES;45.978318;5.600061;116 Rue Masonod 01110 Hauteville-Lompnes;0.85;housenumber;01185_0410_be1fae
+U0106;Centre de distribution de Bellegarde;Centre de Distribution Alimentaire;13 rue Viala   1200 Bellegarde;46.105829;5.826916;13 Rue Viala 01200 Bellegarde-sur-Valserine;0.56;housenumber;01033_0549_2c59f3
+U0107;Centre distribution Montmerle sur Saône;Centre de Distribution Alimentaire;29 rue des Minimes   1090 Montmerle sur Saône;46.082104;4.757226;29 Rue des Minimes 01090 Montmerle-sur-Saône;0.85;housenumber;01263_0280_3ad03d
+U0108;FERME CD d'Artemare;Centre de Distribution Alimentaire;Gymnase d'Artemare Rue Plâtre  1510 Artemare;;;;;;
+U0109;Centre de distribution Culoz;Centre de Distribution Alimentaire;Clos Poncet   1350 Culoz;45.848342;5.777966;Avenue Antonin Poncet 01350 Culoz;0.4;street;01138_0140_dccb9c
+U0110;Centre de distribution de Thoissey;Centre de Distribution Alimentaire;20, Faubourg des Dombes   1140  Thoissey;46.172985;4.803946;20 Rue Faubourg des Dombes 01140 Thoissey;0.77;housenumber;01420_XXXX_05e9d9
+U0111;Centre distribution de Virieu le Grand;Centre de Distribution Alimentaire;126  route de Lyon BP01  1510 Virieu le Grand;45.848243;5.649865;126 Route de Lyon 01510 Virieu-le-Grand;0.8;housenumber;01452_0033_2d7fc9
+U0112;Centre distribution de Vonnas;Centre de Distribution Alimentaire;RESIDENCE LE TRIOLET Rue Anne-Marie Crolet  1540 Vonnas;;;;;;
+U0113;FERMER - CD de Coligny;Centre de Distribution Alimentaire;Mairie de Coligny   1270 Coligny;;;;;;
+U0114;Centre de distribution de Trevoux;Centre de Distribution Alimentaire;82 Grande Rue   1600 Trevoux;45.941893;4.772089;82 Grande Rue 01600 Trévoux;0.82;housenumber;01427_0520_6f9795
+U0115;Centre distribution Pont de Vaux;Centre de Distribution Alimentaire;L'Arquebuse   1190 PONT DE VAUX;46.430025;4.94283;Rue de l'Arquebuse 01190 Pont-de-Vaux;0.67;street;01305_0055_f64e6b
+U0116;Centre distribution de Bâgé-la-Ville;Centre de Distribution Alimentaire;Salle de Fêtes de Bourg   1380 Bage la Ville;;;;;;
+U0117;FERMER CD Prévessins-Moes;Centre de Distribution Alimentaire;453 route du Nant   1280 PREVESSIN-MOENS;46.249234;6.088783;453 Route du Nant 01280 Prévessin-Moëns;0.84;housenumber;01313_0074_0d0fbd
+U0118;Epicerie sociale Prévessin-Moëns;Epicerie sociale;453 route de Nant   1280 Prévessin-Moëns;46.249234;6.088783;453 Route du Nant 01280 Prévessin-Moëns;0.76;housenumber;01313_0074_0d0fbd
+U0119;Centre Distribution de Bourg en Bresse;Centre de Distribution Alimentaire;1 Boulevard des Belges   1000 Bourg en Bresse;46.207046;5.231765;1 Avenue des Belges 01000 Bourg-en-Bresse;0.58;housenumber;01053_0420_0f9136
+U0120;Centre de distribution de Savigneux;Centre de Distribution Alimentaire;Le Bourg   1480 SAVIGNEUX;45.636283;4.07915;Barge 42600 Savigneux;0.37;locality;42299_B002_116315
+U0121;Centre de distribution de Lagnieu;Centre de Distribution Alimentaire;14 rue du Docteur MEHIER   1150 LAGNIEU;45.90384;5.349583;14 Rue du Docteur Mehier 01150 Lagnieu;0.85;housenumber;01202_XXXX_1e7203
+U0122;Centre de distribution de Meximieux;Centre de Distribution Alimentaire;11, rue des stades   1800 MEXIMIEUX;45.899815;5.192733;11 Rue des Stades 01800 Meximieux;0.84;housenumber;01244_0752_7fda02
+U0123;Centre de distribution de Miribel;Centre de Distribution Alimentaire;32 passage du Lavoir   1700 MIRIBEL;45.823281;4.951849;32 Passage du Lavoir 01700 Miribel;0.84;housenumber;01249_0251_cff788
+U0124;Centre distribution St Rambert en Bugey;Centre de Distribution Alimentaire;13 Rue de l' Europe   1230 Saint Rambert en Bugey;45.94314;5.432589;Avenue de l'Europe 01230 Saint-Rambert-en-Bugey;0.73;street;01384_0119_4c0db1
+U02;DD de l'Aisne;Distribution de chèques;26, Rue CRONSTADT   2100 ST QUENTIN;49.838918;3.303541;26 Rue de Cronstadt 02100 Saint-Quentin;0.69;housenumber;02691_1540_cbe422
+U0201;Centre distribution de Villers-Cotterêts;Centre de Distribution Alimentaire;23, Rue DEMOUSTIER   2600 VILLERS COTTERETS;49.252758;3.089545;23 Rue Demoustier 02600 Villers-Cotterêts;0.86;housenumber;02810_0150_e49451
+U0202;Centre distribution de St Quentin;Centre de Distribution Alimentaire;26, Rue DE CRONSTADT   2100 ST QUENTIN;49.838918;3.303541;26 Rue de Cronstadt 02100 Saint-Quentin;0.75;housenumber;02691_1540_cbe422
+U0203;Epicerie sociale de Château-Thierry;Epicerie sociale;15, Avenue de la république   2400 Château-Thierry;49.039914;3.40732;15 Avenue de la République 02400 Château-Thierry;0.88;housenumber;02168_1030_29e40b
+U0204;Centre de distribution de Guisé;Centre de Distribution Alimentaire;62 rue Andre Godin   2120 GUISE;49.901946;3.626389;62 Rue André Godin 02120 Guise;0.84;housenumber;02361_0040_9d3e13
+U0205;Centre de distribution de Chauny;Centre de Distribution Alimentaire;37 rue du Général Leclerc   2300 CHAUNY;49.61439;3.2165;37 Rue du Général Leclerc 02300 Chauny;0.85;housenumber;02173_0620_4a4be9
+U0206;Centre de distribution de Laon;Centre de Distribution Alimentaire;26 rue Léon Nanquette   2000 LAON;49.568386;3.616478;26 Rue Léon Nanquette 02000 Laon;0.85;housenumber;02408_1550_5e8917
+U0207;Centre de distribution de Soissons;Centre de Distribution Alimentaire;6 rue Porte Hozanne   2200 SOISSONS;49.383768;3.322894;6 Rue Porte Hozanne 02200 Soissons;0.85;housenumber;02722_1770_8a723e
+U0208;Centre de distribution de Tergnier;Centre de Distribution Alimentaire;16 rue Victor Hugo   2700 TERGNIER;49.022032;1.143507;16 Rue Victor Hugo 27000 Évreux;0.58;housenumber;27229_3400_966f26
+U0209;A DEFINIR (CD);Centre de Distribution Alimentaire;  37 rue du Général Leclerc 2300 Chauny;49.61439;3.2165;37 Rue du Général Leclerc 02300 Chauny;0.85;housenumber;02173_0620_4a4be9
+U0210;Centre distribution Vervins;Centre de Distribution Alimentaire;52 rue des moulins   2140  VERVINS;49.832678;3.909584;52 Rue des Moulins 02140 Vervins;0.84;housenumber;02789_0170_b86fb0
+U0211;Distribution CAP de Saint Quentin;Distribution de chèques;26 rue de Cronstadt   2100 Saint Quentin;49.838918;3.303541;26 Rue de Cronstadt 02100 Saint-Quentin;0.87;housenumber;02691_1540_cbe422
+U0301;Centre de distribution de Vichy;Centre de Distribution Alimentaire;3 rue de l'Imprimerie   3200 VICHY;46.129158;3.432017;3 Rue de l'Imprimerie 03200 Vichy;0.85;housenumber;03310_1630_1048e8
+U0302;Centre de distribution de Moulins;Centre de Distribution Alimentaire;Route de Decize   3000 MOULINS;46.580507;3.333343;Route de Decize 03000 Moulins;0.82;street;03190_0679_357c87
+U04;DD Alpes Haute Provence;Distribution de chèques;18 rue Aubin   4000 Digne;44.088952;6.233538;18 Rue Georges Aubin 04000 Digne-les-Bains;0.48;housenumber;04070_XXXX_e266d9
+U0401;Centre distribution de Digne les Bains;Centre de Distribution Alimentaire;18 rue Aubin   4000 Digne;44.088952;6.233538;18 Rue Georges Aubin 04000 Digne-les-Bains;0.48;housenumber;04070_XXXX_e266d9
+U0402;Centre distribution de Manosque;Centre de Distribution Alimentaire;Imm les Heures CLAIRES rue des Heures CLAIRES  4100 MANOSQUE;;;;;;
+U0403;Centre de distribution de Sisteron;Centre de Distribution Alimentaire;5 cours Melchior Donnet   4200 SISTERON;44.200066;5.943943;5 Cours Melchior Donnet 04200 Sisteron;0.85;housenumber;04209_0940_c0a939
+U0404;Centre de distribution du Verdon;Centre de Distribution Alimentaire;Place Jean Marie Candray   4370 BEAUVEZER;44.129135;6.592991;Le Plan 04370 Beauvezer;0.39;locality;04025_B054_e5932f
+U05;DD des Hautes Alpes;Distribution de chèques;28, Rue DE VALSERRES   5000 GAP;44.554461;6.078668;28 Rue de Valserres 05000 Gap;0.84;housenumber;05061_2240_021d94
+U0501;Centre de distribution de Laragne;Centre de Distribution Alimentaire;Croix Rouge Française délégation locale de Laragne 10 rue du Chateau 5300 LARAGNE;44.314789;5.822206;10 Rue du Château 05300 Laragne-Montéglin;0.33;housenumber;05070_0062_8640e7
+U0502;FERME CD de Veynes;Centre de Distribution Alimentaire;1 rue Anatole France   5400 VEYNES;44.535469;5.826261;1 Rue Anatole France 05400 Veynes;0.84;housenumber;05179_0008_dd4c2a
+U0503;Centre de distribution de Gap;Centre de Distribution Alimentaire;78 route de Ste Marguerite   5000 GAP;44.543714;6.072086;78 Route de Sainte-Marguerite 05000 Gap;0.76;housenumber;05061_1981_a35321
+U0504;Centre distribution de Guillestre;Centre de Distribution Alimentaire;Tour SIVOM   5600 GUILLESTRE;44.662159;6.649721;5600 La Longeagne 05600 Guillestre;0.3;housenumber;05065_B060_8612d9
+U0505;Centre distribution d'Embrun;Centre de Distribution Alimentaire;Place DE L'ARCHEVECHE  BP 84 5200 EMBRUN;44.562606;6.494722;Rue de l'Archevêché 05200 Embrun;0.59;street;05046_0012_dd03af
+U0506;FERME CD de Briançon;Centre de Distribution Alimentaire;Rue Jean Moulin   5100 BRIANCON;44.892463;6.630977;Avenue Jean Moulin 05100 Briançon;0.71;street;05023_0454_7bb03f
+U0507;Distribution itinérante de Gap;Centre de Distribution Alimentaire;28 rue de Valserres   5000 Gap;44.554461;6.078668;28 Rue de Valserres 05000 Gap;0.84;housenumber;05061_2240_021d94
+U0508;Samu social de Gap;Samu social;Route de Sainte-Marguerite   5000 Gap;44.545982;6.075241;Route de Sainte-Marguerite 05000 Gap;0.86;street;05061_1981_a35321
+U0509;Samu social d'Embrun;Samu social;Place de l'archevêché   5200 Embrun;44.562606;6.494722;Rue de l'Archevêché 05200 Embrun;0.69;street;05046_0012_dd03af
+U06;DD des Alpes Maritimes;Distribution de chèques;658 boulevard Jean Ossola   6700 ST LAURENT DU VAR;43.665999;7.190257;658 Boulevard Jean Ossola 06700 Saint-Laurent-du-Var;0.79;housenumber;06123_0480_537412
+U0601;Centre distribution de Vence;Centre de Distribution Alimentaire;20, Rue DE STAMFORD   6140 VENCE;43.722104;7.108962;20 Rue de Stamford 06140 Vence;0.83;housenumber;06157_XXXX_404660
+U0602;Centre distribution de St Laurent du Var;Centre de Distribution Alimentaire;996, Avenue DU GENERAL DE GAULLE   6700 ST LAURENT DU VAR;43.671163;7.19062;996 Avenue du Général de Gaulle 06700 Saint-Laurent-du-Var;0.81;housenumber;06123_0396_88dad2
+U0603;Centre de distribution Cagnes-sur-Mer;Centre de Distribution Alimentaire;25 Avenue Auguste Renoir   6800 Cagnes-sur-Mer;43.664887;7.151277;25 Avenue Auguste Renoir 06800 Cagnes-sur-Mer;0.87;housenumber;06027_0120_24133d
+U0604;Centre de distribution Villeneuve-Loubet;Centre de Distribution Alimentaire;1 Avenue des Rives   6270 VILLENEUVE LOUBET;43.642315;7.134204;1 Avenue des Rives 06270 Villeneuve-Loubet;0.85;housenumber;06161_0655_048fd1
+U0605;Centre distribution de Valbonne;Centre de Distribution Alimentaire;4 rue Louis  Funel   6560 Valbonne;43.622855;7.04764;4 Rue Louis Funel 06560 Valbonne;0.83;housenumber;06152_1023_9aae7f
+U0606;Centre de distribution de Beausoleil;Centre de Distribution Alimentaire;7 rue Jules Ferry   6240 BEAUSOLEIL;43.743093;7.424635;7 Rue Jules Ferry 06240 Beausoleil;0.84;housenumber;06012_0320_1d59fe
+U0607;Centre distribution de Cannes;Centre de Distribution Alimentaire;11, Rue MARCEAU   6400 CANNES;43.553126;7.023502;11 Rue Marceau 06400 Cannes;0.82;housenumber;06029_2270_64dc70
+U0608;Centre Distribution Antibes;Centre de Distribution Alimentaire;6 rue de l'Isle   6600 Antibes;43.579968;7.124585;6 Rue de l'Isle 06600 Antibes;0.83;housenumber;06004_1620_28135d
+U0609;Centre de distribution de Biot;Centre de Distribution Alimentaire;11 rue du Portugon   6410 BIOT;43.626924;7.098577;11 Rue du Portugon 06410 Biot;0.82;housenumber;06018_0610_a8703c
+U0610;Samu social de Biot;Samu social;11 rue du Portugon   6410 BIOT;43.626924;7.098577;11 Rue du Portugon 06410 Biot;0.82;housenumber;06018_0610_a8703c
+U0611;Centre distribution de Grasse;Centre de Distribution Alimentaire;4 avenue de Chiris   6130 Grasse;43.658574;6.926743;4 Avenue Chiris 06130 Grasse;0.76;housenumber;06069_0990_c970ce
+U0612;Centre distribution Villefranche sur mer;Centre de Distribution Alimentaire;3, Avenue GENERAL DE GAULLE   6230 VILLEFRANCHE SUR MER;43.702421;7.309117;3 Avenue du Général de Gaulle 06230 Villefranche-sur-Mer;0.83;housenumber;06159_XXXX_98a7de
+U0613;Samu social de St Laurent du Var;Samu social;658 bd Jean Ossola   6700 ST LAURENT DU VAR;43.665999;7.190257;658 Boulevard Jean Ossola 06700 Saint-Laurent-du-Var;0.64;housenumber;06123_0480_537412
+U0614;Centre de distribution de Nice;Centre de Distribution Alimentaire;2 ruelle Saint-François   6000 NICE;43.698741;7.278474;2 Ruelle Saint-François 06300 Nice;0.74;housenumber;06088_5750_fcacc5
+U0615;Epicerie Sociale de Nice;Epicerie sociale;65 boulevard Borriglione   6100 NICE;43.716675;7.261284;65 Avenue Borriglione 06100 Nice;0.51;housenumber;06088_0910_1acec8
+U0616;Maraude de Menton;Samu social;CROIX ROUGE FRANCAISE DL DE MENTON / RCM 40 RUE DE PARTOUNEAUX 6500 MENTON;43.774699;7.500771;40 Rue Partouneaux 06500 Menton;0.37;housenumber;06083_1085_9cf13e
+U0617;Centre de distribution de Menton;Centre de Distribution Alimentaire;40 rue de Partoureaux   6500 Menton;43.774699;7.500771;40 Rue Partouneaux 06500 Menton;0.67;housenumber;06083_1085_9cf13e
+U0618;Centre de distribution de Carros;Centre de Distribution Alimentaire;27, rue des arbousiers   6510 CARROS;43.774672;7.189721;27 Rue des Arbousiers 06510 Carros;0.84;housenumber;06033_0040_4f9ed5
+U0619;Maraude de Carros;Samu social;27, rue des arbousiers   6510 CARROS;43.774672;7.189721;27 Rue des Arbousiers 06510 Carros;0.84;housenumber;06033_0040_4f9ed5
+U07;DD Ardèche;Distribution de chèques;1278 rue Henri Dunand   7500 GUILHERAND GRANGES;44.940362;4.866297;1278 Rue Henri Dunant 07500 Guilherand-Granges;0.78;housenumber;07102_0208_109f00
+U0701;Centre de distribution d'Annonay;Centre de Distribution Alimentaire;11, Boulevard DE LA REPUBLIQUE   7100 ANNONAY;45.241328;4.674104;11 Boulevard de la République 07100 Annonay;0.86;housenumber;07010_1940_4be754
+U0702;Centre distribution de Lamastre;Centre de Distribution Alimentaire;Les abattoirs Route de Tournon  7270 LAMASTRE;;;;;;
+U0703;Centre de distribution de Vernoux;Centre de Distribution Alimentaire;13 Rue Antonin Calixte   7240 Vernoux-en-Vivarais;44.89605;4.645822;13 Rue Antonin Calixte 07240 Vernoux-en-Vivarais;0.86;housenumber;07338_XXXX_10c283
+U0704;Centre distribution de Vals les Bains;Centre de Distribution Alimentaire;10 BIS, Boulevard DE VERNON   7600 VALS LES BAINS;44.664382;4.366989;10BIS Boulevard de Vernon 07600 Vals-les-Bains;0.81;housenumber;07331_0330_167ba8
+U0705;Samu social de Vals les Bains;Samu social;10 BIS, Boulevard DE VERNON   7600 VALS LES BAINS;44.664382;4.366989;10BIS Boulevard de Vernon 07600 Vals-les-Bains;0.81;housenumber;07331_0330_167ba8
+U0706;Centre de distribution de Le Pouzin;Centre de Distribution Alimentaire;Croix Rouge Française   7250 BP 46   LE POUZIN;;;;;;
+U0707;FERMER - CD de Le Teil;Centre de Distribution Alimentaire;12, Boulevard DE STALINGRAD   7400 Le Teil;44.551529;4.684512;12 Boulevard Stalingrad 07400 Le Teil;0.78;housenumber;07319_0820_62cf87
+U0708;Centre distribution de Tournon sur Rhône;Centre de Distribution Alimentaire;18, Rue du Docteur Cadet   7300 TOURNON SUR RHONE;45.06579;4.831736;18 Rue du Docteur Cadet 07300 Tournon-sur-Rhône;0.87;housenumber;07324_XXXX_20c961
+U0709;Samu sociale de Tournon sur Rhône;Samu social;18, Rue du Docteur Cadet   7300 TOURNON SUR RHONE;45.06579;4.831736;18 Rue du Docteur Cadet 07300 Tournon-sur-Rhône;0.87;housenumber;07324_XXXX_20c961
+U0710;A DEFINIR (CAP);Distribution de chèques;1278 Rue HENRI DUNANT   7500 GUILHERAND GRANGES;44.940362;4.866297;1278 Rue Henri Dunant 07500 Guilherand-Granges;0.86;housenumber;07102_0208_109f00
+U0711;Espace bébé maman Le Teil;Espace bébé maman;9 boulevard de Stalingrad   7400 LE TEIL;44.551497;4.684627;9 Boulevard Stalingrad 07400 Le Teil;0.77;housenumber;07319_0820_62cf87
+U0801;Centre distribution Charleville-Mézièrs;Centre de Distribution Alimentaire;38 rue Dubois Crancé   8000 Charleville-Mézièrs;49.770272;4.714529;38 Rue Dubois Crance 08000 Charleville-Mézières;0.82;housenumber;08105_1050_450579
+U0802;Samu social Charleville-Mézièrs;Samu social;Rue Dubois Crancé   8000 Charleville-Mézièrs;49.770519;4.714745;Rue Dubois Crance 08000 Charleville-Mézières;0.82;street;08105_1050_450579
+U0803;Centre distribution de Vouziers;Centre de Distribution Alimentaire;21 rue Henrionnet   8400 Vouziers;49.395358;4.70196;21 Rue Henrionnet 08400 Vouziers;0.84;housenumber;08490_0380_b6c276
+U0804;Centre distribution de Rethel;Centre de Distribution Alimentaire;18 place de Caen   8300 Rethel;49.510214;4.368017;18 Place de Caen 08300 Rethel;0.84;housenumber;08362_0200_04ca1a
+U09;DD de l'Ariège;Centre de Distribution Alimentaire;DD de l'Ariège Plcace de l'Arget  9000 FOIX;42.967077;1.605638;Place de l'Arget 09000 Foix;0.49;street;09122_0055_8d90dc
+U0901;Samu social de Foix;Samu social;11, Boulevard ALSACE LORRAINE   9000 FOIX;42.962068;1.606781;11 Boulevard Alsace Lorraine 09000 Foix;0.87;housenumber;09122_0042_a58180
+U0902;Centre de distribution Laroque-d'Olmes;Centre de Distribution Alimentaire;Espace MERMOZ   9600 Laroque-d'Olmes;;;;;;
+U0903;Centre de distribution de Foix;Centre de Distribution Alimentaire;11, Boulevard ALSACE LORRAINE   9000 FOIX;42.962068;1.606781;11 Boulevard Alsace Lorraine 09000 Foix;0.87;housenumber;09122_0042_a58180
+U0904;Centre de distribution Lavelanet;Centre de Distribution Alimentaire;80, Rue SEBILE   9300 LAVELANET;42.939723;1.854252;80 Rue Sébile 09300 Lavelanet;0.83;housenumber;09160_0650_9626b0
+U0905;Centre de distribution de Pamiers;Centre de Distribution Alimentaire;26 Chemin de la Chartreuse   9100 Pamiers;43.118255;1.619349;26 Chemin de la Chartreuse 09100 Pamiers;0.86;housenumber;09225_0950_78a446
+U0906;Centre distribution Tarascon-sur-Ariège;Centre de Distribution Alimentaire;MAISON DES ASSOCIATIONS Avenue DE L'AYROULE  9400 Tarascon-sur-Ariège;;;;;;
+U0907;Centre de distribution Saint-Girons;Centre de Distribution Alimentaire;1, Rue PAUL BERT   9200 ST GIRONS;42.983248;1.131455;1 Rue Paul Bert 09200 Saint-Girons;0.72;housenumber;09261_0866_64aa6a
+U0908;Centre de distribution du Fossat;Centre de Distribution Alimentaire;avenue de Toulouse   9130 LE FOSSAT;43.175199;1.407226;Route de Toulouse 09130 Le Fossat;0.63;street;09124_0140_40ea0e
+U0909;Centre de distribution Ax-les-Thermes;Centre de Distribution Alimentaire;Immeuble de la résidence Avenue Delcassé  9110 Ax-les-Thermes;;;;;;
+U0910;Centre de distribution Le Mas d'Azil;Centre de Distribution Alimentaire;Grande Rue   9290 Le Mas-d'Azil;43.080802;1.360364;Grande Rue 09290 Le Mas-d'Azil;0.83;street;09181_0015_b0d739
+U0911;Epicerie Sociale itinérante La Roque d'O;Epicerie sociale;avenue Mermoz   9600 La Roque d Olmes;;;;;;
+U1001;Centre de distribution de Bar-sur-Seine;Centre de Distribution Alimentaire;    ;;;;;;
+U1002;Centre de distribution Nogent/Seine;Centre de Distribution Alimentaire;5 avenue du Cardinal   10400 NOGENT SUR SEINE;48.491631;3.512111;5 Avenue du Cardinal 10400 Nogent-sur-Seine;0.93;housenumber;10268_0442_161837
+U1003;A DEFINIR (ES);Epicerie sociale;1 rue de Jargondis   10000 TROYES;48.29575;4.076212;1 Rue de Jargondis 10000 Troyes;0.92;housenumber;10387_2770_a5a24e
+U1004;FERME de d'Arcis-sur-Aube;Centre de Distribution Alimentaire;8 avenue Grassin   10700 Arcis-sur-Aube;48.535879;4.143611;8 Avenue Grassin 10700 Arcis-sur-Aube;0.92;housenumber;10006_XXXX_c437c8
+U1005;Centre distribution de Troyes;Centre de Distribution Alimentaire;18 Rue Louis Morin   10000 TROYES;48.304462;4.091688;18 Rue Louis Morin 10000 Troyes;0.93;housenumber;10387_3210_2b1069
+U1006;Centre de distribution d'Auxon;Centre de Distribution Alimentaire;137 rue du Poulin   10130 AUXON;48.094553;3.904251;137 Rue du Moulin à Sivrey 10130 Auxon;0.61;housenumber;10018_XXXX_700575
+U1007;A DEFINIR (ES);Epicerie sociale;2 rue du Pinchinat   10110 Bar-sur-Seine;48.112526;4.374582;2 Rue du Pinchinat 10110 Bar-sur-Seine;0.92;housenumber;10034_2545_dfeb53
+U1101;A DEFINIR (CD);Centre de Distribution Alimentaire;18 rue de l'Industrie  . 11800 TREBES;43.20669;2.419186;18 Rue de l'Industrie 11800 Trèbes;0.91;housenumber;11397_0123_3d8aec
+U1102;Samu social de Trebes;Samu social;18 rue de l'Industrie   11800 TREBES;43.20669;2.419186;18 Rue de l'Industrie 11800 Trèbes;0.91;housenumber;11397_0123_3d8aec
+U1103;Centre de distribution Carcassonne;Centre de Distribution Alimentaire;2 rue Charles Fourier   11000 CARCASSONNE;43.215785;2.360432;2 Rue Charles Fourier 11000 Carcassonne;0.93;housenumber;11069_0935_ea73f0
+U1104;Samu social de Carcassonne;Samu social;2 rue Charles Fourier   11000 CARCASSONNE;43.215785;2.360432;2 Rue Charles Fourier 11000 Carcassonne;0.93;housenumber;11069_0935_ea73f0
+U1105;Centre de distribution de Lezignan;Centre de Distribution Alimentaire;3 place du 8 mai   11200 LEZIGNAN CORBIERES;43.202053;2.757704;3 Place du 8 Mai 1945 11200 Lézignan-Corbières;0.82;housenumber;11203_XXXX_0db2a0
+U1106;Centre de distribution de Narbonne;Centre de Distribution Alimentaire;28 rue Auguste Limouzi   11100 NARBONNE;43.182867;3.01939;28 Rue Auguste Limouzy 11100 Narbonne;0.84;housenumber;11262_XXXX_33c6db
+U1107;Centre de distribution de Limoux;Centre de Distribution Alimentaire;49 rue du palais   11300 LIMOUX;43.056094;2.216294;49 Rue du Palais 11300 Limoux;0.93;housenumber;11206_1020_206c10
+U12;DD de l'Aveyron;Distribution de chèques;  2 place des toiles 12000 Rodez;44.347684;2.574575;2 Place des Toiles 12000 Rodez;0.93;housenumber;12202_1910_c9040a
+U1201;Samu social de Rodez;Samu social;60 TER ROUTE DE LA MOULINE   12350 OLEMPS;44.333007;2.558976;60TER La Mouline 12510 Olemps;0.52;housenumber;12174_B035_6b89a7
+U1202;Centre de distribution de Rodez;Centre de Distribution Alimentaire;9 Boulevard Denys Puech   12000 RODEZ;44.350059;2.578036;9 Boulevard Denys Puech 12000 Rodez;0.94;housenumber;12202_0550_34544b
+U1203;Distribution CAP de Millau;Distribution de chèques;16 Bd de l'Ayrolle   12100 Millau;44.098716;3.076864;16 Boulevard de l'Ayrolle 12100 Millau;0.72;housenumber;12145_0170_226a8b
+U1204;Distribution CAP de Villefranche de Roue;Distribution de chèques;  18 Bd Charles de Gaulle 12200 Villefranche de Rouergue;44.351068;2.034794;18 Boulevard Charles de Gaulle 12200 Villefranche-de-Rouergue;0.8;housenumber;12300_XXXX_a6e854
+U1301;Centre de distribution d'Arles;Centre de Distribution Alimentaire;2bis rue Condorcet   13200 Arles;43.67966;4.632514;Rue Condorcet 13200 Arles;0.78;street;13004_0950_ec9257
+U1302;Centre de distribution Aix en Provence;Centre de Distribution Alimentaire;32, Cours DES ARTS ET METIERS   13100 Aix en Provence;43.529836;5.453908;32 Cours des Arts et Métiers 13100 Aix-en-Provence;0.93;housenumber;13001_0130_10298b
+U1303;Samu social d'Aix en Provence;Samu social;32 cours des Arts et Métiers Délégation locale d'Aix en Prove  13100 Aix en Provence;;;;;;
+U1304;Centre de distribution de Rognac;Centre de Distribution Alimentaire;60 BOULEVARD JEAN JAURES   13340 ROGNAC;43.48796;5.228595;60 Boulevard Jean Jaurès 13340 Rognac;0.92;housenumber;13081_4200_23af51
+U1305;Centre de distribution d'Aubagne;Centre de Distribution Alimentaire;14 rue d'Isly   13400 AUBAGNE;43.290072;5.57091;Rue d'Isly 13400 Aubagne;0.82;street;13005_0960_fc0acc
+U1306;Centre de distribution de Chateaurenard;Centre de Distribution Alimentaire;14 Bd Gambetta   13160 CHATEAURENARD;43.884929;4.854566;14 Boulevard Gambetta 13160 Châteaurenard;0.73;housenumber;13027_0400_2a2b74
+U1307;Centre distribution d'Istres;Centre de Distribution Alimentaire;66, Avenue Guynemer   13800 ISTRES;43.51806;4.969939;66 Avenue Georges Guynemer 13800 Istres;0.75;housenumber;13047_0380_d5eb3e
+U1308;Epicerie sociale de Marignane;Epicerie sociale;11 rue Lamartine   13700 MARIGNANE;43.416059;5.219991;11 Rue Lamartine 13700 Marignane;0.93;housenumber;13054_0600_9321bd
+U1309;Centre distribution de La Ciotat;Centre de Distribution Alimentaire;4, Rue DES CAPUCINES   13600 La Ciotat;43.176872;5.607173;4 Rue des Capucines 13600 La Ciotat;0.92;housenumber;13028_0330_ae9f88
+U1310;Samu social de la Ciotat;Samu social;    ;;;;;;
+U1311;Centre distribution Marseille Belle de M;Centre de Distribution Alimentaire;8 rue Fortuné Jourdan   13003 MARSEILLE 3EME ARRONDISSE;43.310847;5.385422;8 Rue Fortune Jourdan 13003 Marseille;0.66;housenumber;13203_3647_f73e19
+U1312;Centre distrib de Marseille Simone Sedan;Centre de Distribution Alimentaire;90 boulevard Baille   13005 MARSEILLE 5EME ARRONDISSE;43.287531;5.390292;90 Boulevard Baille 13005 Marseille;0.66;housenumber;13205_0693_6f2487
+U1313;Centre de distribution de Martigues;Centre de Distribution Alimentaire;Place Henri Dunant   13500 Martigues;43.409003;5.039831;Place Henri Dunant, BLC LES FOULETTES BLOC G 13500 Martigues;0.53;locality;13056_A030_2a16bf
+U1314;Centre de distrib Port St Louis du Rhône;Centre de Distribution Alimentaire;HLM Le Vauban   13230 PORT ST LOUIS DU RHONE;43.397248;4.796308;Hlm Vauban 13230 Port-Saint-Louis-du-Rhône;0.76;locality;13078_A003_cf2bec
+U1315;Point alimentaire bébé Aix en provence;Point alimentation bébé;32 cours des arts et métiers   13100 Aix en provence;43.529836;5.453908;32 Cours des Arts et Métiers 13100 Aix-en-Provence;0.93;housenumber;13001_0130_10298b
+U1316;FERMER - CD de Vitrolles;Centre de Distribution Alimentaire;8 place Henri Dunant   13127 VITROLLES;43.438594;5.256316;8 Place Henri Dunant 13127 Vitrolles;0.92;housenumber;13117_1789_1de1af
+U1317;Centre distribution Marseille Caillols;Centre de Distribution Alimentaire;40, chemin des Campanules Centre social des Caillols  13012 MARSEILLE 12EME ARRONDISS;;;;;;
+U1318;Centre de distribution Marseille Panier;Centre de Distribution Alimentaire;17 A rue Saint Antoine   13001 MARSEILLE 1ER ARRONDISSEM;43.298607;5.382329;Marseille 1er Arrondissement;0.48;city;13201
+U1319;Centre de distribution de Marignane;Centre de Distribution Alimentaire;11 rue Lamartine   13700 MARIGNANE;43.416059;5.219991;11 Rue Lamartine 13700 Marignane;0.93;housenumber;13054_0600_9321bd
+U14;DD du Calvados;Distribution de chèques;44 bis Bd du Maréchal Lyautey   14000 CAEN;49.169824;-0.356682;44BIS Boulevard Maréchal Lyautey 14000 Caen;0.66;housenumber;14118_4890_2875b6
+U1401;Centre de distribution de Caen;Centre de Distribution Alimentaire;44 bis boulevard Lyautey   14000 CAEN;49.169824;-0.356682;44BIS Boulevard Maréchal Lyautey 14000 Caen;0.7;housenumber;14118_4890_2875b6
+U1402;Entrepôt de Caen;Entrepôt pour aide matérielle;33 rue du Québec   14000 CAEN;49.167131;-0.388861;33 Rue de Quebec 14000 Caen;0.81;housenumber;14118_6030_eed412
+U1403;Samu social de Caen;Samu social;33 rue du Québec   14000 CAEN;49.167131;-0.388861;33 Rue de Quebec 14000 Caen;0.81;housenumber;14118_6030_eed412
+U1404;Centre distribution St-Pierre-sur-Dives;Centre de Distribution Alimentaire;21, Place du Marché   14170 ST PIERRE SUR DIVES;49.017601;-0.032446;21 Place du Marche 14170 Saint-Pierre-sur-Dives;0.83;housenumber;14654_0860_65aaf0
+U1405;A DEFINIR (ES);Epicerie sociale;6 rue Pierre Colombe   14100 LISIEUX;49.144576;0.222512;6 Rue Pierre Colombe 14100 Lisieux;0.92;housenumber;14366_1190_8fa491
+U1406;Centre distribution Condé sur Noireau;Centre de Distribution Alimentaire;1 Bd du 11 Novembre   14110 Condé sur Noireau;48.848323;-0.552853;1 Boulevard du 11 Novembre 14110 Condé-sur-Noireau;0.76;housenumber;14174_XXXX_63dd40
+U1407;Centre distribution de Vire;Centre de Distribution Alimentaire;10 rue Emile Desvaux   14500 Vire;48.836924;-0.884186;10 Rue Émile Desvaux 14500 Vire;0.93;housenumber;14762_0610_0cac02
+U1408;Centre distribution Aunay-sur-Odon;Centre de Distribution Alimentaire;SALLE DES POMPES, Rte de CONDE   14260 Aunay-sur-Odon;;;;;;
+U1409;Centre de distribution Lisieux;Centre de Distribution Alimentaire;6 rue Pierre Colombe   14100 Lisieux;49.144576;0.222512;6 Rue Pierre Colombe 14100 Lisieux;0.92;housenumber;14366_1190_8fa491
+U1410;Samu social de Lisieux;Samu social;6 rue Pierre Colombe   14100 Lisieux;49.144576;0.222512;6 Rue Pierre Colombe 14100 Lisieux;0.92;housenumber;14366_1190_8fa491
+U1411;Espace bébé maman de Caen;Espace bébé maman;29 rue Barbey-d'Aurevilly   14000 CAEN;49.184671;-0.373686;29 Rue Barbey d'Aurevilly 14000 Caen;0.93;housenumber;14118_0580_e83fd5
+U16;DD de Charente;Distribution de chèques;Delegation departementale Charente Hopital de Girac 16470 ST MICHEL;;;;;;
+U1601;Centre de distribution Angoulême;Centre de Distribution Alimentaire;271 route de Bordeaux   16000 ANGOULEME;45.648169;0.142416;271 Rue de Bordeaux 16000 Angoulême;0.8;housenumber;16015_0660_ebedc8
+U1602;Centre distribution Jarnac;Centre de Distribution Alimentaire;Allée du Pré Vigier ZA de Souillac  16200 JARNAC;;;;;;
+U1603;Centre distribution Rouillac;Centre de Distribution Alimentaire;2 rue Epona   16170 ROUILLAC;45.774652;-0.063082;2 Rue Epona 16170 Rouillac;0.92;housenumber;16286_0029_7744f6
+U1604;Centre distrib de Barbezieux St Hilaire;Centre de Distribution Alimentaire;7, Avenue Charles Virolleaud   16300 BARBEZIEUX ST HILAIRE;45.47571;-0.146701;7 Avenue Charles Virolleau 16300 Barbezieux-Saint-Hilaire;0.8;housenumber;16028_1266_9beb14
+U1605;Centre distribution Villebois-Lavalette;Centre de Distribution Alimentaire;Salle des fêtes Mairie  16320 Villebois-Lavalette;;;;;;
+U1606;Centre distribution Montmoreau St Cybard;Centre de Distribution Alimentaire;Salle de fêtes Mairie Rue H. Dunant  16190 Montmoreau-Saint-Cybard;;;;;;
+U1607;Distribution CAP de Confolens;Distribution de chèques;Cour des Récollets   16500 CONFOLENS;46.013088;0.671376;Rue des Récollets 16500 Confolens;0.75;street;16106_1740_5855a8
+U1608;Distribution CAP de Rochefoucauld;Distribution de chèques;BP 59   16110 LA ROCHEFOUCAULD;45.735821;0.386214;La Ville 16110 La Rochefoucauld;0.58;locality;16281_B071_f3e639
+U1609;Distribution CAP de Roumazières-Loubert;Distribution de chèques;  BP36 16270 Roumazières-Loubert;45.929886;0.563288;Villars 16270 Roumazières-Loubert;0.63;locality;16192_B352_014132
+U1701;Centre de distribution de La Rochelle;Centre de Distribution Alimentaire;9 rue Franc Lapeyre   17000 LA ROCHELLE;46.158331;-1.140655;9 Rue Franck Lapeyre 17000 La Rochelle;0.86;housenumber;17300_4824_790895
+U1702;Centre de distribution de Rochefort;Centre de Distribution Alimentaire;18 rue Chanzy BP 20314  17312 ROCHEFORT;45.941637;-0.95917;18 Rue Antoine Chanzy 17300 Rochefort;0.5;housenumber;17299_XXXX_a3139a
+U1703;A DEFINIR;Epicerie sociale;    ;;;;;;
+U1704;Distribution CAP de Royan;Distribution de chèques;Delegation locale de Royan 117 Bd Georges Clemenceau  17200 ROYAN;45.631478;-1.029959;117 Boulevard Georges Clemenceau 17200 Royan;0.49;housenumber;17306_1491_3d80db
+U1705;Centre de distribution de Saintes;Centre de Distribution Alimentaire;4 place Emile Combes   17100 SAINTES;45.748388;-0.636724;4 Place Émile Combes 17100 Saintes;0.93;housenumber;17415_1258_2994e3
+U1706;Distribution CAP St Jean d'Angely;Centre de Distribution Alimentaire;Croix Rouge Française Délegation locale 1 rue Laurent Tourneur 17400 St Jean D'Angely;45.944702;-0.515741;1 Rue Laurent Tourneur 17400 Saint-Jean-d'Angély;0.48;housenumber;17347_0960_fed30e
+U1801;Centre distribution St Florent / Cher;Centre de Distribution Alimentaire;15 rue Marcel Lafleur   18400 Saint Florent sur cher;46.997856;2.253603;15 Rue Marcel Lafleur 18400 Saint-Florent-sur-Cher;0.91;housenumber;18207_0617_686d80
+U19;DD de la Corrèze;Distribution de chèques;1 Bld Anatole France   19100 BRIVE LA GAILLARDE;45.160654;1.534948;1 Boulevard Anatole France 19100 Brive-la-Gaillarde;0.76;housenumber;19031_0210_3e4996
+U1901;Centre distribution de Meyssac;Centre de Distribution Alimentaire;Grand Rue   19500 MEYSSAC;45.054461;1.673674;Rue Grand'Rue 19500 Meyssac;0.78;street;19138_0007_5257d7
+U1902;Centre distribution de Beynat;Centre de Distribution Alimentaire;Ancienne caserne des pompiers   19190 BEYNAT;;;;;;
+U1903;Centre de distribution de Tulle;Centre de Distribution Alimentaire;Place de la Gare   19000 TULLE;45.265794;1.768851;Rue de la Barrière 19000 Tulle;0.58;street;19272_0170_68db84
+U1904;Samu social de Brive;Samu social;    Brive la Gaillarde;45.158556;1.532553;Brive-la-Gaillarde;0.96;city;19031
+U1905;Accueil de jour de Brive;Centre de Distribution Alimentaire;7 avenue du 11 novembre   19100 BRIVE LA GAILLARDE;45.161022;1.536125;7 Avenue du 11 Novembre 1918 19100 Brive-la-Gaillarde;0.85;housenumber;19031_4921_de4657
+U1906;Centre distribution Brives la Gaillarde;Centre de Distribution Alimentaire;1 Bd Anatole France   19100 BRIVE LA GAILLARDE;45.160654;1.534948;1 Boulevard Anatole France 19100 Brive-la-Gaillarde;0.77;housenumber;19031_0210_3e4996
+U1907;Centre de distribution d'Ussel;Centre de Distribution Alimentaire;20 bis Avenue Pierre Semard   19200 USSEL;45.555778;2.314805;Rue Pierre Semard 19200 Ussel;0.65;street;19275_XXXX_ea7125
+U1908;Centre de distribution itinérant Brive;Centre de Distribution Alimentaire;1, boulevard Anatole France   19100 BRIVE LA GAILLARDE;45.160654;1.534948;1 Boulevard Anatole France 19100 Brive-la-Gaillarde;0.93;housenumber;19031_0210_3e4996
+U2001;Centre de distribution de Folelli;Centre de Distribution Alimentaire;Allée E Fureste Route de la gendarmerie  20213 Folelli;;;;;;
+U2002;Centre de distribution de Corte;Centre de Distribution Alimentaire;Point Social Residence Bertrand Bat L  20250 Corte;;;;;;
+U2003;Centre de distribution de Bastia;Centre de Distribution Alimentaire;9 Boulevard Auguste Gaudin   20200 Bastia;42.694594;9.448457;9 Boulevard Auguste Gaudin 20200 Bastia;0.94;housenumber;2B033_0080_a3a7cd
+U2004;Centre distribution de Porto Vecchio;Centre de Distribution Alimentaire;Place DU PATIO   20137 PORTO VECCHIO;41.559789;9.321601;Cataraccio 20137 Porto-Vecchio;0.55;locality;2A247_B117_31e670
+U2005;Centre distribution d'Ajaccio;Centre de Distribution Alimentaire;Immeuble Procissi avenue du Bataillon de Choc  20090 AJACCIO;41.932905;8.739126;Rue du 1er Bataillon de Choc 20090 Ajaccio;0.55;street;2A004_XXXX_d45743
+U2101;Epicerie sociale Dijon;Epicerie sociale;31 C rue Auguste Blanqui   21000 DIJON;47.344033;5.056084;31 Rue Auguste Blanqui 21000 Dijon;0.89;housenumber;21231_0560_ca1374
+U2102;Samu social de Dijon;Samu social;8 rue des Ribottées   21000 DIJON;47.329867;5.059296;8 Rue des Ribottées 21000 Dijon;0.93;housenumber;21231_7720_f39fd7
+U2103;A DEFINIR;Centre de Distribution Alimentaire;18 rue Celer   21200 BEAUNE;47.020693;4.845674;18 Rue Celer 21200 Beaune;0.93;housenumber;21054_0800_1d2dbc
+U2104;Epicerie sociale de Beaune;Epicerie sociale;18, rue Celer   21200 Beaune;47.020693;4.845674;18 Rue Celer 21200 Beaune;0.93;housenumber;21054_0800_1d2dbc
+U2201;Centre de distribution St Brieuc;Centre de Distribution Alimentaire;7 rue Henry Dunant   22000 ST BRIEUC;48.518277;-2.76292;7 Rue Henri Dunant 22000 Saint-Brieuc;0.72;housenumber;22278_2240_bda440
+U2202;Samu social de St Brieuc;Samu social;7, Rue HENRI DUNANT   22000 ST BRIEUC;48.518277;-2.76292;7 Rue Henri Dunant 22000 Saint-Brieuc;0.81;housenumber;22278_2240_bda440
+U2203;Centre distribution Plestin les Grèves;Centre de Distribution Alimentaire;Place d'Auvelais   22310 PLESTIN LES GREVES;48.653664;-3.631239;Place d'Auvelais 22310 Plestin-les-Grèves;0.92;street;22194_0008_ea65ed
+U2204;Distribution CAP Dinan;Distribution de chèques;Croix Rouge Française Déléguation locale de Dinan Pent  22101 DINAN cedex;;;;;;
+U2205;Samu social de Dinan;Samu social;Croix Rouge Française délégation locale de Dinan  22101 BP 19  DINAN cedex;;;;;;
+U2206;Centre de distribution de Lannion;Centre de Distribution Alimentaire;Croix Rouge Française délégation locale 7 rue Beauchamp 22300 LANNION;48.731705;-3.451;7 Rue de Beauchamp 22300 Lannion;0.43;housenumber;22113_0084_4c620c
+U2207;Distribution CAP de Lamballe;Distribution de chèques;24 place du Champ de Foire   22400 Lamballe;48.471027;-2.516105;24 Place du Champ de Foire 22400 Lamballe;0.93;housenumber;22093_0056_e438ff
+U2208;Centre distribution de Loudéac;Centre de Distribution Alimentaire;3, Rue des écoles   22606 LOUDEAC;48.189609;-2.76572;3 Rue Colles Royer 22600 Loudéac;0.5;housenumber;22136_XXXX_c711b6
+U2209;Epicerie sociale de Dinan;Epicerie sociale;  7 rue Henry Dunant 22000 ST BRIEUC;48.518277;-2.76292;7 Rue Henri Dunant 22000 Saint-Brieuc;0.72;housenumber;22278_2240_bda440
+U2210;Centre de distribution de Paimpol;Centre de Distribution Alimentaire;Centre Dunant   22500 PAIMPOL;48.780228;-3.05216;Rue Henry Dunant 22500 Paimpol;0.62;street;22162_0520_1c2fc3
+U2211;Distribution de CAP Saint Brieuc;Distribution de chèques;7 rue Henry Dunan   22000 ST BRIEUC;48.518277;-2.76292;7 Rue Henri Dunant 22000 Saint-Brieuc;0.66;housenumber;22278_2240_bda440
+U23;DD de la Creuse;Distribution de chèques;11, Rue DE BRACONNE   23000 GUERET;46.166779;1.88181;11 Rue de Braconne 23000 Guéret;0.93;housenumber;23096_0290_9718ac
+U2301;Centre de distribution d'Auzances;Centre de Distribution Alimentaire;27 avenue de la gare   23700 AUZANCES;46.028098;2.496905;27 Avenue de la Gare 23700 Auzances;0.92;housenumber;23013_0075_74b28f
+U2302;Centre de distribution de Boussac;Centre de Distribution Alimentaire;62 rue gare   23600 BOUSSAC;46.350771;2.221577;62 Rue de la Gare 23600 Boussac;0.74;housenumber;23031_0580_2b7da7
+U2303;FERME CD Chambon/Voueize;Centre de Distribution Alimentaire;12 vieille route de Budelière   23170 CHAMBON SUR VOUEIZE;46.189484;2.428451;12 Vieille Route de Budelière 23170 Chambon-sur-Voueize;0.92;housenumber;23045_XXXX_9b3440
+U2304;Centre distribution de Gueret;Centre de Distribution Alimentaire;11, Rue DE BRACONNE   23000 GUERET;46.166779;1.88181;11 Rue de Braconne 23000 Guéret;0.93;housenumber;23096_0290_9718ac
+U2305;Centre distribution de Dun le Palestel;Centre de Distribution Alimentaire;2, Avenue DE VERDUN   23800 DUN LE PALESTEL;46.306051;1.668216;2 Avenue de Verdun 23800 Dun-le-Palestel;0.92;housenumber;23075_0250_d920e8
+U2306;Centre de distribution d'Aubusson;Centre de Distribution Alimentaire;Croix Rouge Française délégation locale d'Aubusson 34 avenue de la République 23200 AUBUSSON;45.952089;2.160134;34 Avenue de la République 23200 Aubusson;0.42;housenumber;23008_0660_815c63
+U2307;Centre distribution de la Souterraine;Centre de Distribution Alimentaire;Rue JULES FERRY   23300 LA SOUTERRAINE;46.236063;1.479373;Rue Jules Ferry 23300 La Souterraine;0.92;street;23176_0810_f8adc1
+U2308;Centre distribution de Bourganeuf;Centre de Distribution Alimentaire;19 ROUTE DE LA CASCADE   23400 BOURGANEUF;45.949356;1.756086;19 Route de la Cascade 23400 Bourganeuf;0.92;housenumber;23030_0100_d07e49
+U2401;Centre de distribution de Sarlat;Centre de Distribution Alimentaire;Croix Rouge Française délégation locale de Sarlat Boulevard Henri Arlet 24200 SARLAT;;;;;;
+U2402;Centre de distribution de Perigueux;Centre de Distribution Alimentaire;30, Rue DES FORGERONS   24000 PERIGUEUX;45.185146;0.712127;30 Rue des Forgerons 24000 Périgueux;0.93;housenumber;24322_1590_0741af
+U2403;Centre distribution de Bergerac;Centre de Distribution Alimentaire;12, Boulevard Beausoleil   24100 BERGERAC;44.853751;0.477941;12 Boulevard Beausoleil 24100 Bergerac;0.93;housenumber;24037_0430_6a4d0c
+U2404;Centre distribution de Riberac;Centre de Distribution Alimentaire;Rue des Mobiles de Coulmiers   24600 RIBERAC;45.244771;0.339093;Rue des Mobiles de Coulmiers 24600 Ribérac;0.92;street;24352_0720_fef849
+U2405;Centre distribution de Mareuil-sur-Belle;Centre de Distribution Alimentaire;rue des Fontaines   24340 Mareuil-sur-Belle;45.45041;0.445936;Rue de Fontaine 24340 Mareuil;0.58;street;24253_0070_ca47fd
+U2406;Centre de distribution de Bugue;Centre de Distribution Alimentaire;2 rue de la boétie   24260 LE BUGUE;44.920243;0.925552;Rue de la Boétie 24260 Le Bugue;0.87;street;24067_0020_c08830
+U2407;Centre distribution de Saint Cyprien;Centre de Distribution Alimentaire;rue du Levret   24220 Saint Cyprien;44.869392;1.045353;Rue du Levret 24220 Saint-Cyprien;0.92;street;24396_0167_6f4b48
+U2408;Centre distribution de Nontron;Centre de Distribution Alimentaire;1 Rue 19 Mars 1962   24300 Nontron;45.537309;0.663944;1 Rue du 19 Mars 1962 24300 Nontron;0.85;housenumber;24311_0357_f8b6e4
+U2409;Centre de distribution de Lolme;Centre de Distribution Alimentaire;Combe de Biron   24540 LOLME;44.701887;0.837739;La Combe de Biron 24540 Lolme;0.81;locality;24244_XXXX_3f53d1
+U2410;Centre Distribution St Antoine Breuilh;Centre de Distribution Alimentaire;9, Le BonDieu   24230 ST ANTOINE DE BREUILH;44.846934;0.150719;Rue du Bondieu 24230 Saint-Antoine-de-Breuilh;0.66;street;24370_XXXX_1e3cb0
+U2501;Centre de distribution Baume les Dames;Centre de Distribution Alimentaire;8 rue de Bassenne   25110 Baume les Dames;47.345335;6.361808;8 Rue Bassenne 25110 Baume-les-Dames;0.85;housenumber;25047_0130_799176
+U2502;Centre de distribution de Besançon;Centre de Distribution Alimentaire;123 grande rue   25000 BESANCON;47.235613;6.027817;123 Grande Rue 25000 Besançon;0.94;housenumber;25056_2440_d90c21
+U2503;Centre de distribution Besançon Planoise;Centre de Distribution Alimentaire;rue de cologne   25000 BESANCON;47.220571;5.969484;Rue de Cologne 25000 Besançon;0.94;street;25056_1333_55188e
+U2601;Epicerie sociale de Montélimar;Epicerie sociale;6 PLACE DU MAI   26200 MONTELIMAR;44.556291;4.751396;6 Place du Mai 26200 Montélimar;0.92;housenumber;26198_1490_6c82df
+U2701;Centre de distribution d'Evreux;Centre de Distribution Alimentaire;26bis rue de la Rochette   27000 Evreux;49.027111;1.139951;26BIS Rue de la Rochette 27000 Évreux;0.94;housenumber;27229_2870_0f6cb1
+U2702;Centre distribution de Gaillon;Centre de Distribution Alimentaire;6 RUE DU FOUR A BAON   27600 GAILLON;49.160882;1.331293;6 Rue du Four à Baon 27600 Gaillon;0.92;housenumber;27275_0088_a30bac
+U2703;Centre de distribution de Bernay;Centre de Distribution Alimentaire;1 Boulevard Georges Milville   27300 BERNAY;49.090462;0.606557;1 Boulevard Georges Milville 27300 Bernay;0.93;housenumber;27056_0522_67d178
+U2704;Centre distribution de Le Neubourg;Centre de Distribution Alimentaire;73 Rue Octave Bonnel   27110 Neubourg;49.145769;0.903417;73 Rue Octave Bonnel 27110 Le Neubourg;0.85;housenumber;27428_0390_ea087d
+U2705;Centre distribution Breteuil sur Iton;Centre de Distribution Alimentaire;88 rue de la Tuilerie   27160 Breteuil sur Iton;48.839553;0.909699;88 Rue de la Tuilerie 27160 Breteuil;0.73;housenumber;27112_0095_b4f431
+U2706;Centre de distribution Rugles;Centre de Distribution Alimentaire;11 Rue de la Chenotière   27250 Rugles;48.818144;0.710653;11 Rue de la Chenotière 27250 Rugles;0.92;housenumber;27502_0055_2fff31
+U2707;Centre de distribution Conches-en-Ouche;Centre de Distribution Alimentaire;5 Rue Willy Brandt   27190 Conches-en-Ouche;48.959056;0.94252;5 Rue Willy Brandt 27190 Conches-en-Ouche;0.92;housenumber;27165_0396_33de3e
+U2708;Centre de distribution Étrépagny;Centre de Distribution Alimentaire;Rue des Longchamps   27150 Étrépagny;49.325833;1.62537;Route de Longchamps 27150 Étrépagny;0.71;street;27226_XXXX_9511ce
+U2709;Centre de distribution de Brionne;Centre de Distribution Alimentaire;2 rue du 8 Mai 1945   27800 Brionne;49.193309;0.722961;Rue du Huit Mai 1945 27800 Brionne;0.7;street;27116_0077_69ee2a
+U2710;Centre distribution de Gisors;Centre de Distribution Alimentaire;56 RUE DE PARIS   27140 GISORS;49.276999;1.77802;56 Rue de Paris 27140 Gisors;0.93;housenumber;27284_0770_1cba19
+U2711;Centre distribution Fleury sur Andelle;Centre de Distribution Alimentaire;10, route de charleval le petit nojon  27380 FLEURY SUR ANDELLE;49.355446;1.354512;Route de Charleval, LE PETIT NOJON 27380 Fleury-sur-Andelle;0.87;street;27246_0015B020_ed6e78
+U2801;Centre de distribution Chartres;Centre de Distribution Alimentaire;19, Rue DES VIEUX CAPUCINS   28000 CHARTRES;48.440671;1.489186;19 Rue des Vieux Capucins 28000 Chartres;0.94;housenumber;28085_4090_74e920
+U2802;Maraude de Chartres;Samu social;19 rue des Vieux Capucins   28000 CHARTRES;48.440671;1.489186;19 Rue des Vieux Capucins 28000 Chartres;0.94;housenumber;28085_4090_74e920
+U2803;Centre distribution Nogent le Rotrou;Centre de Distribution Alimentaire;20 rue du Chateau   28400 NOGENT le ROTROU;48.317942;0.824577;20 Rue du Château 28400 Nogent-le-Rotrou;0.93;housenumber;28280_0330_97de5b
+U2804;FERME CD de Chateaudun;Centre de Distribution Alimentaire;Croix Rouge Française délégation locale de Chateaudun 39 Bd Grindelle 28200 CHATEAUDUN;;;;;;
+U2901;Centre de distribution de Carhaix;Centre de Distribution Alimentaire;2 rue Kerninguez   29270 CARHAIX PLOUGUER;48.277308;-3.579691;2 Rue de Kernigez 29270 Carhaix-Plouguer;0.73;housenumber;29024_XXXX_d81cb7
+U3001;Centre de distribution Beaucaire;Centre de Distribution Alimentaire;16, Rue de la Placette   30300 Beaucaire;43.807912;4.646769;16 Rue de la Placette 30300 Beaucaire;0.92;housenumber;30032_0860_5ea923
+U3002;Centre de distribution de Nimes;Centre de Distribution Alimentaire;2160, Chemin du Bachas   30000 NIMES;43.811189;4.37163;2160 Chemin du Bachas 30000 Nîmes;0.93;housenumber;30189_0745_9457ab
+U3003;Centre de distribution d'Alès;Centre de Distribution Alimentaire;19 rue Jules Guesde.   30100 ALES;44.119722;4.084108;19 Avenue Jules Guesde 30100 Alès;0.75;housenumber;30007_1480_101d12
+U3004;Samu social d'Alès;Samu social;CENTRE HENRY DUNANT 6, Boulevard GAMBETTA  30100 ALES;44.122144;4.0848;6 Boulevard Gambetta 30100 Alès;0.57;housenumber;30007_1060_b463a1
+U3005;Centre de distribution de Besseges;Centre de Distribution Alimentaire;CRF   30160 BESSEGES;44.299076;4.091774;Lalle 30160 Bessèges;0.59;locality;30037_B041_f114ab
+U3006;Centre de distribution de St Ambroix;Centre de Distribution Alimentaire;Rue Neuve   30500 SAINT AMBROIX;44.259723;4.197629;Rue Neuve 30500 Saint-Ambroix;0.92;street;30227_0620_93879f
+U3007;Centre de distribution de Quissac;Centre de Distribution Alimentaire;326 route de Nimes   30260 QUISSAC;43.902715;4.005921;326 Route de Nîmes 30260 Quissac;0.92;housenumber;30210_0096_900806
+U3008;Centre de distribution de Roquemaure;Centre de Distribution Alimentaire;Rue du pavillon   30150 ROQUEMAURE;44.048772;4.779561;Rue du Pavillon 30150 Roquemaure;0.93;street;30221_0265_bb94f6
+U3009;Centre de Distribution d'Uzes;Centre de Distribution Alimentaire;Place de Verdun   30700 UZES;44.013012;4.420191;Place du Duché 30700 Uzès;0.54;street;30334_0360_faa56c
+U3010;Centre de distribution de Pont St Esprit;Centre de Distribution Alimentaire;Avenue Gaston Doumergue   30130 PONT ST ESPRIT;44.254648;4.645544;Avenue Gaston Doumergue 30130 Pont-Saint-Esprit;0.83;street;30202_0400_5f74f6
+U3011;Centre de distribution de Saint Gilles;Centre de Distribution Alimentaire;Place de l'Hôtel de Ville BP 22  30510 GENERAC;43.727976;4.3481;Place de l'Hôtel de Ville 30510 Générac;0.79;street;30128_0240_028863
+U3101;Centre de distribution Toulouse Mirail;Centre de Distribution Alimentaire;20 Rue Raymond IV UL Toulouse  31000 TOULOUSE;43.61014;1.447967;20 Rue Raymond IV 31000 Toulouse;0.69;housenumber;31555_7320_f5f0c4
+U3102;Centre de distribution de Cugnaux;Centre de Distribution Alimentaire;20 Rue Raymond IV   31000 TOULOUSE;43.61014;1.447967;20 Rue Raymond IV 31000 Toulouse;0.94;housenumber;31555_7320_f5f0c4
+U3103;Centre de distribution de Fonsorbes;Centre de Distribution Alimentaire;    ;;;;;;
+U3104;Centre de distribution de Bessiere;Centre de Distribution Alimentaire;20, rue raymond IV   31660 BESSIERES;43.798876;1.601282;Rue Privât 31660 Bessières;0.46;street;31066_0200_b6c17b
+U3201;Centre de distribution de Masseube;Centre de Distribution Alimentaire;16 avenue Elyse Duffréchou   32140 MASSEUBE;43.427777;0.578462;16 Avenue Élysée Duffrechou 32140 Masseube;0.9;housenumber;32242_0020_8d7be4
+U3202;Centre distribution de Lombez;Centre de Distribution Alimentaire;rue La Ramondère   32220 LOMBEZ;43.471184;0.92899;Rue de la Ramondère 32220 Lombez;0.83;street;32213_0290_5b245d
+U3203;Centre distribution de L'Isle Jourdain;Centre de Distribution Alimentaire;20, Boulevard CARNOT   32600 L ISLE JOURDAIN;43.61271;1.082631;20 Boulevard Carnot 32600 L'Isle-Jourdain;0.93;housenumber;32160_0160_e93de1
+U3204;Centre distribution de Mirande;Centre de Distribution Alimentaire;19 rue du président Wilson   32300 MIRANDE;43.514946;0.405941;19 Rue du Président Wilson 32300 Mirande;0.93;housenumber;32256_1060_9af07d
+U33;DD Gironde;Distribution de chèques;130, Cours ALSACE LORRAINE   33000 BORDEAUX;44.83736;-0.575797;130 Cours d'Alsace et Lorraine 33000 Bordeaux;0.84;housenumber;33063_XXXX_dcd327
+U3301;Centre de distribution Arcachon;Centre de Distribution Alimentaire;38, Rue DE LATTRE DE TASSIGNY   33120 ARCACHON;44.6607;-1.172585;38 Rue du Maréchal de Lattre de Tassigny 33120 Arcachon;0.73;housenumber;33009_XXXX_a5fead
+U3302;Centre de distribution Bègles;Centre de Distribution Alimentaire;2 rue Francis de Pressensé   33130 BEGLES;44.807516;-0.553751;2 Rue Francis de Pressense 33130 Bègles;0.93;housenumber;33039_0840_9e22b8
+U3303;Centre de distribution Bordeaux Bastide;Centre de Distribution Alimentaire;16 Cours Le Rouzic   33100 Bordeaux;44.844008;-0.551814;16 Cours le Rouzic 33100 Bordeaux;0.94;housenumber;33063_5425_a63ec6
+U3304;FERME CD Bordeaux Bacalan;Centre de Distribution Alimentaire;78 Rue Delord   33300 Bordeaux;44.860999;-0.559941;78 Rue Delord 33300 Bordeaux;0.94;housenumber;33063_2555_fe14cb
+U3305;Espace bébé maman Bordeaux;Espace bébé maman;16 cours de rouzic   33100 Bordeaux;44.844008;-0.551814;16 Cours le Rouzic 33100 Bordeaux;0.83;housenumber;33063_5425_a63ec6
+U3306;Distribution CAP Bouscat-Bruges;Distribution de chèques;384, Avenue de la libération   33110 LE BOUSCAT;44.869186;-0.609729;384 Avenue de la Libération Charles de Gaulle 33110 Le Bouscat;0.66;housenumber;33069_XXXX_280957
+U3307;Distribution CAP Coutras;Distribution de chèques;68 bis, Rue JUSTIN LUQUOT   33230 COUTRAS;45.039749;-0.118535;68BIS Avenue Justin Luquot 33230 Coutras;0.72;housenumber;33138_0460_a902df
+U3308;Distribution CAP Pessac;Distribution de chèques;13bis, Avenue PIERRE WIEHN   33600 PESSAC;44.80128;-0.631224;13BIS Avenue Pierre Wiehn 33600 Pessac;0.93;housenumber;33318_2710_5069a5
+U3309;Distribution CAP Eysines;Distribution de chèques;HAUTS DE L'HIPPODROME BATIMENT 2 Rue DES TREYTINS  33320 EYSINES;44.881889;-0.630278;2 Rue des Treytins 33320 Eysines;0.46;housenumber;33162_0570_790f15
+U3310;FERMER - CD Villenave d'Ornon;Centre de Distribution Alimentaire;593, Route DE TOULOUSE   33140 VILLENAVE D ORNON;44.782263;-0.566097;593 Route de Toulouse 33140 Villenave-d'Ornon;0.93;housenumber;33550_1440_96059d
+U3311;Centre Distribution de St Loubès;Centre de Distribution Alimentaire;Z.I La Lande 18 Chemin de Barateau  33450 St Loubes;44.924131;-0.462551;18 Chemin de Barateau 33450 Saint-Loubès;0.6;housenumber;33433_0051_cf7293
+U3312;Distribution CAP Merignac;Distribution de chèques;13, Avenue DU CHATEAU D'EAU   33700 MERIGNAC;44.852808;-0.646259;13 Avenue du Château d'Eau 33700 Mérignac;0.93;housenumber;33281_0630_089665
+U3313;FERMER - CD Merignac;Centre de Distribution Alimentaire;13, Avenue DU CHATEAU D'EAU   33700 MERIGNAC;44.852808;-0.646259;13 Avenue du Château d'Eau 33700 Mérignac;0.93;housenumber;33281_0630_089665
+U3314;Centre distribution Sainte-Foy-la-Grande;Centre de Distribution Alimentaire;19 rue Chanzy   33220 Sainte-Foy-la-Grande;44.84067;0.215994;19 Rue Chanzy 33220 Sainte-Foy-la-Grande;0.93;housenumber;33402_0030_ac16f1
+U3315;Centre de distribution de Langon;Centre de Distribution Alimentaire;17 Cours Fossés   33210 Langon;44.555546;-0.248295;17 Cours des Fosses 33210 Langon;0.81;housenumber;33227_0560_7c573f
+U3316;FERME CD de Libourne;Centre de Distribution Alimentaire;75, Avenue DE L'EPINETTE   33500 LIBOURNE;44.911124;-0.230398;75 Avenue de l'Épinette 33500 Libourne;0.94;housenumber;33243_0430_0ec45b
+U3317;Epicerie sociale d'Arcachon;Epicerie sociale;35 bis cours Tartas   33120 ARCACHON;44.660536;-1.172325;35BIS Cours Tartas 33120 Arcachon;0.85;housenumber;33009_2170_5f552f
+U3318;Centre de distibution de Macau;Centre de Distribution Alimentaire;4 rue du Château d'Agassac   33290 LUDON MEDOC;44.969887;-0.611244;4 Rue du Château d'Agassac 33290 Ludon-Médoc;0.91;housenumber;33256_0305_f05b22
+U3401;Centre distribution Balaruc les Bains;Centre de Distribution Alimentaire;L'Espace Solidarité Enfance   34540 Balaruc les Bains;;;;;;
+U3402;Centre de distribution Pezenas;Centre de Distribution Alimentaire;11 rue Louis Blanc   34120 PEZENAS;43.458546;3.421937;11 Rue Louis Blanc 34120 Pézenas;0.92;housenumber;34199_0740_b83d5b
+U3403;Centre distribution de Montpellier;Centre de Distribution Alimentaire;3, Boulevard HENRI IV   34000 MONTPELLIER;43.61458;3.873495;3 Boulevard Henri IV 34000 Montpellier;0.94;housenumber;34172_2805_a0c831
+U3404;Epicerie sociale de Gignac;Epicerie sociale;4 place de Verdun BP46  34150 GIGNAC;43.652625;3.551835;4 Place de Verdun 34150 Gignac;0.79;housenumber;34114_0166_6fa77e
+U3405;Accueil de jour de Montpellier;Accueil de jour;3 Bd Henri IV   34000 MONTPELLIER;43.61458;3.873495;3 Boulevard Henri IV 34000 Montpellier;0.72;housenumber;34172_2805_a0c831
+U3406;A DEFINIR  CD Frontignan;Centre de Distribution Alimentaire;7 Rue de la raffinerie   34110 Frontignan;43.443247;3.758272;7 Rue de la Raffinerie 34110 Frontignan;0.92;housenumber;34108_0755_b3c024
+U3407;Distribution CAP Lodeve;Distribution de chèques;Délégation de Lodeve BP 86  34701 LODEVE Cedex;43.736931;3.300927;Chemin de Bellevue 34700 Lodève;0.33;street;34142_0145_7bbced
+U3408;Epicerie sociale de Frontignan;Epicerie sociale;7 Rue de la raffinerie   34110 FRONTIGNAN;43.443247;3.758272;7 Rue de la Raffinerie 34110 Frontignan;0.92;housenumber;34108_0755_b3c024
+U3409;Centre de distribution de Vias;Centre de Distribution Alimentaire;BP 24   34450 VIAS;43.311773;3.41837;Rue Carnot 34450 Vias;0.37;street;34332_0070_d49ba5
+U35;DD Ille et Vilaine;Distribution de chèques;4, rue de la Sauvaie   35000 RENNES;48.095822;-1.633986;4 Rue de la Sauvaie 35000 Rennes;0.94;housenumber;35238_8971_f992f5
+U3501;Centre de distribution de Redon;Centre de Distribution Alimentaire;28 rue St Michel   35600 REDON;47.653014;-2.07757;28 Rue Saint-Michel 35600 Redon;0.79;housenumber;35236_1180_0eb2b0
+U3502;Centre de distribution Rennes;Centre de Distribution Alimentaire;4 rue Sauvaie   35000 RENNES;48.095822;-1.633986;4 Rue de la Sauvaie 35000 Rennes;0.76;housenumber;35238_8971_f992f5
+U3503;FERMER PAB de Rennes;Point alimentation bébé;4 rue Sauvaie   35000 RENNES;48.095822;-1.633986;4 Rue de la Sauvaie 35000 Rennes;0.76;housenumber;35238_8971_f992f5
+U3504;Samu social de Rennes;Samu social;66-68 rue Dupont des Loges   35000 RENNES;48.108846;-1.670043;Rue Dupont des Loges 35000 Rennes;0.8;street;35238_2700_84aaa3
+U3601;Centre de distribution d'Issoudun;Centre de Distribution Alimentaire;4, avenue de Chinault   36100 Issoudun;46.949765;1.984904;4 Avenue de Chinault 36100 Issoudun;0.94;housenumber;36088_0800_24ee02
+U3602;Centre de distribution d' Aigurande;Centre de Distribution Alimentaire;22 Avenue Rollinot   36140 Aigurande;46.432114;1.823478;Avenue Maurice Rollinat 36140 Aigurande;0.61;street;36001_XXXX_d32c3a
+U3603;Centre de distribution de Chateauroux;Centre de Distribution Alimentaire;82 Boulevard George Sand   36000 CHATEAUROUX;46.807375;1.68623;82 Boulevard George Sand 36000 Châteauroux;0.94;housenumber;36044_1280_2e3f12
+U3701;Epicerie sociale de Joué les Tours;Epicerie sociale;6 rue Pasteur   37300 JOUE LES TOURS;47.353085;0.660864;6 Rue Pasteur 37300 Joué-lès-Tours;0.92;housenumber;37122_1340_e1288e
+U3702;Epicerie sociale Tours;Epicerie sociale;13 rue Guynemer   37000 TOURS;47.380666;0.704576;13 Rue Guynemer 37000 Tours;0.93;housenumber;37261_2415_c6dcd2
+U3703;Centre de distribution L'ile Bouchard;Centre de Distribution Alimentaire;15, place Bouchard   37220 L'ile Bouchard;47.119887;0.425042;Place Bouchard 37220 L'Île-Bouchard;0.85;street;37119_XXXX_4ab4e5
+U3704;Centre de distribution de Chinon;Centre de Distribution Alimentaire;16 rue Paul HUET   37500 Chinon;47.167025;0.252275;16 Rue Paul Huet 37500 Chinon;0.93;housenumber;37072_1040_0e3a08
+U3705;Epicerie sociale La Rouchouze Langeais;Epicerie sociale;DL de Bourgeuil Langeais BP 29   37140 Bourgueil;;;;;;
+U3706;Epicerie sociale Descartes;Epicerie sociale;2 Avenue de la gare CRF Antenne Descartes  37160 Descartes;46.975022;0.695136;2 Avenue de la Gare 37160 Descartes;0.56;housenumber;37115_0260_dcd2e3
+U3707;Epicerie sociale de Preuilly sur Claise;Epicerie sociale;15 rue Saint Pierre   37290 Previlly sur Claise;46.85429;0.93103;15 Rue Saint-Pierre 37290 Preuilly-sur-Claise;0.84;housenumber;37189_0275_1f5403
+U3708;Epicerie sociale de Ligueil;Epicerie sociale;Place de la maire  Centre social 37240 Ligueil;;;;;;
+U3709;Epicerie sociale le Grand Pressigny;Epicerie sociale;2 chemin des Roches   37350 Le Grand Pressigny;46.918223;0.807824;2 Chemin des Roches 37350 Le Grand-Pressigny;0.92;housenumber;37113_0091_8e5efd
+U3710;Centre de Distribution de Sainte Maure;Centre de Distribution Alimentaire;1 RUE DU BON VALET   37800 Sainte Maure de Touraine;47.11095;0.617521;1 Rue du Bon Valet 37800 Sainte-Maure-de-Touraine;0.92;housenumber;37226_0045_c271d5
+U3711;Centre distribution St Etienne de Chigny;Centre de Distribution Alimentaire;4 route de Beauvais   37230 ST ETIENNE DE CHIGNY;47.384907;0.526621;4 Route de Beauvais 37230 Saint-Étienne-de-Chigny;0.82;housenumber;37217_0060_c239bf
+U3712;Centre de distribution Azay le Rideau;Centre de Distribution Alimentaire;25 Avenue de la gare   37190 AZAY LE RIDEAU;47.26345;0.455181;25 Avenue de la Gare 37190 Azay-le-Rideau;0.93;housenumber;37014_0260_a5030a
+U3713;Centre distribution Cinq-mars-la-pile;Centre de Distribution Alimentaire;8 rue de la gare   37130 CINQ MARS LA PILE;47.345455;0.45859;5 Rue de la Gare 37130 Cinq-Mars-la-Pile;0.87;housenumber;37077_0125_394de8
+U3714;Centre de distribution Tours S/Francisco;Centre de Distribution Alimentaire;38-40 rue San francisco   37000 TOURS;47.383956;0.680856;Rue San Francisco 37000 Tours;0.78;street;37261_4520_30b501
+U3715;Centre de distribution Tours-Bretonneau;Centre de Distribution Alimentaire;25 rue du docteur Bretonneau   37000 TOURS;47.395184;0.680266;25 Rue du Docteur Bretonneau 37000 Tours;0.93;housenumber;37261_1467_442c1c
+U3716;Centre de distribution de Tours;Centre de Distribution Alimentaire;13 rue Guynemer   37000 TOURS;47.380666;0.704576;13 Rue Guynemer 37000 Tours;0.93;housenumber;37261_2415_c6dcd2
+U38;DD d'Isère;Distribution de chèques;4 Rue Kleber   38000 GRENOBLE;45.184291;5.721999;4 Rue Kléber 38000 Grenoble;0.93;housenumber;38185_4100_046fd1
+U3801;Centre distribution de Grenoble;Centre de Distribution Alimentaire;4 rue Kleber   38000 GRENOBLE;45.184291;5.721999;4 Rue Kléber 38000 Grenoble;0.93;housenumber;38185_4100_046fd1
+U3802;Samu social de Grenoble;Samu social;4 rue Kleber   38000 GRENOBLE;45.184291;5.721999;4 Rue Kléber 38000 Grenoble;0.93;housenumber;38185_4100_046fd1
+U3803;Centre distribution St Quentin Fallavier;Centre de Distribution Alimentaire;rue de Merlet   38070 St Quentin Fallavier;45.633124;5.112186;Rue de Merlet 38070 Saint-Quentin-Fallavier;0.81;street;38449_0310_8d3bd9
+U3804;Distribution CAP de Crolles;Distribution de chèques;131 rue de la Tuilerie   38920 CROLLES;45.27439;5.890937;131 Rue de la Tuilerie 38920 Crolles;0.91;housenumber;38140_0614_fdeef0
+U3805;Centre distribution de Vienne;Centre de Distribution Alimentaire;22 rue Voltaire   38200 Vienne;45.522239;4.87287;22 Rue Voltaire 38200 Vienne;0.93;housenumber;38544_2190_f4666e
+U3806;Centre distribution de Verpillière;Centre de Distribution Alimentaire;Ancienne Caserne des Pompiers avenue  Lesdiguières  38290 Verpillière;;;;;;
+U3807;Centre de distribution de Voiron;Centre de Distribution Alimentaire;5-7 rue Genevoise   38500 Voiron;45.366851;5.593496;7 Rue Genevoise 38500 Voiron;0.86;housenumber;38563_0630_b13742
+U3808;Centre distribution Pont de Beauvoisin;Centre de Distribution Alimentaire;31 Avenue de la Folatière   38480 PONT DE BEAUVOISIN;45.536677;5.659742;31 Avenue de la Folatière 38480 Le Pont-de-Beauvoisin;0.87;housenumber;38315_0190_01c65c
+U3809;Centre distribution de La Tour du Pin;Centre de Distribution Alimentaire;129 rue d'Italie BP 146   38110 LA TOUR DU PIN;45.560387;5.455516;129 Rue d'Italie 38110 La Tour-du-Pin;0.79;housenumber;38509_0430_04fe10
+U3810;Samu social d'Echirolles;Samu social;56 avenue de la République   38130 ECHIROLLES;45.142621;5.729768;56 Avenue de la République 38130 Échirolles;0.93;housenumber;38151_0550_4b521f
+U3811;Centre de distribution Villefontaine;Centre de Distribution Alimentaire;Les Roches   38090 VILLEFONTAINE;45.601321;5.181436;Allée des Pervenches 38090 Villefontaine;0.58;street;38553_0202_e2bc88
+U3812;Centre distribution de St Marcellin;Centre de Distribution Alimentaire;6 Place du Souvenir Français   38160 St Marcellin;45.154187;5.322773;6 Place du Souvenir Français 38160 Saint-Marcellin;0.83;housenumber;38416_1135_1d5e32
+U3813;Centre Distribution Bourgoin Jallieu;Centre de Distribution Alimentaire;22 AVENUE DE CHAMP FLEURI   38300 BOURGOIN JALLIEU;45.602964;5.270831;22 Avenue de Champ Fleuri 38300 Bourgoin-Jallieu;0.93;housenumber;38053_0166_ad02a2
+U3814;Samu social Bourgoin Jallieu;Samu social;22bis avenue de Champfleuri   38300 Bourgoin Jallieu;45.615254;5.279663;22BIS Chemin de Mozas 38300 Bourgoin-Jallieu;0.5;housenumber;38053_0627_1eeeaa
+U3815;Centre distribution Rives;Centre de Distribution Alimentaire;75 rue Sadi Carnot   38140 Rives;45.349689;5.500596;Rue Sadi Carnot 38140 Rives;0.83;street;38337_0320_fdd380
+U3816;Distribution CAP de La Mure;Distribution de chèques;25 Rue Cotte Rouge   38350 La Mure;44.904521;5.78655;25 Rue Cotte Rouge 38350 La Mure;0.92;housenumber;38269_0210_866fd8
+U3901;FERME ****CD Bletterans****;Centre de Distribution Alimentaire;20 rue de la demi lune   39140 Bletterans;46.74455;5.45377;20 Rue de la Demi-Lune 39140 Bletterans;0.92;housenumber;39056_0100_73b2b7
+U3902;Centre de distribution de Arinthod;Centre de Distribution Alimentaire;Mairie Arinthod   39240 Arinthod;46.393938;5.565879;Cour de la Mairie 39240 Arinthod;0.46;street;39016_0182_7ad636
+U3903;Centre de distribution de Lons le Saunie;Centre de Distribution Alimentaire;71 rue saint Desire   39000 LONS LE SAUNIER;46.670107;5.548536;71 Rue Saint-Désiré 39000 Lons-le-Saunier;0.94;housenumber;39300_0940_172eaf
+U3904;Centre de distribution Orgelet;Centre de Distribution Alimentaire;24 rue de la république   39270 Orgelet;46.522275;5.613385;24 Rue de la République 39270 Orgelet;0.92;housenumber;39397_0410_8304d3
+U3905;Centre de distribution de Saint Amour;Centre de Distribution Alimentaire;2 allée des capucins   39160 Saint Amour;46.439468;5.342299;2 Allée des Capucins 39160 Saint-Amour;0.92;housenumber;39475_0200_9bdc59
+U3906;Centre de distribution d'Arbois;Centre de Distribution Alimentaire;10, rue de l'hotel de ville   39600 ARBOIS;46.902668;5.772358;10 Rue de l'Hôtel de Ville 39600 Arbois;0.92;housenumber;39013_0800_df0307
+U3907;Epicerie sociale de Bletterans;Epicerie sociale;20, rue de la demi-lune   39140 BLETTERANS;46.74455;5.45377;20 Rue de la Demi-Lune 39140 Bletterans;0.92;housenumber;39056_0100_73b2b7
+U40;DD des Landes;Distribution de chèques;243, Chemin de l'évasion   40000 MONT DE MARSAN;43.888535;-0.483022;243 Chemin de l'Évasion 40000 Mont-de-Marsan;0.93;housenumber;40192_0783_00e056
+U4001;Centre de distribution de Mont de Marsan;Centre de Distribution Alimentaire;243 chemin de l'évasion   40000 MONT DE MARSAN;43.888535;-0.483022;243 Chemin de l'Évasion 40000 Mont-de-Marsan;0.93;housenumber;40192_0783_00e056
+U4002;Samu social de Peyrehorade;Samu social;Maison la Douga Délégation locale pays d'Orthe  40300 CAUNEILLE;;;;;;
+U4003;Distribution CAP Dax;Centre de Distribution Alimentaire;Plateforme sociale   40100 DAX;;;;;;
+U4004;Distribution CAP St Vincent Tyrosse;Centre de Distribution Alimentaire;Place Tourren   40230 ST VINCENT DE TYROSSE;43.659645;-1.312113;Avenue de Tourren 40230 Saint-Vincent-de-Tyrosse;0.63;street;40284_0258_aaf8ae
+U4005;Distribution CAP de Parentis en Born;Centre de Distribution Alimentaire;Maison des associations   40160 PARENTIS EN BORN;;;;;;
+U4006;Distribution CAP de St Martin Seignanx;Centre de Distribution Alimentaire;Mairie   40390 ST MARTIN DE SEIGNANX;43.544959;-1.386301;Place de la Mairie 40390 Saint-Martin-de-Seignanx;0.61;street;40273_0880_4eb4de
+U4007;Distribution CAP de Mont de Marsan;Centre de Distribution Alimentaire;243 chemin évasion   40000 MONT DE MARSAN;43.888535;-0.483022;243 Chemin de l'Évasion 40000 Mont-de-Marsan;0.82;housenumber;40192_0783_00e056
+U4101;Centre distribution itinérant Vendôme;Centre de Distribution Alimentaire;21 rue du Commandant Verrier   41100 VENDOME;47.798698;1.063142;21 Rue du Commandant Verrier 41100 Vendôme;0.93;housenumber;41269_0520_e1a1b2
+U4201;Centre de distribution de St Etienne;Centre de Distribution Alimentaire;47 rue Gauthier Dumont   42100 St ETIENNE;45.435534;4.418615;47 Rue Gauthier Dumont 42100 Saint-Étienne;0.83;housenumber;42218_XXXX_17e30d
+U4202;Centre de distribution de Montbrison;Centre de Distribution Alimentaire;7bis rue Marguerite Fournier   42600 MONTBRISON;45.605656;4.067522;Rue Marguerite Fournier 42600 Montbrison;0.83;street;42147_1500_95af31
+U4203;Centre de distribution Sury-le-Comtal;Centre de Distribution Alimentaire;3 Place Louis Giraudier   42450 SURY LE COMTAL;45.539376;4.183431;3 Place Louis Girodier 42450 Sury-le-Comtal;0.81;housenumber;42304_XXXX_3aa3e5
+U4204;Centre de distribution de Firminy;Centre de Distribution Alimentaire;10 rue Lamartine  10 rue Lamartine 42700 FIRMINY;45.38807;4.284785;10 Rue Lamartine 42700 Firminy;0.59;housenumber;42095_1080_d7d5d1
+U4205;Centre de distribution de Veauche;Centre de Distribution Alimentaire;35 avenue Irénée Laurent   42340 VEAUCHE;45.568289;4.294867;35 Avenue Irénée Laurent 42340 Veauche;0.92;housenumber;42323_0240_de3406
+U4301;Centre Distribution de Puy en Velay;Centre de Distribution Alimentaire;3 Rue Charles VII   43000 Puy en Velay;45.044683;3.879644;3 Rue Charles VII 43000 Le Puy-en-Velay;0.86;housenumber;43157_0510_c4098c
+U4302;Centre de Distribution de Saint Sigolène;Centre de Distribution Alimentaire;MAIRE PP J SALQUE   43600 SAINTE SIGOLENE;;;;;;
+U4303;Centre de Distribution de Bas en Basset;Centre de Distribution Alimentaire;MAIRIE DE BAS EN BASSET   43210 BAS EN BASSET;45.305619;4.110181;Place de la Mairie 43210 Bas-en-Basset;0.51;street;43020_0180_1df3b7
+U44;DD Loire-Atlantique;Distribution de chèques;1 place Beaumanoir   44000 NANTES;47.212693;-1.571747;1 Place Beaumanoir 44100 Nantes;0.82;housenumber;44109_0648_4128db
+U4401;Centre de distribution du Pontchâteau;Centre de Distribution Alimentaire;27 rue Nantaise   44160 Pontchâteau;47.437122;-2.08591;27 Rue Nantaise 44160 Pontchâteau;0.93;housenumber;44129_0360_0894a5
+U4402;Centre de distribution Vallet;Centre de Distribution Alimentaire;5 rue de la Bourie   44330 Vallet;47.158646;-1.26588;5 Rue de la Bourie 44330 Vallet;0.92;housenumber;44212_0202_82dd32
+U4403;Centre de distribution Rezé;Centre de Distribution Alimentaire;64bis rue Emile Zola   44400 Rezé;47.191031;-1.562941;64BIS Rue Émile Zola 44400 Rezé;0.93;housenumber;44143_1160_a0036c
+U4404;Centre de distribution Nantes Trébuchet;Centre de Distribution Alimentaire;13, Place SOPHIE TREBUCHET   44000 NANTES;47.220168;-1.545121;13 Place Sophie Trébuchet 44000 Nantes;0.93;housenumber;44109_7939_07b51b
+U4405;Centre de distribution Batz sur Mer;Centre de Distribution Alimentaire;place du Murier   44740 BATZ SUR MER;47.276466;-2.480441;Place du Mûrier 44740 Batz-sur-Mer;0.91;street;44010_1360_2fae8f
+U4406;Epicerie sociale de Carquefou;Epicerie sociale;8 Rue Petites Industries   44470 Carquefou;47.26578;-1.492607;8 Rue des Petites Industries 44470 Carquefou;0.84;housenumber;44026_3327_8cc347
+U4407;Centre distribution de St Nazaire;Centre de Distribution Alimentaire;16 rue Mme de Sévigné   44600 ST NAZAIRE;47.285376;-2.207239;16 Rue de Sévigné 44600 Saint-Nazaire;0.73;housenumber;44184_XXXX_f6993e
+U4408;Centre de distribution de Paimboeuf;Centre de Distribution Alimentaire;7 rue Pierre Chevry   44560 Paimboeuf;47.286173;-2.030214;Rue Pierre Chevry 44560 Paimbœuf;0.87;street;44116_0310_e384e3
+U4409;Centre de  distribution de St Michel C/C;Centre de Distribution Alimentaire;8 Rue des Tonneliers   44730 St Michel Chef Chef;47.170819;-2.14611;8 Rue des Tonneliers 44730 Saint-Michel-Chef-Chef;0.82;housenumber;44182_2710_358c03
+U4410;Distribution CAP Ancenis;Distribution de chèques;524 rue Urien   44150 ANCENIS;47.3707;-1.186899;524 Rue René Urien 44150 Ancenis;0.79;housenumber;44003_0990_fcf300
+U4411;Distribution de CAP de Chateaubriant;Distribution de chèques;26 rue des Etats Unis   44110 Chateaubriant;47.702661;-1.389456;Rue des États-Unis 44110 Châteaubriant;0.86;street;44036_XXXX_f6b89a
+U4412;Centre de distribution de Savenay;Centre de Distribution Alimentaire;3 rue des Fauvettes   44260 SAVENAY;47.361874;-1.938129;3 Rue des Fauvettes 44260 Savenay;0.92;housenumber;44195_0280_009959
+U4413;Centre distribution de la Turballe;Centre de Distribution Alimentaire;Salle Francois-Marie LEBRUN rue de la Fontaine  44420 La Turballe;;;;;;
+U4414;Centre distribution de Guérande;Centre de Distribution Alimentaire;1 avenue  de la Briere   44350 Guérande;47.331276;-2.423233;Avenue de la Brière 44350 Guérande;0.87;street;44069_0450_d7d2fb
+U4415;Centre distribution de Croisic;Centre de Distribution Alimentaire;Rue du Grand Lin   44490 LE CROISIC;47.295561;-2.514925;Rue du Grand Lin 44490 Le Croisic;0.92;street;44049_XXXX_d6a6ed
+U4416;A DEFINIR;Epicerie sociale;17 rue waldeck Rousseau   44130 Blain;47.477028;-1.76685;17 Rue P Waldeck Rousseau 44130 Blain;0.87;housenumber;44015_1124_475f72
+U4417;Distribution ambulante St Nazaire;Centre de Distribution Alimentaire;16 rue Madame de Sévigné   44600 SAINT NAZAIRE;47.285376;-2.207239;16 Rue de Sévigné 44600 Saint-Nazaire;0.78;housenumber;44184_XXXX_f6993e
+U4418;Centre de distribution de Blain;Centre de Distribution Alimentaire;7 rue de la Marsolais   44130 BLAIN;47.48032;-1.748907;7 Rue de la Marsollais 44130 Blain;0.89;housenumber;44015_1153_d59800
+U4419;Centre distribution Grandchamp Fontaines;Centre de Distribution Alimentaire;  11 Rue du Perray 44119 Grandchamp des Fontaines;47.364158;-1.603708;11 Rue du Perray 44119 Grandchamps-des-Fontaines;0.86;housenumber;44066_0142_1f39f1
+U4501;Centre de distribution d'Orléans;Centre de Distribution Alimentaire;69bis rue des Anguignis   45650 St Jean le Blanc;47.884611;1.912661;69BIS Rue des Anguignis 45650 Saint-Jean-le-Blanc;0.83;housenumber;45286_0060_9e0e9e
+U4502;Samu social d'Orléans;Samu social;69 bis rue des Anguignis   45650 ST JEAN LE BLANC;47.884611;1.912661;69BIS Rue des Anguignis 45650 Saint-Jean-le-Blanc;0.78;housenumber;45286_0060_9e0e9e
+U4503;Centre distribution de Montargis;Centre de Distribution Alimentaire;105 rue Coquillet   45200 Montargis;47.9881;2.732573;105 Rue André Coquillet 45200 Montargis;0.79;housenumber;45208_0120_cd97ba
+U4504;Centre distribution de St Jean le Blanc;Centre de Distribution Alimentaire;  69 Bis rue des Anguignis 45650 ST JEAN LE BLANC;47.884611;1.912661;69BIS Rue des Anguignis 45650 Saint-Jean-le-Blanc;0.78;housenumber;45286_0060_9e0e9e
+U46;DD du Lot;Distribution de chèques;175, Rue EMILE ZOLA   46000 CAHORS;44.452607;1.438122;175 Rue Émile Zola 46000 Cahors;0.94;housenumber;46042_1110_7696fd
+U4601;Centre de distribution de Saint-Céré;Centre de Distribution Alimentaire;4 Place Léon Gambetta   46400 ST CERE;44.859705;1.888532;4 Place Gambetta 46400 Saint-Céré;0.68;housenumber;46251_0156_b7d903
+U4602;Centre de distribution de Cahors;Centre de Distribution Alimentaire;DL de la Croix-Rouge 175 rue Emile Zola  46000 CAHORS;44.452607;1.438122;175 Rue Émile Zola 46000 Cahors;0.56;housenumber;46042_1110_7696fd
+U4603;Samu social de Cahors;Samu social;175 rue Emile Zola   46000 CAHORS;44.452607;1.438122;175 Rue Émile Zola 46000 Cahors;0.94;housenumber;46042_1110_7696fd
+U4604;Centre de distribution de Figeac;Centre de Distribution Alimentaire;12 avenue Marcenac Casimir   46100 Figeac;44.612481;2.030778;12 Avenue Casimir Marcenac 46100 Figeac;0.93;housenumber;46102_0400_081e03
+U4605;Distribution de CAP de Souillac;Distribution de chèques;MAISON COMMUNAUTAIRE BRAMEFOND  46200 SOUILLAC;;;;;;
+U4606;Distribution de CAP de Luzech;Distribution de chèques;546 route d'Albas   46140 UZECH;;;;;;
+U47;DD Lot-et-Garonne;Distribution de chèques;148, Place LAMENNAIS   47000 AGEN;44.207189;0.613026;148 Place Lamennais 47000 Agen;0.93;housenumber;47001_2220_456ca9
+U4701;Centre de distribution Marmande;Centre de Distribution Alimentaire;Square DE VERDUN   47200 Marmande;;;;;;
+U4702;Samu social de Tonneins;Samu social;IMMEUBLE DE TAPOL - SALLE N° 12 Rue SAINTE-CROIX  47400 TONNEINS;44.390145;0.307725;12 Rue Sainte-Croix 47400 Tonneins;0.5;housenumber;47310_1090_252024
+U4703;Samu social de Marmande;Samu social;Square DE VERDUN   47200 MARMANDE;;;;;;
+U4704;Centre de distribution d'Agen;Centre de Distribution Alimentaire;148, Place LAMENNAIS   47000 AGEN;44.207189;0.613026;148 Place Lamennais 47000 Agen;0.93;housenumber;47001_2220_456ca9
+U4705;Distribution CAP Tonneins;Distribution de chèques;IMMEUBLE DE TAPOL rue Sainte-Croix  47400 TONNEINS;;;;;;
+U4706;Centre de distribution de Villereal;Centre de Distribution Alimentaire;Route DE MONPAZIER   47210 VILLEREAL;44.63669;0.755887;Route de Monpazier, BRUS 47210 Villeréal;0.79;locality;47324_B027_7693f9
+U4707;Centre de distribution d'Aiguillon;Centre de Distribution Alimentaire;salle Lunac Rue SABATTE  47190 AIGUILLON;;;;;;
+U4708;Samu social d'Agen;Samu social;148, Place LAMENNAIS   47000 AGEN;44.207189;0.613026;148 Place Lamennais 47000 Agen;0.93;housenumber;47001_2220_456ca9
+U4709;Samu de Villeneuve sur Lot;Samu social;28, Rue DU TOUT Y CROIT   47300 Villeneuve sur Lot;44.410013;0.701707;28 Rue Tout Y Croit 47300 Villeneuve-sur-Lot;0.87;housenumber;47323_6150_df8b28
+U4710;Centre distribution Villeneuve sur Lot;Centre de Distribution Alimentaire;28, Rue DU TOUT Y CROIT   47300 VILLENEUVE SUR LOT;44.410013;0.701707;28 Rue Tout Y Croit 47300 Villeneuve-sur-Lot;0.87;housenumber;47323_6150_df8b28
+U4711;Centre de distribution de Tonneins;Centre de Distribution Alimentaire;ETAPE Place de la manufacture  47400 TONNEINS;44.392545;0.310216;Place de la Manufacture 47400 Tonneins;0.8;street;47310_0680_09ead6
+U4712;Centre de distribution de Miramont;Centre de Distribution Alimentaire;Square Victor Hugo BAT 5A  47800 MIRAMONT DE GUYENNE;;;;;;
+U4713;Espace Parent/Enfant de Nérac;Espace bébé maman;rue François Baudy-Centre Samaze   47600 Nerac;44.137978;0.339106;Rue François Baudy 47600 Nérac;0.63;street;47195_0400_da365d
+U4714;Centre de distribution de Castillonnès;Centre de Distribution Alimentaire;51 grand'rue   47330 Castillonnès;44.65328;0.591158;51 Grand-Rue 47330 Castillonnès;0.92;housenumber;47057_0040_c28e4d
+U4715;A DEFINIR;Centre de Distribution Alimentaire;28 Rue Tout Y Croît   47300 Villeneuve-sur-Lot;44.410013;0.701707;28 Rue Tout Y Croit 47300 Villeneuve-sur-Lot;0.93;housenumber;47323_6150_df8b28
+U4801;Centre distribution Saint Chély d'Apcher;Centre de Distribution Alimentaire;19 rue du Pontet  BP 03 48200 Saint Chély d'Apcher;44.803276;3.273215;Rue du Pontet 48200 Saint-Chély-d'Apcher;0.75;street;48140_0760_fe4283
+U4802;Centre de distribution Langogne;Centre de Distribution Alimentaire;Foyer personnes âgées et isolées  2 rue Felix Viallet 48300 LANGOGNE;44.727509;3.855565;2 Rue Félix Viallet 48300 Langogne;0.47;housenumber;48080_0262_77738e
+U4803;Centre distribution la Canourgue;Centre de Distribution Alimentaire;49 avenue des Gorges du Tarn   48500 LA CANOURGUE;44.429275;3.218145;49 Avenue des Gorges du Tarn 48500 La Canourgue;0.93;housenumber;48034_0059_4153f4
+U4804;Centre distribution de Mende;Centre de Distribution Alimentaire;14 Avenue Foch   48000 Mende;44.518069;3.494555;14 Avenue Maréchal Foch 48000 Mende;0.7;housenumber;48095_0790_da33eb
+U49;Distribution CAP DD Maine et Loire;Distribution de chèques;1 rue Joubert   49100 ANGERS;47.472541;-0.545275;1 Rue Joubert 49100 Angers;0.94;housenumber;49007_4410_54be6c
+U4901;Centre de distribution de Saumur;Centre de Distribution Alimentaire;Croix Rouge Française Délégation locale de Saumur. rue Dacier 49400 SAUMUR;;;;;;
+U4902;Centre distribution d'Angers;Centre de Distribution Alimentaire;1 RUE JOUEERT   49100 ANGERS;47.472541;-0.545275;1 Rue Joubert 49100 Angers;0.8;housenumber;49007_4410_54be6c
+U50;DD de la Manche;Distribution de chèques;52, Place DU CHAMP DE MARS   50000 St Lô;49.117146;-1.085633;52 Place du Champ de Mars 50000 Saint-Lô;0.83;housenumber;50502_0570_7a3486
+U5001;Centre distribution de Périers;Centre de Distribution Alimentaire;Avenue DE LA GARE   50190 Périers;49.18579;-1.410233;Avenue de la Gare 50190 Périers;0.92;street;50394_XXXX_679f0e
+U5002;Centre distribution de Saint Lô;Centre de Distribution Alimentaire;26, Rue DU DOCTEUR LETURC   50000 ST LO;49.114633;-1.088603;26 Rue du Docteur Leturc 50000 Saint-Lô;0.82;housenumber;50502_0855_988e06
+U5003;Centre distribution de Valognes;Centre de Distribution Alimentaire;avenue du 8 mai 1945   50700 VALOGNES;49.502447;-1.467381;8 Avenue du Huit Mai 1945 50700 Valognes;0.76;housenumber;50615_0685_ee035d
+U5004;Centre distribution de Cherbourg;Centre de Distribution Alimentaire;14-16, Impasse Dorival   50100 CHERBOURG OCTEVILLE;49.639176;-1.626826;16 Impasse Dorival 50100 Cherbourg-Octeville;0.86;housenumber;50129_0720_38d34f
+U5005;Samu social de Cherbourg;Samu social;14-16, Impasse Dorival   50100 CHERBOURG;49.639176;-1.626826;16 Impasse Dorival 50100 Cherbourg-Octeville;0.67;housenumber;50129_0720_38d34f
+U5006;Point alimentation bébé de Granville;Point alimentation bébé;rue de la Gare   50400 Granville;48.838602;-1.588072;Avenue de la Gare 50400 Granville;0.78;street;50218_0513_d86b87
+U5007;Espace bébé maman d'Avranches;Point alimentation bébé;5 Rue Saint-Saturnin   50300 Avranches;48.685028;-1.360948;5 Rue Saint-Saturnin 50300 Avranches;0.93;housenumber;50025_1200_221e1b
+U5008;Centre de distribution Coutances;Centre de Distribution Alimentaire;50 Rue des Tanneries Prodhommes   50200 Coutances;49.05281;-1.439606;Rue des Tanneries Prodhommes 50200 Coutances;0.87;street;50147_1720_869c8f
+U5009;Centre de distribution Sourdeval;Centre de Distribution Alimentaire;Rue Alexandre Mauduit   50150 Sourdeval;48.725736;-0.915962;Rue Alexandre Mauduit 50150 Sourdeval;0.92;street;50582_0020_4b39a0
+U5101;FERMER CD de Reims;Centre de Distribution Alimentaire;26 rue Houzeau Murion   51100 REIMS;49.254979;4.044666;26 Rue Houzeau Muiron 51100 Reims;0.78;housenumber;51454_4620_fd5e4e
+U5102;Centre distribution Chalons en Champagne;Centre de Distribution Alimentaire;45 bis Avenue du Genaral De Gaul   51000 CHALONS EN CHAMPAGNE;48.947934;4.372446;45BIS Avenue du Général Charles de Gaulle 51000 Châlons-en-Champagne;0.73;housenumber;51108_XXXX_f8304a
+U5201;Centre distribution de Chaumont;Centre de Distribution Alimentaire;24 rue de Platanes   52000 CHAUMONT;48.10061;5.136918;24 Rue des Platanes 52000 Chaumont;0.85;housenumber;52121_1787_a1f82b
+U5202;Centre de distribution de Joinville;Centre de Distribution Alimentaire;37 rue Diderot Antenne de Joinville  52300 Joinville;48.440491;5.137188;37 Rue Diderot 52300 Joinville;0.54;housenumber;52250_0760_280cd9
+U5203;Centre distribution de Saint Dizier;Centre de Distribution Alimentaire;4 rue Edouard Chambre   52100 Saint Dizier;48.641229;4.941564;4 Rue Édouard Chambre 52100 Saint-Dizier;0.93;housenumber;52448_0612_0f3bfd
+U5301;Centre de distribution de Laval;Centre de Distribution Alimentaire;116A rue de Nantes  BP 90126 53001 LAVAL;48.065139;-0.77996;116A Rue de Nantes 53000 Laval;0.64;housenumber;53130_3770_7c4afe
+U5401;Centre de distribution de Jarny;Centre de Distribution Alimentaire;12, Rue Anatole France   54800 Jarny;49.163556;5.869743;12 Rue Anatole France 54800 Jarny;0.91;housenumber;54273_0070_dab119
+U5402;Centre distribution Dombasle sur Meurthe;Centre de Distribution Alimentaire;chemin du Béhard   54110 Dombasle sur Meurthe;48.618009;6.350855;Rue du Behard 54110 Dombasle-sur-Meurthe;0.73;street;54159_0064_cdd33b
+U5403;Centre distribution St Nicolas de Port;Centre de Distribution Alimentaire;Espace François Mitterrand rue Georges Rémy  54210 St Nicolas de Port;;;;;;
+U5404;Centre distribution de Varangéville;Centre de Distribution Alimentaire;Salle des fêtes 9 rue Gambetta  54110 Varangeville;48.634354;6.313177;9 Rue Gambetta 54110 Varangéville;0.61;housenumber;54549_0180_ed7c00
+U5405;Centre distribution Rosière aux Salines;Centre de Distribution Alimentaire;1 Chemin du Ravel   54110 Rosières aux Salines;48.598895;6.336238;1 Chemin du Ravel 54110 Rosières-aux-Salines;0.91;housenumber;54462_0960_8f68ff
+U5406;Centre distribution de Longuyon;Centre de Distribution Alimentaire;24 rue de Deauville   54260 Longuyon;49.44689;5.600421;24 Rue de Deauville 54260 Longuyon;0.92;housenumber;54322_0170_18515f
+U5407;Centre de distribution de Nancy;Centre de Distribution Alimentaire;19, Rue DE RIGNY   54000 NANCY;48.692688;6.169155;19 Rue de Rigny 54000 Nancy;0.94;housenumber;54395_4430_e1d2d3
+U5408;Centre distribution de Luneville;Centre de Distribution Alimentaire;7, Rue TROUILLET   54300 LUNEVILLE;48.586276;6.487746;7 Rue Monseigneur Trouillet 54300 Lunéville;0.67;housenumber;54329_XXXX_3baa01
+U5409;Centre distribution de Pont à Mousson;Centre de Distribution Alimentaire;14, Rue DU 26° B.C.P.   54700  PONT A MOUSSON;;;;;;
+U5410;Distribution CAP d'Auboué;Distribution de chèques;2 rue du 11 Novembre 1918   54580 Auboué;49.211706;5.975441;2 Rue du 11 Novembre 54580 Auboué;0.79;housenumber;54028_XXXX_9176a7
+U5411;Epicerie sociale de Longwy;Epicerie sociale;24 rue du Colonel Merlin   54400 Longwy;49.517575;5.770106;24 Rue du Colonel Merlin 54400 Longwy;0.92;housenumber;54323_0400_e00e56
+U5412;Centre de Distribution de Toul;Centre de Distribution Alimentaire;2 rue des anciens combattants d'Indochine  54200 Toul;48.672316;5.892887;2 Rue des Anciens Combattants d'Indochine 54200 Toul;0.92;housenumber;54528_XXXX_b5c138
+U5413;Centre de Distribution de Frouard;Centre de Distribution Alimentaire;rue du Professeur Colin   54390 FROUARD;48.759018;6.132272;Rue du Professeur Rémy Collin 54390 Frouard;0.78;street;54215_0370_bff93c
+U55;DD de la Meuse;Distribution de chèques;18, Rue HENRI DUNANT   55000 BAR LE DUC;48.774127;5.159217;18 Rue Henri Dunant 55000 Bar-le-Duc;0.93;housenumber;55029_XXXX_478f89
+U5501;Centre de distribution de Bar le Duc;Centre de Distribution Alimentaire;20 rue du Bourg   55000 Bar le Duc;48.774408;5.158974;20 Rue du Bourg 55000 Bar-le-Duc;0.94;housenumber;55029_0120_eda110
+U5502;FERMER CD de St Mihiel;Centre de Distribution Alimentaire;3 place des Alliés Délégation locale de St Mihiel  55300  BP 77 Saint Mihiel;48.889791;5.541413;3 Place des Alliés 55300 Saint-Mihiel;0.46;housenumber;55463_0030_35e72b
+U5503;Centre de distribution de Commercy;Centre de Distribution Alimentaire;1 rue Monplaisir   55200 Commercy;48.760792;5.58577;1 Rue Monplaisir 55200 Commercy;0.93;housenumber;55122_0530_c717af
+U5504;Distribution CAP de Revigny;Distribution de chèques;7 rue Victor Hugo Délégation locale de Revigny  55800 Revigny;48.819765;4.987982;7 Avenue Victor Hugo 55800 Revigny-sur-Ornain;0.37;housenumber;55427_0555_06c5da
+U5505;Centre de distribution d'Etain;Centre de Distribution Alimentaire;2 rue Lataye Délégation locale de la Croix Ro  55400 Etain;;;;;;
+U5506;Centre de distribution de Verdun;Centre de Distribution Alimentaire;18 rue St Louis Délégation locale de Verdun  55100 Verdun;49.157457;5.382807;18 Rue Saint-Louis 55100 Verdun;0.42;housenumber;55545_1250_b30aa4
+U5507;FERMER CD Vaucouleurs;Centre de Distribution Alimentaire;10 place d'armes   55140 VAUCOULEURS;48.600682;5.665941;10 Place d'Armes 55140 Vaucouleurs;0.92;housenumber;55533_0004_db34a7
+U56;DD du Morbihan;Distribution de chèques;21 route de Nantes   56860 SENE;47.653708;-2.735403;21 Route de Nantes 56860 Séné;0.91;housenumber;56243_0130_dc63de
+U5601;Distribution CAP de Questembert;Distribution de chèques;5 route de Péaule   56230 Questembert;47.661952;-2.461562;Rue Paul Valéry 56230 Questembert;0.47;street;56184_3419_d96d26
+U5602;Distribution de CAP de Lorient;Distribution de chèques;6-8 rue François Robin   56100 LORIENT;47.751612;-3.380022;8 Rue François Robin 56100 Lorient;0.88;housenumber;56121_2177_dd55d9
+U5603;Distribution CAP de Quiberon;Distribution de chèques;13 place du Varquez    ;47.482435;-3.122647;13 Place du Varquez 56170 Quiberon;0.51;housenumber;56186_1430_6c7961
+U5604;Samu social de Lorient;Samu social;6-8 rue François Robin   56100 LORIENT;47.751612;-3.380022;8 Rue François Robin 56100 Lorient;0.88;housenumber;56121_2177_dd55d9
+U5605;Samu social de Vannes;Samu social;23 route de Nantes   56860 SENE;47.653662;-2.735256;23 Route de Nantes 56860 Séné;0.91;housenumber;56243_0130_dc63de
+U5606;Point alimentation bébé de Vannes;Point alimentation bébé;23 route de Nantes Croix-rouge française  56860 SENE;;;;;;
+U5607;Distribution de CAP de Vannes;Distribution de chèques;23 route de Nantes   56860 SENE;47.653662;-2.735256;23 Route de Nantes 56860 Séné;0.91;housenumber;56243_0130_dc63de
+U5608;Point alimentation bébé de Lorient;Point alimentation bébé;6-8 rue François Robin   56100 LORIENT;47.751612;-3.380022;8 Rue François Robin 56100 Lorient;0.88;housenumber;56121_2177_dd55d9
+U5609;Distribution CAP de Ploermel;Distribution de chèques;26 rue du Général Leclerc   56800 PLOERMEL;47.92843;-2.39748;26 Rue du Général Leclerc 56800 Ploërmel;0.92;housenumber;56165_0161_2fec04
+U57;DD de la Moselle;Distribution de chèques;17 place St Glossinde   57000 METZ;49.113198;6.173619;17 Place Sainte-Glossinde 57000 Metz;0.74;housenumber;57463_6240_4d81e1
+U5701;Centre de distribution de Sarralbe;Centre de Distribution Alimentaire;rue Saint-Philippe   57430 SARRALBE;49.000161;7.028669;Rue Saint-Philippe 57430 Sarralbe;0.92;street;57628_1300_5e327a
+U5702;Epicerie sociale de Sarrebourg;Epicerie sociale;Unité locale 1 RUE BASSE  57400 SARREBOURG;48.735389;7.050713;1 Rue Basse 57400 Sarrebourg;0.63;housenumber;57630_0040_a6cc48
+U5703;Centre de distribution d'Uckange;Centre de Distribution Alimentaire;rue Anatole France   57270 UCKANGE;49.299639;6.151305;Rue Anatole France 57270 Uckange;0.91;street;57683_0025_12c54a
+U5704;Centre de distribution de Fontoy;Centre de Distribution Alimentaire;Ecole du centre Rue de Metz  57650 Fontoy;49.347194;6.006361;Rue de Metz 57650 Fontoy;0.55;street;57226_0420_f789f5
+U5705;Centre distribution de Hagondange;Centre de Distribution Alimentaire;137, Rue DE METZ   57300 HAGONDANGE;49.245275;6.170019;137 Rue de Metz 57300 Hagondange;0.92;housenumber;57283_0480_b1f0a1
+U5706;FERMER CD de Boulay;Centre de Distribution Alimentaire;9, Rue DU GENERAL NEWINGER   57220 BOULAY;49.178944;6.495304;9 Rue Général Newinger 57220 Boulay-Moselle;0.71;housenumber;57097_0155_06f07e
+U5707;FERMER CD de Bouzonville;Centre de Distribution Alimentaire;3, Place DU GENERAL DE GAULLE   57320 Bouzonville;49.290093;6.535483;3 Place du Général de Gaulle 57320 Bouzonville;0.92;housenumber;57106_0415_5181a9
+U5708;Distribution CAP de Creutzwald;Distribution de chèques;2A, Rue de la Trimouille   57150 CREUTZWALD;49.196876;6.702799;2A Rue de la Trimouille 57150 Creutzwald;0.91;housenumber;57160_1575_6292af
+U5709;Distribution CAP Ars sur Moselle;Distribution de chèques;4 rue Poincarré   57130 ARS SUR MOSELLE;49.076695;6.076146;4 Rue Poincaré 57130 Ars-sur-Moselle;0.9;housenumber;57032_0460_66a59c
+U5710;Distribution CAP Metz;Distribution de chèques;17, Place SAINTE GLOSSINDE   57000 METZ;49.113198;6.173619;17 Place Sainte-Glossinde 57000 Metz;0.94;housenumber;57463_6240_4d81e1
+U5711;FERMER CD de Metz;Centre de Distribution Alimentaire;26 rue des Marronniers   57070 METZ;49.134084;6.215548;26 Rue des Marronniers 57070 Metz;0.94;housenumber;57463_4297_50f3da
+U5712;Centre distribution de Audun le Tiche;Centre de Distribution Alimentaire;10 rue Maréchal Foch   57390 Audun le Tiche;49.472718;5.957222;10 Rue du Maréchal Foch 57390 Audun-le-Tiche;0.85;housenumber;57038_0280_5a42b2
+U5713;Centre de distribution de Guénange;Centre de Distribution Alimentaire;11 boulevard du Pont   57310 Guénange;49.298546;6.197717;11 Boulevard du Pont 57310 Guénange;0.91;housenumber;57269_0540_355b3c
+U5714;Centre distribution de Sierck les Bains;Centre de Distribution Alimentaire;24 rue l'Europe   57480 Sierck les Bains;49.446348;6.367427;24 Rue de l'Europe 57480 Sierck-les-Bains;0.85;housenumber;57650_0150_f27ff5
+U5715;Centre distribution de St Avold;Centre de Distribution Alimentaire;1, Route DE PORCELETTE   57503 St Avold;49.126148;6.699974;Route de Porcelette 57500 Saint-Avold;0.67;street;57606_1519_cdb143
+U5716;Centre distribution de Dieuze;Centre de Distribution Alimentaire;114, Chemin DU CALVAIRE   57260 DIEUZE;48.809134;6.722305;114 Chemin du Calvaire 57260 Dieuze;0.92;housenumber;57177_0260_098433
+U5717;Distribution CAP de Forbach;Distribution de chèques;15, Rue de Remsing   57600 FORBACH;49.182229;6.893282;15 Rue de Remsing 57600 Forbach;0.93;housenumber;57227_0960_16130d
+U5718;Distribution CAP de Sarreguemines;Distribution de chèques;22, Rue FULRAD   57200 Sarreguemines;49.119755;7.072904;22 Rue Fulrad 57200 Sarreguemines;0.93;housenumber;57631_0620_542977
+U5719;Centrre de distribution de Morhange;Centre de Distribution Alimentaire;1 avenue du Leclerc   57340 Morhange;48.923333;6.638626;1 Avenue du Maréchal Leclerc 57340 Morhange;0.72;housenumber;57483_0242_7cace7
+U5720;Centre distribution de Yutz;Centre de Distribution Alimentaire;23 avenue comte de Bertier   57100 thionville;49.369078;6.169169;23 Avenue Comte de Bertier 57100 Thionville;0.94;housenumber;57672_0690_93214d
+U5721;Entrepot de Thionville;Entrepôt pour aide matérielle;14 et 16 rue cormontaigne   57100 THIONVILLE;49.352134;6.174098;16 Rue Cormontaigne 57100 Thionville;0.79;housenumber;57672_0730_e7fb0d
+U5722;Epicerie sociale de Metz;Epicerie sociale;26 rue des maronniers   57070 Metz;49.134084;6.215548;26 Rue des Marronniers 57070 Metz;0.91;housenumber;57463_4297_50f3da
+U5901;Centre de distribution de Denain;Centre de Distribution Alimentaire;18 rue du Président Allende   59220 Denain;50.328417;3.385407;18 Rue Salvador Allende 59220 Denain;0.51;housenumber;59172_XXXX_8edd52
+U5902;Centre de distribution de Lille;Centre de Distribution Alimentaire;10-12 place Dampierre   59000 LILLE;50.622766;3.078531;12 Place Guy de Dampierre 59000 Lille;0.7;housenumber;59350_4302_336ef2
+U5903;Centre de distribution de Wattignies;Centre de Distribution Alimentaire;Centre social du Blanc-Riez Rue du Petit Bois  59139 Wattignies;50.592532;3.046496;Rue du Blanc Riez 59139 Wattignies;0.5;street;59648_0022_098c13
+U5904;Centre de distribution de Templemars;Centre de Distribution Alimentaire;Maison de la Solidarité rue Edouard Watrelot  59175 TEMPLEMARS;;;;;;
+U5905;Centre distribution Roubaix;Centre de Distribution Alimentaire;25 rue du Pays   59100 ROUBAIX;50.694545;3.173379;25 Rue du Pays 59100 Roubaix;0.92;housenumber;59512_4340_70106f
+U5906;Centre de distribution Houplin-Ancoisne;Centre de Distribution Alimentaire;Maison des Solidarités 324 rue Roger Salengro  59263 HOUPLIN ANCOISNE;50.561547;3.004547;324 Rue Roger Salengro 59263 Houplin-Ancoisne;0.6;housenumber;59316_0640_6f8939
+U5907;Centre de distribution de Bailleuil;Centre de Distribution Alimentaire;23 Arnouldstraete   59270 BAILLEUL;50.736108;2.735957;23 Arnould Straete 59270 Bailleul;0.84;housenumber;59043_XXXX_14249b
+U5908;Centre de distribution de Thumeries;Centre de Distribution Alimentaire;2 place du Général Leclerc   59239 Thumeries;50.479615;3.054138;2 Place du Général Leclerc 59239 Thumeries;0.91;housenumber;59592_XXXX_cf6cdf
+U5909;Centre distribution de Dunkerque;Centre de Distribution Alimentaire;27 Rue Marengo   59140 DUNKERQUE;51.031362;2.381266;27 Rue Marengo 59140 Dunkerque;0.93;housenumber;59183_1110_d3bcc8
+U5910;Centre de distribution St Amand les Eaux;Centre de Distribution Alimentaire;101 rue du faubourg de Tournai Espace Silodarite Raymont Bede  59230 Saint Amand les Eaux;;;;;;
+U5911;Centre de distribution de Maubeuge;Centre de Distribution Alimentaire;60 rue Jeanne d'Arc  BP 80174 Espace Victor Hugo  59600 Maubeuge;;;;;;
+U5912;Centre distribution St-André-Lez-Lille;Centre de Distribution Alimentaire;182 rue général Leclerc   59350 Saint-André-Lez-Lille;50.666128;3.050129;182 Rue du Général Leclerc 59350 Saint-André-lez-Lille;0.86;housenumber;59527_0410_0acecb
+U5913;Centre de distribution de Douai;Centre de Distribution Alimentaire;98 RUE DE MARCHIENNES   59500 DOUAI;50.378617;3.088678;98 Rue de Marchiennes 59500 Douai;0.93;housenumber;59178_2750_7adeeb
+U5914;Centre distribution de Caudry;Centre de Distribution Alimentaire;16, rue de Belfort   59540 CAUDRY;50.119952;3.404593;16 Rue de Belfort 59540 Caudry;0.92;housenumber;59139_0180_831394
+U5915;Centre de distribution de Valenciennes;Centre de Distribution Alimentaire;2 RUE MIRLAND   59300 Valenciennes;50.350367;3.512072;2 Rue René Mirland 59300 Valenciennes;0.8;housenumber;59606_3250_434160
+U5916;Centre de distribution de Cambrai;Centre de Distribution Alimentaire;Grand rue Fénelon   59400 CAMBRAI;50.176571;3.228231;Grand-Rue Fénelon 59400 Cambrai;0.93;street;59122_1300_13aa12
+U5917;Centre de distribution de Tourcoing;Centre de Distribution Alimentaire;2 rue de la vigne   59200 TOURCOING;50.720168;3.141701;2 Rue de la Vigne 59200 Tourcoing;0.93;housenumber;59599_5620_45e0ec
+U5918;Centre de distribution de Hautmont;Centre de Distribution Alimentaire;3 rue thiers   59330 HAUTMONT;50.250213;3.920628;3 Rue Thiers 59330 Hautmont;0.93;housenumber;59291_1210_b59b1c
+U5919;Epicerie sociale de Lille;Epicerie sociale;10-12 place Guy de Dampierre   59000 LILLE;50.622766;3.078531;12 Place Guy de Dampierre 59000 Lille;0.87;housenumber;59350_4302_336ef2
+U5920;Centre de distribution de Jeumont;Centre de Distribution Alimentaire;85 rue Louis Pasteur   59460 JEUMONT;50.29558;4.107173;85 Rue Pasteur 59460 Jeumont;0.75;housenumber;59324_0410_fd5924
+U60;DD de l'Oise;Distribution de chèques;30 rue des Censives   60000 TILLE;49.455086;2.096714;Avenue des Censives 60000 Tillé;0.7;street;60639_0045_312b2e
+U6001;Centre de distribution de Mouy;Centre de Distribution Alimentaire;129 rue de Noeud   60250 MOUY;49.323244;2.315621;129 Rue de Noeud 60250 Mouy;0.93;housenumber;60439_0415_e455d8
+U6002;Centre de distribution de Creil;Centre de Distribution Alimentaire;10 rue Marcel Philippe   60100 CREIL;49.260119;2.478132;10 Rue Marcel Philippe 60100 Creil;0.92;housenumber;60175_0760_e14e3a
+U6003;Distribution de CAP Compiégne;Centre de Distribution Alimentaire;16, Rue LE FERON   60200 COMPIEGNE;49.419137;2.827457;16 Rue le Féron 60200 Compiègne;0.93;housenumber;60159_2130_24df71
+U6004;Distribution CAP Noyon;Distribution de chèques;33, Rue DE PARIS   60402 NOYON;49.57993;2.996994;33 Rue de Paris 60400 Noyon;0.8;housenumber;60471_1070_52fba3
+U6005;Distribution CAP Senlis;Distribution de chèques;72, Rue du Moulin Saint Rieul   60300 SENLIS;49.214199;2.592719;72 Rue du Moulin Saint-Rieul 60300 Senlis;0.93;housenumber;60612_0905_1bb179
+U6006;Distribution CAP de Noailles;Distribution de chèques;18 place du marché   60430 NOAILLES;49.328989;2.200856;18 Place du Marche 60430 Noailles;0.92;housenumber;60462_0100_afc83c
+U6007;Distribution CAP de Nanteuil;Distribution de chèques;rue du Moulin Ferry Bât Péguy  60440 Nanteuil;49.13714;2.8162;Rue du Moulin Ferry 60440 Nanteuil-le-Haudouin;0.56;street;60446_0253_15b4ca
+U6008;Distribution CAP de Crépy en Valois;Distribution de chèques;9 bis bd Victor Hugo   60800 Crépy en Valois;49.231793;2.888212;Boulevard Victor Hugo 60800 Crépy-en-Valois;0.65;street;60176_1100_be09ef
+U6009;Distribution CAP de Beauvais;Distribution de chèques;Boulevard Aristide Briand   60000 Beauvais;49.42655;2.07999;Boulevard Aristide Briand 60000 Beauvais;0.94;street;60057_0280_326cb2
+U61;DD de l'Orne;Centre de Distribution Alimentaire;3-5 rue de l'Isle   61000 ALENCON;48.427402;0.089918;5 Rue de l'Isle 61000 Alençon;0.88;housenumber;61001_1460_58bf16
+U6101;Distribution CAP Mortagne au Perche;Distribution de chèques;Croix Rouge Française Délegation locale Rue du Faubourg St Eloi 61400 Mortagne au Perche;;;;;;
+U6102;Centre de distribution d'Alençon;Centre de Distribution Alimentaire;3 rue de l'Isle.   61000 ALENCON;48.427394;0.089782;3 Rue de l'Isle 61000 Alençon;0.94;housenumber;61001_1460_58bf16
+U6103;A DEFINIR;Centre de Distribution Alimentaire;   61400 MORTAGNE AU PERCHE;48.519727;0.547273;Mortagne-au-Perche;0.72;town;61293
+U62;DD Pas-de-Calais;Centre de Distribution Alimentaire;15 rue du Général Barbot   62000 ARRAS;50.290655;2.769707;15 Rue du Général Barbot 62000 Arras;0.93;housenumber;62041_1810_86627b
+U6201;Centre distribution de Saint Omer;Centre de Distribution Alimentaire;32, Rue ALLENT   62500 Saint Omer;50.751624;2.2576;32 Rue Allent 62500 Saint-Omer;0.93;housenumber;62765_0070_6e079e
+U6202;Centre distribution de Boulogne sur mer;Centre de Distribution Alimentaire;12, Rue PERROCHEL   62200 BOULOGNE SUR MER;50.720923;1.606645;12 Rue de Perrochel 62200 Boulogne-sur-Mer;0.87;housenumber;62160_1044_f7a21f
+U6203;Centre de distribution Montreuil;Centre de Distribution Alimentaire;  5 rue de la Chaîne 62170 Montreuil sur Mer;50.463444;1.762336;5 Rue de la Chaîne 62170 Montreuil;0.75;housenumber;62588_0180_0390a9
+U6204;Centre distribution de Lens;Centre de Distribution Alimentaire;176 rue Van Pelt   62300 Lens;50.430654;2.845914;176 Avenue Alfred Van Pelt 62300 Lens;0.6;housenumber;62498_0090_e5aa1a
+U6205;Centre de distribution d'Arras;Centre de Distribution Alimentaire;17 rue du Général Barbot   62000 Arras;50.290565;2.769502;17 Rue du Général Barbot 62000 Arras;0.93;housenumber;62041_1810_86627b
+U6206;Centre de distribution de Liévin;Centre de Distribution Alimentaire;176 Avenue Jean Jaurès   62800 LIEVIN;50.424319;2.790261;Avenue Jean Jaurès 62800 Liévin;0.82;street;62510_1890_1564ee
+U6207;Centre distribution de Calais;Centre de Distribution Alimentaire;71 rue Magenta   62101 Calais;48.075492;-0.764235;71 Rue Magenta 53000 Laval;0.45;housenumber;53130_3440_f3a583
+U6208;Centre distribution Bruay la Buissière;Centre de Distribution Alimentaire;57 Bd Basly   62700 Bruay la Buissiere;50.482462;2.537097;57 Boulevard Émile Basly 62700 Bruay-la-Buissière;0.65;housenumber;62178_XXXX_61d601
+U6209;Centre distribution d'Auchel;Centre de Distribution Alimentaire;Centre Accueil  André Mancey  62260 Auchel;50.504163;2.467194;Place André Mancey 62260 Auchel;0.64;street;62048_0053_4bbf76
+U6210;Centre distribution de Bethune;Centre de Distribution Alimentaire;CENTRE JEAN MONNET II Place DE L'EUROPE B.P. 362 62400 BETHUNE;;;;;;
+U6211;Centre distribution  St Pol sur Ternoise;Centre de Distribution Alimentaire;12 rue de Fruges   62130 Saint Pol sur Ternoise;50.381893;2.333588;12 Rue de Fruges 62130 Saint-Pol-sur-Ternoise;0.92;housenumber;62767_0270_deb9f4
+U6212;Centre de distribution Méricourt;Centre de Distribution Alimentaire;Rue Pasteur Maison de la solidarité  62680 MERICOURT;;;;;;
+U6213;Centre de Distribution de Berck;Centre de Distribution Alimentaire;81 rue Rothschild   62600 BERCK SUR MER;50.409692;1.565026;81 Rue Rothschild 62600 Berck;0.73;housenumber;62108_1560_6d97f0
+U6301;Centre de distribution d'Issoire;Centre de Distribution Alimentaire;17 avenue Jean Jaurès   63500 ISSOIRE;45.547828;3.256033;17 Avenue Jean Jaurès 63500 Issoire;0.93;housenumber;63178_0853_8ed4c1
+U6302;Centre de distribution de Riom;Centre de Distribution Alimentaire;2 avenue Antoine CAUX   63200 RIOM;45.889486;3.110588;2 Avenue Antoine Caux 63200 Riom;0.93;housenumber;63300_0090_bc12fd
+U6303;Centre Distribution Clermont Ferrand;Centre de Distribution Alimentaire;23 boulevard Jean Moulin   63000 CLERMONT FERRAND;45.778825;3.117033;23 Boulevard Jean Moulin 63000 Clermont-Ferrand;0.94;housenumber;63113_2472_d72250
+U6401;Centre de distribution d'Hendaye;Centre de Distribution Alimentaire;10 rue de la Halle   64700 Hendaye;43.360183;-1.774076;10 Rue de la Halle 64700 Hendaye;0.92;housenumber;64260_1140_b79784
+U6402;Centre distribution Saint Jean de Luz;Centre de Distribution Alimentaire;Pavillon Henry Dunant- Allée Per   64500 Saint Jean de Luz;;;;;;
+U6403;Epicerie sociale de Bayonne;Epicerie sociale;58 allée Marines   64100 BAYONNE;43.499493;-1.489833;58 Avenue des Allées Marines 64100 Bayonne;0.67;housenumber;64102_XXXX_42a296
+U6404;Centre de distribution de Biarritz;Centre de Distribution Alimentaire;16 avenue d'Etienne   64200 BIARRITZ;43.487603;-1.545313;16 Avenue d'Étienne 64200 Biarritz;0.93;housenumber;64122_0590_be99ce
+U6405;Epicerie sociale de Pau Coupfin;Epicerie sociale;15-17 rue Bernadotte   64000 PAU;43.297369;-0.373256;17 Rue Bernadotte 64000 Pau;0.84;housenumber;64445_0530_50db68
+U6406;Epicerie sociale d'Orthez;Epicerie sociale;10 avenue Kennedy   64300 ORTHEZ;43.487299;-0.766006;10 Avenue du Président Kennedy 64300 Orthez;0.64;housenumber;64430_0650_4a8cba
+U6501;Centre distribution de Lourdes;Centre de Distribution Alimentaire;54, Rue DU BOURG   65100 LOURDES;43.097283;-0.04785;54 Rue du Bourg 65100 Lourdes;0.93;housenumber;65286_0340_36d71a
+U6502;Centre distribution de Tarbes;Centre de Distribution Alimentaire;Impasse des Cerisiers   65000 TARBES;43.252564;0.073198;Impasse des Cerisiers 65000 Tarbes;0.93;street;65440_0606_3ab212
+U6503;Centre distribution de Maubourguet;Centre de Distribution Alimentaire;50 Rue Aveilhe   65700 MAUBOURGUET;43.470284;0.033738;Rue Ferdinand Aveilhe 65700 Maubourguet;0.63;street;65304_0115_c32ab1
+U6504;Centre distribution Bagnères de Bigorre;Centre de Distribution Alimentaire;1 rue Latécoère   65200 Bagnères de Bigorre;43.070698;0.155256;1 Rue Pierre Latecoère 65200 Bagnères-de-Bigorre;0.79;housenumber;65059_1090_60e52f
+U6505;Centre de distribution Lannemezan;Centre de Distribution Alimentaire;"Rue du Professeur Dessens""   65300 LANNEMEZAN";43.124897;0.379596;Rue du Professeur Henri Dessens 65300 Lannemezan;0.81;street;65258_XXXX_c161a4
+U6506;Centre de distribution de Vic en Bigorre;Centre de Distribution Alimentaire;Rue Barrère de Vieuzac Centre socio culturel  65500 VIC EN BIGORRE;43.384956;0.056517;Rue Barère de Vieuzac 65500 Vic-en-Bigorre;0.6;street;65460_XXXX_4326fd
+U6601;Epicerie sociale de Vinça;Epicerie sociale;8 rue de l'Eglise   66320 Vinça;42.64503;2.527927;Rue de l'Église 66320 Vinça;0.86;street;66230_0107_6e82e3
+U6602;Epicerie sociale de Perpignan;Epicerie sociale;24 places des Orfèvres   66000 PERPIGNAN;42.698623;2.896456;24 Place des Orfèvres 66000 Perpignan;0.86;housenumber;66136_XXXX_fa0c2d
+U6603;Centre de distribution de Rivesaltes;Centre de Distribution Alimentaire;8 rue Bérenger   66600 RIVESALTES;42.769725;2.87472;8 Rue Béranger 66600 Rivesaltes;0.81;housenumber;66164_0150_23696f
+U6701;Centre distribution de Saverne;Centre de Distribution Alimentaire;Foyer St Joseph rue de Gottenhouse  67700 Saverne;;;;;;
+U6702;Centre de distribution d'Erstein;Centre de Distribution Alimentaire;1 rue Louise Weiss   67150 ERSTEIN;48.420927;7.665647;1 Rue Louise Weiss 67150 Erstein;0.92;housenumber;67130_XXXX_fabcdb
+U6703;Centre de distribution de Molsheim;Centre de Distribution Alimentaire;30 rue Schweighaeuser   67000 STRASBOURG;48.587592;7.767462;30 Rue Schweighaeuser 67000 Strasbourg;0.94;housenumber;67482_6385_1be135
+U6704;Centre de distribution Strasbourg;Centre de Distribution Alimentaire;30 rue Schweighaeuser   67000 STRASBOURG;48.587592;7.767462;30 Rue Schweighaeuser 67000 Strasbourg;0.94;housenumber;67482_6385_1be135
+U6705;Centre de distribution de Wasselonne;Centre de Distribution Alimentaire;2a rue de Cosswiller   67310 WASSELONNE;48.635359;7.434679;Rue de Cosswiller 67310 Wasselonne;0.85;street;67520_0400_70f681
+U6801;Centre de distribution de Mulhouse;Centre de Distribution Alimentaire;102 rue Vauban   68100 MULHOUSE;47.759001;7.342934;102 Rue Vauban 68100 Mulhouse;0.94;housenumber;68224_7470_60bffb
+U69;DD du Rhône 69;Distribution de chèques;61 Quai Créqui   69006 LYON 6EME ARRONDISSEMENT;;;;;;
+U6901;FERMER - CD Villeurbanne;Centre de Distribution Alimentaire;17, Rue PIERRE LOTI   69100 VILLEURBANNE;45.76844;4.8871;17 Rue Pierre Loti 69100 Villeurbanne;0.93;housenumber;69266_3240_80930a
+U6902;Centre distribution de Lyon 6;Centre de Distribution Alimentaire;25 rue Montgolfier   69006 LYON 6EME ARRONDISSEMENT;45.768065;4.849135;Lyon 6e Arrondissement;0.42;city;69386
+U6903;Distribution CAP Villefranche sur Saône;Distribution de chèques;537, Rue D'ANSE   69400 VILLEFRANCHE SUR SAONE;45.9808;4.717814;537 Rue d'Anse 69400 Villefranche-sur-Saône;0.94;housenumber;69264_0090_e1208e
+U6904;Centre de distribution de Lyon 9;Centre de Distribution Alimentaire;30 rue Louis Loucheur   69009 LYON 9EME ARRONDISSEMENT;45.773274;4.805546;Lyon 9e Arrondissement;0.39;city;69389
+U6905;Centre de distribution de Brignais;Centre de Distribution Alimentaire;52 rue de ronde   69530 Brignais;45.673843;4.755328;52 Rue de Ronde 69530 Brignais;0.91;housenumber;69027_0700_12d5cb
+U6906;Epicerie sociale Villeurbanne;Epicerie sociale;150 rue Anatole France   69100 VILLEURBANNE;45.769187;4.88583;150 Rue Anatole France 69100 Villeurbanne;0.93;housenumber;69266_0150_aeed0a
+U6907;Centre distrib St Laurent de Chamousset;Centre de Distribution Alimentaire;CENTRE 2000 ALLEE C  69930 ST LAURENT DE CHAMOUSSET;45.73942;4.462157;RESIDENCE CENTRE 2000 69930 Saint-Laurent-de-Chamousset;0.63;locality;69220_A009_62e3a1
+U6908;Centre distribution St Martin en haut;Centre de Distribution Alimentaire;9 rue Vaganay   69850 Saint martin en Haut;45.660635;4.561212;9 Rue de Vaganay 69850 Saint-Martin-en-Haut;0.85;housenumber;69227_0440_3d3957
+U6909;Samu social de Lyon;Samu social;61 rue de Créqui   69006 LYON 6EME ARRONDISSEMENT;45.768065;4.849135;Lyon 6e Arrondissement;0.43;city;69386
+U6910;Centre de distribution Thizy les Bourgs;Centre de Distribution Alimentaire;5 rue Edouards Millaud   69240 BOURG DE THIZY;46.02811;4.315589;5 Rue Édouard Millaud 69240 Thizy-les-Bourgs;0.71;housenumber;69248_0300_cbb436
+U6911;Centre de distribution de Tarare;Centre de Distribution Alimentaire;4 rue Etienne Thomassin   69170 TARARE;45.899496;4.434049;4 Rue Étienne Thomassin 69170 Tarare;0.92;housenumber;69243_0540_6c63da
+U70;Distribution CAP DD Vesoul;Distribution de chèques;29 Rue d'Alsace Lorraine   70000 Vesoul;47.622393;6.155846;29 Rue d'Alsace Lorraine 70000 Vesoul;0.94;housenumber;70550_0050_fb9999
+U7001;Centre de distribution d'Héricourt;Centre de Distribution Alimentaire;8 Rue Marcel BARDOT   70400 HERICOURT;47.575557;6.765112;8 Rue Marcel Bardot 70400 Héricourt;0.92;housenumber;70285_0666_d3af20
+U7002;Centre de Distribution de Gray;Centre de Distribution Alimentaire;10 RUE DES CASERNES   70100 GRAY;47.444631;5.5929;10 Rue des Casernes 70100 Gray;0.92;housenumber;70279_0090_0793a4
+U7003;Centre de Distribution de Plancher les M;Centre de Distribution Alimentaire;Rue de France   70290 Plancher les Mines;47.757024;6.738164;Rue de France 70290 Plancher-les-Mines;0.91;street;70414_0001_e2b121
+U7004;Centre de Distribution de Lure;Centre de Distribution Alimentaire;rue des jardins   70200 Lure;47.686791;6.500178;Rue des Jardins 70200 Lure;0.93;street;70310_0260_33b337
+U7005;Centre distribution de Vesoul;Centre de Distribution Alimentaire;78 BOULEVARD DES ALLIES   70000 Vesoul;47.618972;6.165417;78 Boulevard des Alliés 70000 Vesoul;0.94;housenumber;70550_0040_dba377
+U7006;Centre de distribution Luxeuil les Bains;Centre de Distribution Alimentaire;Rue Sergent Bonnot  BP.18 70300 Luxueil les Bains;47.816984;6.381987;Rue du Sergent Bonnot 70300 Luxeuil-les-Bains;0.66;street;70311_0535_cdc7f6
+U7007;Centre de distribution de Jussey;Centre de Distribution Alimentaire;route de Gevigny   70500 Jussey;47.829476;5.99189;Route de Jussey 70500 Venisey;0.55;street;70545_XXXX_684125
+U7008;Centre de distribution St Loup sur Semou;Centre de Distribution Alimentaire;  Chateau Maillard 70800 St Loup sur Semouse;47.887202;6.267437;Rue du Vieux Château 70800 Saint-Loup-sur-Semouse;0.53;street;70467_0251_51965f
+U7009;Centre distribution itinérant Haute-Saôn;Centre de Distribution Alimentaire;78 Boulevard des Alliés   70000 VESOUL;47.618972;6.165417;78 Boulevard des Alliés 70000 Vesoul;0.94;housenumber;70550_0040_dba377
+U7101;EBM St Pantaléon;Espace bébé maman;Centre commercial. avenue de la République St Pantaleon 71400 AUTUN;;;;;;
+U7102;Centre de distribution de Macon;Centre de Distribution Alimentaire;816 Av de Lattre de Tassigny   71000 MACON;46.312161;4.838752;816 Avenue Maréchal de Lattre de Tassigny 71000 Mâcon;0.68;housenumber;71270_XXXX_f448fe
+U7103;Epicerie sociale de Macon;Epicerie sociale;8 Rue Bel Air   71000 MACON;46.312709;4.827458;8 Rue Bel-Air 71000 Mâcon;0.93;housenumber;71270_0580_2601ad
+U7104;Samu social de Chalon sur Saône;Samu social;15 Impasse de la Tranchée Délégation locale du Chalonnais  71100 Chalon sur Saône;;;;;;
+U7105;Centre de distribution Le Creusot;Centre de Distribution Alimentaire;11rue saint-henri   71200  Le Creusot;46.796856;4.421831;Rue Saint-Henri 71200 Le Creusot;0.87;street;71153_4160_320efb
+U7106;Centre de distribution Cluny;Centre de Distribution Alimentaire;6 petite rue de la leveé   71250 Cluny;46.431858;4.662358;6 Petite Rue de la Levée 71250 Cluny;0.92;housenumber;71137_0585_1becd3
+U7107;Centre distribution Montceau-Les-Mines;Centre de Distribution Alimentaire;10 rue de la loge   71304 Montceau-les-Mines;46.681457;4.382505;10 Rue de la Loge 71300 Montceau-les-Mines;0.84;housenumber;71306_3750_0c5ee8
+U7108;Centre de distribution  Pierre-de-Bresse;Centre de Distribution Alimentaire;2 Rue du Château   71270 Pierre-de-Bresse;46.882935;5.261542;2 Rue du Château 71270 Pierre-de-Bresse;0.92;housenumber;71351_0032_6c30a9
+U7201;Centre de distribution Le Mans;Centre de Distribution Alimentaire;1-2 Place du Pré Délégation locale du Mans  72000 LE MANS;48.004968;0.200175;2 Place des Comtes du Maine 72000 Le Mans;0.43;housenumber;72181_1429_8f5bfc
+U7202;Centre de distribution de la Fleche;Centre de Distribution Alimentaire;59 bis rue Pasteur   72200 LA FLECHE;47.692366;-0.07217;Rue Pasteur 72200 La Flèche;0.74;street;72154_3530_659d20
+U7203;FERME CD de Le Lude;Centre de Distribution Alimentaire;60 Boulevard Fisson   72800 Le Lude;47.646163;0.15372;60 Boulevard Fisson 72800 Le Lude;0.93;housenumber;72176_XXXX_076b60
+U73;DD Savoie;Distribution de chèques;62, Passage SEBASTIEN CHARLETY   73000 CHAMBERY;45.563736;5.920085;62 Passage Sébastien Charlety 73000 Chambéry;0.92;housenumber;73065_3580_94430d
+U7301;Centre de distribution de la Rochette;Centre de Distribution Alimentaire;1 Rue de la République   73110 La Rochette;45.45672;6.118051;Rue de la République 73110 La Rochette;0.88;street;73215_0360_8d2588
+U7302;Distribution CAP de Modane;Distribution de chèques;31, Rue JULES FERRY   73500 MODANE;45.200827;6.672213;31 Rue Jules Ferry 73500 Modane;0.92;housenumber;73157_0270_ae2b45
+U7303;Distribution CAP Chambery;Distribution de chèques;521, Rue NICOLAS PARENT   73000 CHAMBERY;45.574249;5.913028;521 Rue Nicolas Parent 73000 Chambéry;0.94;housenumber;73065_2900_62c993
+U7304;Distribution CAP Moutiers Tarentaise;Distribution de chèques;82, Rue du chemin de fer   73600 MOUTIERS TARENTAISE;45.485365;6.534111;82 Rue du Chemin de Fer 73600 Moûtiers;0.71;housenumber;73181_0280_5c2c53
+U7305;Centre de distribution Aix les Bains;Centre de Distribution Alimentaire;109 Boulevard Wilson   73100 Aix les bains;45.690689;5.909431;109 Boulevard Président Wilson 73100 Aix-les-Bains;0.74;housenumber;73008_1770_059d1a
+U7306;Centre de distribution Albertville;Centre de Distribution Alimentaire;5-7 Cours de l'Hôtel de Ville   73200 ALBERTVILLE;45.676341;6.393343;7 Cours de l'Hôtel de Ville 73200 Albertville;0.89;housenumber;73011_0850_4cb39d
+U7307;Centre distribution Pont de Beauvoisin;Centre de Distribution Alimentaire;rue de Tissandiers   73330 Pont de Beauvoisin;45.538191;5.672066;Rue des Tissandiers 73330 Le Pont-de-Beauvoisin;0.84;street;73204_0290_dfa714
+U74;DD Haute Savoie;Centre de Distribution Alimentaire;1 quai des Clarisses   74000 ANNECY;45.898635;6.123534;1 Quai des Clarisses 74000 Annecy;0.92;housenumber;74010_0575_a34a7e
+U7401;Centre distribution Anthy sur Léman;Centre de Distribution Alimentaire;37 chemin du Pré-Biollat Espace Léman  74200 ANTHY-SUR-LEMAN;46.349682;6.435556;Chemin du Pré Biollat 74200 Anthy-sur-Léman;0.66;street;74013_0225_64cf05
+U7402;Centre distribution La Roche sur Foron;Centre de Distribution Alimentaire;84, Rue DU FAUCIGNY   74800 LA ROCHE SUR FORON;46.070949;6.30552;84 Rue du Faucigny 74800 La Roche-sur-Foron;0.92;housenumber;74224_0448_3a269c
+U7403;Samu social de Thonon les Bains;Samu social;22, Rue JEAN BLANCHARD   74200 THONON LES BAINS;46.369589;6.482403;22 Rue Jean Blanchard 74200 Thonon-les-Bains;0.93;housenumber;74281_0880_c72aea
+U7404;Centre de distribution d'Annecy;Centre de Distribution Alimentaire;1 Quai des Clarisses   74000 ANNECY;45.898635;6.123534;1 Quai des Clarisses 74000 Annecy;0.92;housenumber;74010_0575_a34a7e
+U7405;Epicerie sociale Rumilly;Epicerie sociale;21 place de l'Hôtel de Ville   74150 Rumilly;45.866582;5.942226;21 Place de l'Hôtel de Ville 74150 Rumilly;0.93;housenumber;74225_0690_cb7014
+U7501;Epicerie sociale de Paris 15;Epicerie sociale;71 rue Amiral Roussin   75015 PARIS 15EME ARRONDISSEMENT;;;;;;
+U7502;Samu social de Paris 15;Samu social;37 rue des périchaux   75015 PARIS 15EME ARRONDISSEMENT;48.840698;2.299681;15e Arrondissement;0.34;city;75115
+U7503;Epicerie sociale de Paris 12;Epicerie sociale;18-20 rue Edouard Robert   75012 PARIS 12EME ARRONDISSEMENT;;;;;;
+U7601;Centre de distribution Fécamp;Centre de Distribution Alimentaire;Espace henri dunant Rue Henri Dunant  76400 Fécamp;49.75792;0.385384;Rue Henri Dunant 76400 Fécamp;0.55;street;76259_0950_3c91f8
+U7602;A DEFINIR (CAP);Distribution de chèques;10 Bis rue Desmarets CROIX-ROUGE FRANCAISE – DELEGATI  76200 DIEPPE;;;;;;
+U7603;FERME Centre distribution Dieppe;Centre de Distribution Alimentaire;10 bis rue Desmarets   76200 DIEPPE;49.922981;1.074669;Rue Desmarets 76200 Dieppe;0.73;street;76217_0940_c2ea73
+U7604;Centre de Distrib. Havre Pré Fleuri;Centre de Distribution Alimentaire;19 allée Jean Vilar   76610 Le Havre;49.505531;0.183807;Allée Jean Vilar 76610 Le Havre;0.84;street;76351_4437_8af128
+U7605;Centre de Distribution Havre Aplemont;Centre de Distribution Alimentaire;3 rue des Aubepines   76620 Le havre;49.509886;0.152706;3 Rue des Aubépines 76610 Le Havre;0.83;housenumber;76351_0480_4e5067
+U7606;Centre de Distribution Havre Briand;Centre de Distribution Alimentaire;270/272 rue Aristide Briand   76600 LE HAVRE;49.500244;0.136227;272 Rue Aristide Briand 76600 Le Havre;0.85;housenumber;76351_0410_226a11
+U7607;Centre distribution Saint Romain;Centre de Distribution Alimentaire;12 rue Robert Dubuc   76430 Saint Romain  de Colbosc;49.530716;0.357393;12 Rue Robert Dubuc 76430 Saint-Romain-de-Colbosc;0.92;housenumber;76647_0465_6dc72f
+U7608;Centre distribution Havre Lamartine;Centre de Distribution Alimentaire;3 rue Lamartine   76600 LE HAVRE;49.490963;0.141504;3 Rue Lamartine 76600 Le Havre;0.93;housenumber;76351_4725_e69516
+U7609;Centre de distribution de Lillebonne;Centre de Distribution Alimentaire;rue du Lin   76170 Lillebonne;49.521813;0.54056;Rue du Lin 76170 Lillebonne;0.92;street;76384_0632_fd04d7
+U7610;Centre distribution Gournay en Bray;Centre de Distribution Alimentaire;4 rue Jacques Brel   76220 Gournay en Bray;49.482988;1.724286;4 Rue Jacques Brel 76220 Gournay-en-Bray;0.92;housenumber;76312_0508_67e3dd
+U7611;Centre distribution Criquetot Hesneval;Centre de Distribution Alimentaire;BP 111   76280 Criquetot - L'Esneval;49.639751;0.265569;La Forge 76280 Criquetot-l'Esneval;0.6;locality;76196_XXXX_4d042c
+U7612;Centre de distribution d'Eu;Centre de Distribution Alimentaire;61 Rue Jeanne d'Arc   76260 EU;50.046799;1.416949;61 Rue Jeanne d'Arc 76260 Eu;0.93;housenumber;76255_0570_96a974
+U7613;Centre de distribution de Fauville;Centre de Distribution Alimentaire;983 rue Bernard Thelu   76640 FAUVILLE EN CAUX;49.650366;0.591832;983 Rue Bernard Thelu 76640 Fauville-en-Caux;0.93;housenumber;76258_0037_3e2799
+U7701;Centre de distribution Nemours;Centre de Distribution Alimentaire;2, Rue GASTON DARLEY   77140 NEMOURS;48.266386;2.697559;2 Rue Gaston Darley 77140 Nemours;0.92;housenumber;77333_0310_392a3d
+U7702;Centre de distribution de Meaux;Centre de Distribution Alimentaire;19, Rue COURTELINE   77100 MEAUX;48.960617;2.875288;19 Rue Georges Courteline 77100 Meaux;0.73;housenumber;77284_0490_383b4d
+U7703;Centre distribution de Montereau;Centre de Distribution Alimentaire;11 13 rue des  fosses   77130 MONTEREAU FAULT YONNE;48.387094;2.954523;Rue des Fosses 77130 Montereau-Fault-Yonne;0.81;street;77305_0590_9dd183
+U7704;Centre distribution La Ferté ss Jouarre;Centre de Distribution Alimentaire;8 allée du jumelage   77260 LA FERTE SOUS JOUARRE;48.945045;3.131621;8 Allée du Jumelage 77260 La Ferté-sous-Jouarre;0.92;housenumber;77183_0401_c65f0e
+U7705;Centre de distribution de Combs la Ville;Centre de Distribution Alimentaire;8 rue de Lieusaint   77380 COMBS LA VILLE;48.663696;2.563377;8 Rue de Lieusaint 77380 Combs-la-Ville;0.93;housenumber;77122_0630_b4b90d
+U7706;Centre distribution de Verneuil-l'Etang;Centre de Distribution Alimentaire;19, Avenue DE LA GARE   77720 MORMANT;48.612607;2.88982;19 Avenue de la Gare 77720 Mormant;0.93;housenumber;77317_0220_195181
+U7707;Centre de distribution de Mormant;Centre de Distribution Alimentaire;19, Avenue DE LA GARE   77720 MORMANT;48.612607;2.88982;19 Avenue de la Gare 77720 Mormant;0.93;housenumber;77317_0220_195181
+U7708;Centre de distribution de Guignes;Centre de Distribution Alimentaire;route de meaux ancien hotel de v   77390 GUIGNES;;;;;;
+U7709;Centre distribution Donnemarie-Dontilly;Centre de Distribution Alimentaire;33 rue des Fossés   77520 Donnemarie-Dontilly;48.475287;3.131295;33 Rue des Fosses 77520 Donnemarie-Dontilly;0.92;housenumber;77159_0400_5b68c7
+U7710;A DEFINIR - Entrepôt;Entrepôt pour aide matérielle;Rue de Bougainville   77550 Limoges Fourches;48.626049;2.682126;Rue de Bougainville 77550 Limoges-Fourches;0.91;street;77252_0020_58c967
+U7711;Centre distribution de Melun;Centre de Distribution Alimentaire;37, Rue des Mézeraux   77000 Melun;48.549365;2.671579;37 Rue des Mezereaux 77000 Melun;0.85;housenumber;77288_1158_7bf314
+U7712;Centre de distribution de Rebais;Centre de Distribution Alimentaire;5 rue Georges Clémenceau   77510 REBAIS;48.848978;3.234061;5 Avenue Georges Clemenceau 77510 Rebais;0.76;housenumber;77385_XXXX_fb454f
+U7713;Centre distribution Dammartin en Geole;Centre de Distribution Alimentaire; 11 rue de la saine fontaine  77230 DAMMARTIN EN GOELE;49.052325;2.68116;11 Rue de la Saine Fontaine 77230 Dammartin-en-Goële;0.92;housenumber;77153_1020_5702f1
+U7714;Centre de distribution Tournan en Brie;Centre de Distribution Alimentaire;12 rue du Dr Lambert   77220 TOURNAN EN BRIE;48.738341;2.768192;12 Rue Docteur Lambert 77220 Tournan-en-Brie;0.72;housenumber;77470_XXXX_f9e8ab
+U7719;Centre de distribution de Fontainebleau;Centre de Distribution Alimentaire;52 bis, boulevard Joffre   77300 FONTAINEBLEAU;48.413399;2.701815;Boulevard du Maréchal Joffre 77300 Fontainebleau;0.62;street;77186_0800_b35b5e
+U7720;Centre de distribution Fontenay Tresigny;Centre de Distribution Alimentaire;20 RUE DU GENERAL DE GAULLE   77610 FONTENAY TRESIGNY;48.706928;2.868247;20 Avenue du Général de Gaulle 77610 Fontenay-Trésigny;0.8;housenumber;77192_0280_2bbd46
+U78;DD Yvelines;Distribution de chèques;31 rue Edme Frémy   78000 VERSAILLES;48.796463;2.139925;31 Rue Edme Fremy 78000 Versailles;0.94;housenumber;78646_0880_20cb91
+U7801;Epicerie Sociale Chatou;Epicerie sociale;2 AVENUE DE L'EUROPE   78400 CHATOU;48.905474;2.15886;2 Avenue de l'Europe 78400 Chatou;0.93;housenumber;78146_0685_d30111
+U7802;Entrepôt de Maurepas;Entrepôt pour aide matérielle;Serres municipales Chemin de la Mare du Bois  78310 MAUREPAS;;;;;;
+U7803;Epicerie de Trappes;Epicerie sociale;Espace Solidarité Rue de Koprivnice  78190 TRAPPES;;;;;;
+U7804;Epicerie sociale d'Elancourt;Epicerie sociale;ZA de la Petite Villedieu Lot 5 Rue de Liège  78990 ELANCOURT;48.765687;1.960312;Rue de Liege 78990 Élancourt;0.42;street;78208_0373_f97487
+U7805;FERME CD Montigny Bretonneux;Centre de Distribution Alimentaire;7 rue de la Gare VESTIBOUTIQUE ET ACCUEIL CROIX-R 7 rue de la Gare 78180 MONTIGNY LE BRETONNEUX;48.770944;2.029806;7 Rue de la République 78180 Montigny-le-Bretonneux;0.43;housenumber;78423_1630_0374eb
+U7806;Samu social de Guyancourt;Samu social;79 rue Eugène Viollet-Leduc Croix-rouge  78280 GUYANCOURT;;;;;;
+U7807;Centre de distribution VIROFLAY;Centre de Distribution Alimentaire;16 avenue des Anciens Combattant   78220 VIROFLAY;48.802741;2.172668;16 Avenue des Combattants 78220 Viroflay;0.75;housenumber;78686_0290_68b9ed
+U7808;Centre de distribution de Versailles;Centre de Distribution Alimentaire;17 rue Berthier   78000 VERSAILLES;48.811841;2.125915;17 Rue Berthier 78000 Versailles;0.94;housenumber;78646_0370_f4f21f
+U7809;Centre distribution La Celle Saint Cloud;Centre de Distribution Alimentaire;17 avenue Guibert   78170 LA CELLE ST CLOUD;48.845895;2.132157;17 Avenue André René Guibert 78170 La Celle-Saint-Cloud;0.66;housenumber;78126_XXXX_65add2
+U7810;Centre de distribution de Meulan;Centre de Distribution Alimentaire; 27 rue Gambetta  78250 Meulan;49.005313;1.912819;27 Rue Gambetta 78250 Meulan-en-Yvelines;0.65;housenumber;78401_0350_05511c
+U7811;Centre de distribution de Chevreuse;Centre de Distribution Alimentaire;Place Charles de Gaulle   78460 CHEVREUSE;48.708169;2.038728;Place Charles de Gaulle 78460 Chevreuse;0.92;street;78160_XXXX_9fedb4
+U7812;Centre de distribution de Poissy;Centre de Distribution Alimentaire;14 rue Gérard-Bongard   78300 POISSY;48.935015;2.049387;14 Rue Gérard Bongard 78300 Poissy;0.92;housenumber;78498_0810_1c4860
+U7901;Centre distribution de Parthenay;Centre de Distribution Alimentaire;11 rue Prosper Jouneau   79200 Parthenay;46.645171;-0.238742;11 Rue Prosper Jouneau 79200 Parthenay;0.93;housenumber;79202_1530_d55a80
+U7902;Epicerie sociale de St Maixent-l'École;Epicerie sociale;8 BIS, Rue BASSE DU CHATEAU   79400 St Maixent-l'École;46.412073;-0.20116;8BIS Rue Basse du Château 79400 Saint-Maixent-l'École;0.79;housenumber;79270_0080_73c951
+U7903;Epicerie sociale de Prahecq;Epicerie sociale;21A route de St Martin   79230 Prahecq;46.240992;-0.351474;Route de Prahecq 79230 Saint-Martin-de-Bernegoue;0.53;street;79273_0090_02c520
+U7904;Epicerie sociale de Niort;Epicerie sociale;8, Rue ROCHETTE   79000 NIORT;46.324969;-0.46055;8 Rue Rochette 79000 Niort;0.93;housenumber;79191_4780_8103e7
+U7905;Centre distribution de Bressuire;Centre de Distribution Alimentaire;23 place dupin   79300 BRESSUIRE;46.841909;-0.490944;23 Place Dupin 79300 Bressuire;0.93;housenumber;79049_1685_28229c
+U7906;Centre distribution de Thouars;Centre de Distribution Alimentaire;09 rue Alexandre Dumas BP 96  79100 THOUARS;46.987467;-0.218273;Rue Alexandre Dumas 79100 Thouars;0.72;street;79329_0030_12688e
+U7907;Epicerie sociale de Chef-Boutonne;Epicerie sociale;Maison du Cèdre rue de l'hotel de ville  79110 Chef-Boutonne;;;;;;
+U7908;Epicerie sociale de Melle;Epicerie sociale;24 rue Saint Pierre   79500 Melle;46.224738;-0.146445;24 Rue Saint-Pierre 79500 Melle;0.92;housenumber;79174_0810_5eeda6
+U7910;Epicerie sociale de Thouars;Epicerie sociale;9 rue Alexandre Dumas   79100 THOUARS;46.987399;-0.217926;9 Rue Alexandre Dumas 79100 Thouars;0.92;housenumber;79329_0030_12688e
+U80;DD de la Somme;Distribution de chèques;30 square Friant   80000 AMIENS;49.89017;2.280788;30 Square Friant les 4 Chênes 80000 Amiens;0.65;housenumber;80021_XXXX_c1e367
+U8001;Centre de distribution d'Amiens;Centre de Distribution Alimentaire;8 rue Blériot 36 square friant  80000 AMIENS;49.889894;2.281487;36 Square Friant les 4 Chênes 80000 Amiens;0.51;housenumber;80021_XXXX_c1e367
+U8002;Espace bébé maman d'Amiens;Espace bébé maman;20 rue Roland Garros   80080 Amiens;49.905491;2.300927;20 Rue Roland Garros 80080 Amiens;0.94;housenumber;80021_7011_9ee38f
+U8003;Centre de distribution Abbeville;Centre de Distribution Alimentaire;39, Avenue ARISTIDE BRIAND   80100 ABBEVILLE;50.1099;1.844353;39 Avenue Aristide Briand 80100 Abbeville;0.93;housenumber;80001_0080_5f8ec5
+U8004;Distribution CAP de Roye;Distribution de chèques;Boulevard DE L'EST   80700 ROYE;49.697052;2.792472;Boulevard de l'Est 80700 Roye;0.93;street;80685_0180_1b1b9e
+U8005;Accueil de jour Amiens;Accueil de jour;1 rue Mozart   80080 AMIENS;49.912039;2.304055;1 Rue Mozart 80080 Amiens;0.94;housenumber;80021_5950_4fc71f
+U8006;A DEFINIR;Distribution de chèques;   80000 AMIENS;49.886416;2.309886;Rue Daire 80000 Amiens;0.51;street;80021_2280_95236b
+U8007;Centre distribution de Chaulnes;Centre de Distribution Alimentaire;36, Rue ROGER SALENGRO   80320 CHAULNES;49.815833;2.802694;36 Rue Roger Salengro 80320 Chaulnes;0.92;housenumber;80186_0500_b58c40
+U8008;Centre de distribution de Peronne;Centre de Distribution Alimentaire;Rue Alfred Rey   80200 PERONNE;49.929996;2.935341;Rue Alfred Rey 80200 Péronne;0.92;street;80620_0010_40c8ef
+U8009;Centre de distribution de Ham;Centre de Distribution Alimentaire;25 Bd du Général de Gaulle   80400 HAM;49.748496;3.070287;25 Boulevard du Général de Gaulle 80400 Ham;0.74;housenumber;80410_0620_d7120d
+U8010;Centre de distribution de Rue;Centre de Distribution Alimentaire;8 rue du four   80120 Rue;50.27288;1.666369;8 Rue du Four 80120 Rue;0.92;housenumber;80688_0440_700457
+U8011;Centre de distribution de Bernaville;Centre de Distribution Alimentaire;69 route nationale   80370 Bernaville;50.134453;2.165499;69 Route Nationale 80370 Bernaville;0.92;housenumber;80086_0360_b3f9b9
+U8012;Centre de distribution de Rosières;Centre de Distribution Alimentaire;7, rue du Colonel Sorlin   80170 Rosières en Santerre;49.813795;2.701554;7 Rue du Colonel Sorlin 80170 Rosières-en-Santerre;0.92;housenumber;80680_0187_35a88d
+U8013;Centre distribution de Nesle;Centre de Distribution Alimentaire;place du Général Leclerc   80190 Nesle;49.757863;2.909163;Place du Général Leclerc 80190 Nesle;0.92;street;80585_0660_81a989
+U8014;Centre distribution de Montdidier;Centre de Distribution Alimentaire;6 rue Armand de Vienne   80500 Montdidier;49.647766;2.573266;6 Rue Amand de Vienne 80500 Montdidier;0.86;housenumber;80561_0070_a62792
+U8015;Centre distribution de Doullens;Centre de Distribution Alimentaire;Ancienne usine Sueur 1 Avenue du Général de Gaulle  80600 Doullens;50.160533;2.334255;1 Avenue du Général de Gaulle 80600 Doullens;0.63;housenumber;80253_0395_4a642b
+U8016;Centre de distribution Amiens Mozart;Centre de Distribution Alimentaire;1 rue Mozart   80000 AMIENS;49.912039;2.304055;1 Rue Mozart 80080 Amiens;0.8;housenumber;80021_5950_4fc71f
+U81;DD du Tarn;Distribution de chèques;ZA de la Prade   81120 Réalmont;43.771386;2.195181;La Prade 81120 Réalmont;0.72;locality;81222_B084_502650
+U8101;Centre de distribution de Gaillac;Centre de Distribution Alimentaire;119 Avenue Dom Vayssette   81600 Gaillac;43.893308;1.903082;119 Avenue Dom Vayssette 81600 Gaillac;0.93;housenumber;81099_0740_1c0031
+U8102;Centre de distribution de Realmont;Centre de Distribution Alimentaire;Avenue du Général de Gaulle   81120 Realmont;43.773151;2.184661;Avenue Général de Gaulle 81120 Réalmont;0.86;street;81222_0066_48b814
+U8103;Centre de distribution de Lavaur;Centre de Distribution Alimentaire;2 avenue Augustin Malroux   81500 Lavaur;43.701926;1.817423;2 Avenue Augustin Malroux 81500 Lavaur;0.93;housenumber;81140_0020_aa0429
+U8104;FERMER CD de Mazamet;Centre de Distribution Alimentaire;36 rue Roucayrol   81100 Castres;43.610261;2.241724;36 Rue Roucayrol 81100 Castres;0.93;housenumber;81065_3410_137a5a
+U8105;Centre de distribution de Castres;Centre de Distribution Alimentaire;36  RUE ROUCAYROL   81100 CASTRES;43.610261;2.241724;36 Rue Roucayrol 81100 Castres;0.93;housenumber;81065_3410_137a5a
+U8106;Centre de distribution de Graulhet;Centre de Distribution Alimentaire;51 rue des Peseignes   81300 Graulhet;43.760798;1.993323;51 Rue des Peseignes 81300 Graulhet;0.93;housenumber;81105_1070_90ca73
+U8107;Centre de distribution d'Albi;Centre de Distribution Alimentaire;168 av Ml de Lattre de Tassigny   81000 ALBI;43.930998;2.163707;168 Avenue Maréchal de Lattre de Tassigny 81000 Albi;0.7;housenumber;81004_2350_e9f696
+U8201;Centre de distribution Valence d'Agen;Centre de Distribution Alimentaire;x   82400 Valence d'Agen;44.11498;0.891471;Avenue Mars 82400 Valence;0.47;street;82186_0370_5afbb5
+U8202;Samu social de Montauban;Samu social;830 Bd Blaise Doumerc   82000 MONTAUBAN;44.019372;1.362834;830 Boulevard Blaise Doumerc 82000 Montauban;0.76;housenumber;82121_0830_1f3020
+U8203;Epicerie sociale de Moissac;Epicerie sociale;22 Ter avenue Jean Jaures   82200 MOISSAC;44.104733;1.096801;Avenue Jean Jaurès 82200 Moissac;0.76;street;82112_2147_a3a7ff
+U8204;A DEFINIR (CAP);Distribution de chèques;830 BD BLAISE DOUMERC   82000 MONTAUBAN;44.019372;1.362834;830 Boulevard Blaise Doumerc 82000 Montauban;0.76;housenumber;82121_0830_1f3020
+U8205;Centre de distribution de Montauban;Centre de Distribution Alimentaire;25 Grand rue SAPIAC   82000 MONTAUBAN;44.014993;1.352188;25 Grand-Rue Sapiac 82000 Montauban;0.94;housenumber;82121_7330_f690fd
+U8206;Centre de distribution de Beaumont de Lo;Centre de Distribution Alimentaire;Boulevard Ouest   82500 BEAUMONT DE LOMAGNE;43.884344;0.984774;Boulevard Ouest 82500 Beaumont-de-Lomagne;0.92;street;82013_0165_184baf
+U8208;Centre distribution de Castelsarrasin;Centre de Distribution Alimentaire;3 avenue du Maréchal Koënig   82100 CASTELSARRASIN;44.034855;1.106853;3 Avenue du Maréchal Koening 82100 Castelsarrasin;0.88;housenumber;82033_XXXX_dce0cb
+U8209;Centre de distribution de Verdun sur G;Centre de Distribution Alimentaire;1 Place des Ecoles   82600 Verdun sur Garonne;43.851998;1.234789;1 Rue des Écoles 82600 Verdun-sur-Garonne;0.76;housenumber;82190_0090_36bd06
+U8210;Centre de distribution de Montech;Centre de Distribution Alimentaire;15, Place Jean Jaurès   82700 MONTECH;43.957597;1.232063;15 Place Jean Jaurès 82700 Montech;0.92;housenumber;82125_0110_cee1b3
+U8211;Centre de distribution Caussade;Centre de Distribution Alimentaire;Place des Muriers   82300 CAUSSADE;44.162033;1.53956;Place des Mûriers 82300 Caussade;0.92;street;82037_0385_dae9de
+U8212;Centre de distribution Lafrancaise;Centre de Distribution Alimentaire;Rue Neuve   82130 ;44.124955;1.242931;Rue Neuve 82130 Lafrançaise;0.5;street;82087_0125_e0b726
+U8213;A DEFINIR (CAP);Distribution de chèques;    ;;;;;;
+U8214;Centre de distribution de St Antonin Nob;Centre de Distribution Alimentaire;  BP32 82140 St-ANTONIN NOBLE VAL;44.185265;1.77862;Joany 82140 Saint-Antonin-Noble-Val;0.59;locality;82155_B230_fe5a1e
+U8215;Centre de distribution de Grisolles;Centre de Distribution Alimentaire;7 rue Arnaud Bernard   82170 GRISOLLES;43.829932;1.296116;7 Rue Darnaud Bernard 82170 Grisolles;0.85;housenumber;82075_0090_a2b8f6
+U8216;Centre de distribution Moissac;Centre de Distribution Alimentaire;22 Ter avenue Jean Jaurès   82200 Moissac;44.104733;1.096801;Avenue Jean Jaurès 82200 Moissac;0.76;street;82112_2147_a3a7ff
+U8217;Centre distribution Montaigu de Quercy;Centre de Distribution Alimentaire;Place de l'hôtel de ville   82150 Montaigu de Quercy;44.341714;1.017595;Place de l'Hôtel de Ville 82150 Montaigu-de-Quercy;0.92;street;82117_0095_ec0849
+U8218;Centre de distribution de Lavit;Centre de Distribution Alimentaire;Avenue du stade   82120 Lavit de Lomagne;43.952271;0.922735;Avenue du Stade 82120 Lavit;0.65;street;82097_0120_5cd9f5
+U8301;Centre de distribution de Toulon;Centre de Distribution Alimentaire;62 Bld de Strasbourg   83000 TOULON;43.124433;5.935073;62 Boulevard de Strasbourg 83000 Toulon;0.71;housenumber;83137_6845_222538
+U8302;Distribution CAP de Fayence;Centre de Distribution Alimentaire;4 ter Bd de Tourrettes Délégation locale de Fayence Croix rouge Française 83440 FAYENCE;;;;;;
+U8303;Distribution CAP de Fréjus;Distribution de chèques;Villa Marie, 447 Av Aristide Bri   83600 FREJUS;;;;;;
+U8304;Distribution CAP de Brignoles;Centre de Distribution Alimentaire;2 Avenue Frédéric Mistral   83170 Brignoles;43.406406;6.059242;2 Avenue Frédéric Mistral 83170 Brignoles;0.93;housenumber;83023_0310_02cb3d
+U8305;FERME CAP Bormes les Mimosas;Distribution de chèques;Rue Gabriel Péri Parc du Cigalou  83230 BORMES LES MIMOSAS;;;;;;
+U8306;Centre de distribution de St Maximin;Centre de Distribution Alimentaire;Chemin SAINT SIMON   83470 ST MAXIMIN LA STE BAUME;43.451089;5.866646;Chemin de Saint-Simon 83470 Saint-Maximin-la-Sainte-Baume;0.72;street;83116_0928_9aad00
+U8307;Centre distribution de Draguignan;Centre de Distribution Alimentaire;724 AVENUE BROSSOLETTE   83300 DRAGUIGNAN;43.531294;6.447622;724 Avenue Pierre Brossolette 83300 Draguignan;0.79;housenumber;83050_2020_0ff08a
+U8308;FERME Samu social de Draguignan;Samu social;117, Boulevard DES REMPARTS   83300 DRAGUIGNAN;43.540393;6.468974;117 Boulevard des Remparts 83300 Draguignan;0.93;housenumber;83050_2210_f7cbde
+U8309;FERME Centre distribution Ollioules;Centre de Distribution Alimentaire;116 rue philippe de Hautecloque   83190 OLLIOULES;43.138016;5.848747;116 Rue Philippe de Hauteclocque 83190 Ollioules;0.86;housenumber;83090_XXXX_08049a
+U8310;FERME CD de Ste Maxime;Centre de Distribution Alimentaire;Maison des Associations 4, Route JEAN CORONA  83120 STE MAXIME;43.313755;6.635271;4 Route Jean Corona 83120 Sainte-Maxime;0.52;housenumber;83115_XXXX_8b75e9
+U8311;FERME CAP de Hyeres;Centre de Distribution Alimentaire;12, Avenue PAUL LONG   83400 HYERES;43.123607;6.131065;12 Avenue Paul Long 83400 Hyères;0.93;housenumber;83069_1910_56ef8d
+U8401;FERME ES d'Avignon;Epicerie sociale;20, Boulevard HENRI DUNANT   84000 AVIGNON;43.94215;4.82007;20 Rue Henri Dunand 84000 Avignon;0.6;housenumber;84007_XXXX_0d8049
+U8402;Centre de distribution d'Avignon;Centre de Distribution Alimentaire;20, Boulevard HENRI DUNANT   84000 AVIGNON;43.94215;4.82007;20 Rue Henri Dunand 84000 Avignon;0.6;housenumber;84007_XXXX_0d8049
+U8403;Centre de distribution d'Orange;Centre de Distribution Alimentaire;8 place des cordeliers   84100 ORANGE;44.136754;4.809512;8 Place des Cordeliers 84100 Orange;0.92;housenumber;84087_XXXX_8a5db5
+U8404;Centre distribution de l'Isle sur Sorgue;Centre de Distribution Alimentaire;13 ZA Les Théologiens Route  de Caumont  84800 L ISLE SUR LA SORGUE;;;;;;
+U8405;Centre distribution de Cavaillon;Centre de Distribution Alimentaire;61 av Victor Basch   84300 Cavaillon;43.836038;5.04204;61 Avenue Victor Basch 84300 Cavaillon;0.78;housenumber;84035_1435_7b6b7c
+U8406;Centre de Distribution de Carpentras;Centre de Distribution Alimentaire;62 rue de Monteux   84200 CARPENTRAS;44.054909;5.045644;62 Rue Porte de Monteux 84200 Carpentras;0.79;housenumber;84031_1540_8d9c8d
+U8407;Centre de distribution d'Apt;Centre de Distribution Alimentaire;76 Avenue Philippe de Girard   84400 APT;43.876502;5.39224;76 Avenue Philippe de Girard 84400 Apt;0.93;housenumber;84003_0760_6d1ee3
+U8408;Maraude L'Isle-sur-la-Sorgue;Samu social;13 Za les Théologiens   84800 L ISLE SUR LA SORGUE;43.913418;5.039119;13 Avenue des Théologiens 84800 L'Isle-sur-la-Sorgue;0.7;housenumber;84054_XXXX_f2743f
+U8409;Centre de distribution de Bollene;Centre de Distribution Alimentaire;158 Avenue du Marechal Leclerc   84500 BOLLENE;44.280395;4.744616;158 Avenue du Maréchal Leclerc 84500 Bollène;0.93;housenumber;84019_XXXX_dce3f6
+U8501;Distribution CAP d'Herbiers;Distribution de chèques;86, Rue nationale   85500 LES HERBIERS;46.869079;-1.004107;86 Rue Nationale 85500 Les Herbiers;0.93;housenumber;85109_1670_5dec76
+U8502;Espace bébé maman de la Roche sur Yon;Espace bébé maman;159, Boulevard EDOUARD BRANLY   85000 LA ROCHE SUR YON;46.680654;-1.440557;159 Boulevard Édouard Branly 85000 La Roche-sur-Yon;0.94;housenumber;85191_0740_7a3b5a
+U8503;Centre distribution Fontenay le Comte;Centre de Distribution Alimentaire;4, Rue DU CHATEAU   85200 FONTENAY LE COMTE;46.472135;-0.806171;4 Rue du Château d'Eau 85200 Fontenay-le-Comte;0.81;housenumber;85092_0360_70e830
+U8504;Centre de distribution Challans;Centre de Distribution Alimentaire;8 Rue de la Poctière   85300 Challans;46.845386;-1.86921;8 Rue de la Poctière 85300 Challans;0.93;housenumber;85047_8535_4cd4c7
+U8505;Samu social des Sables d'Olonne;Samu social;14 Avenue du Maréchal Juin   85180 CHATEAU D OLONNE;46.485998;-1.744265;14 Avenue du Maréchal Juin 85180 Château-d'Olonne;0.91;housenumber;85060_0416_206d7c
+U8506;Distribution CAP des Sables d'Olonne;Distribution de chèques;14 avenu du Marechal Juin   85180 CHATEAU D OLONNE;46.485998;-1.744265;14 Avenue du Maréchal Juin 85180 Château-d'Olonne;0.86;housenumber;85060_0416_206d7c
+U8507;Distribution CAP de Luçon;Distribution de chèques;11 rue de l'Hôpital Luçon   85400 Luçon;46.451622;-1.168699;11 Rue de l'Hôpital 85400 Luçon;0.77;housenumber;85128_0660_fc7fc4
+U8601;Centre de distribution de Chatellerault;Centre de Distribution Alimentaire;55 rue Clément Krebs   86100 CHATELLERAULT;46.814921;0.533096;55 Rue Clément Krebs 86100 Châtellerault;0.93;housenumber;86066_1200_5d0f7e
+U8602;Samu Social de Poitiers;Samu social;9 rue Lavoisier Croix-Rouge ZAE Beaulieu 86000 POITIERS;;;;;;
+U8603;Centre de distribution Poitiers;Centre de Distribution Alimentaire;9 rue lavoisier  ZAE Beaulieu 86000 POITIERS;;;;;;
+U87;DD de Haute Vienne;Distribution de chèques;8 rue Réaumur Délégation Départementale  87000 LIMOGES;45.830202;1.245496;8 Rue Réaumur 87000 Limoges;0.48;housenumber;87085_4485_c84bd6
+U8701;Centre distribution Magnac Laval;Centre de Distribution Alimentaire;Rue François Mitterrand   87190 Magnac Laval;46.21558;1.162641;Avenue François Mitterrand 87190 Magnac-Laval;0.82;street;87089_0122_149d4e
+U8702;Distribution CAP St Sulpice les feuilles;Distribution de chèques;2 rue du Stade   87160 St Sulpice les Feuilles;46.318482;1.367013;2 Route du Stade 87160 Saint-Sulpice-les-Feuilles;0.72;housenumber;87182_XXXX_24d9ab
+U8703;Centre de distribution d'Ambazac;Centre de Distribution Alimentaire;64 Av de la Libération. Délégation locale d'Ambazac  87240 AMBAZAC;45.951749;1.395029;64 Avenue de la Libération 87240 Ambazac;0.49;housenumber;87002_0100_e9feff
+U8704;Centre de distribution de Bellac;Centre de Distribution Alimentaire;5 place Jean de la Fontaine   87300 Bellac;46.121366;1.047762;5 Place Jean de la Fontaine 87300 Bellac;0.93;housenumber;87011_0300_fe18cd
+U8705;Centre distribution St Yrieix la Perche;Centre de Distribution Alimentaire;2 AVENUE DE LA GARE   87500 ST YRIEIX LA PERCHE;45.51858;1.205648;2 Avenue de la Gare 87500 Saint-Yrieix-la-Perche;0.83;housenumber;87187_1195_791b1c
+U8706;Centre de distribution de Nantiat;Centre de Distribution Alimentaire;Place d'Alsace Lorraine   87140 NANTIAT;46.009466;1.175156;Place de l'Église 87140 Nantiat;0.47;street;87103_0155_c98d0e
+U8707;Centre distribution Chateauponsac;Centre de Distribution Alimentaire;2 rue Henri Autef Délégation locale de Chateaupons  87290 CHATEAUPONSAC;46.136099;1.273929;2 Rue Henri Autef 87290 Châteauponsac;0.48;housenumber;87041_0045_29fedd
+U8708;Centre de distribution de Limoges;Centre de Distribution Alimentaire;2 RUE DE MONTHLERY Délégation locale de Limoges  87000 LIMOGES;45.837719;1.279189;2 Rue de Montlhéry 87000 Limoges;0.44;housenumber;87085_3600_17d8a9
+U8709;Samu social de Limoges;Samu social;99 Avenue Baudin   87000 LIMOGES;45.822372;1.256449;99 Avenue Baudin 87000 Limoges;0.95;housenumber;87085_0415_8e4e5b
+U8710;Centre distribution St Just Le Martel;Centre de Distribution Alimentaire;35 rue du 11/11/1918   87590 ST JUST LE MARTEL;45.862221;1.388023;35 Rue du 11 Novembre 1918 87590 Saint-Just-le-Martel;0.64;housenumber;87156_XXXX_909dc7
+U8801;Centre de distribution de Fraize;Centre de Distribution Alimentaire;1 bis Rue DE L'EGLISE   88230 FRAIZE;48.186464;7.000751;Rue de l'Église 88230 Fraize;0.76;street;88181_0120_e611f4
+U8802;Centre de distribution du Thillot;Centre de Distribution Alimentaire;15 Rue François Frémiot   88160 Le Thillot;47.873715;6.761773;15 Rue François Fremiot 88160 Le Thillot;0.92;housenumber;88468_0140_04c661
+U8803;Centre de distribution de Neufchâteau;Centre de Distribution Alimentaire;4, Rue REBEVAL SQUARE DES ANCIENS D'INDOCHINE  88300 NEUFCHATEAU;48.355265;5.682175;4 Square des Anciens d'Indochine 88300 Neufchâteau;0.74;housenumber;88321_0219_682697
+U8804;Centre de distribution de Vittel;Centre de Distribution Alimentaire;10, Rue MARECHAL FOCH   88800 Vittel;48.202118;5.948174;10 Rue du Maréchal Foch 88800 Vittel;0.85;housenumber;88516_0500_954fe5
+U8805;Centre distribution St Dié des Vosges;Centre de Distribution Alimentaire;15, Rue DU MARECHAL FOCH   88100 St Dié des Vosges;48.289209;6.946674;15 Rue du Maréchal Foch 88100 Saint-Dié-des-Vosges;0.84;housenumber;88413_0740_c887ac
+U8806;Centre distribution Saulxures/Moselotte;Centre de Distribution Alimentaire;285, Avenue VICTOR HUGO   88290 SAULXURES SUR MOSELOTTE;47.950563;6.779655;285 Avenue Victor Hugo 88290 Saulxures-sur-Moselotte;0.92;housenumber;88447_0300_c1546c
+U8807;Centre distribution Gerardmer;Centre de Distribution Alimentaire;69, Boulevard DE SAINT DIE   88400 GERARDMER;48.07795;6.887815;69 Boulevard de Saint-Die 88400 Gérardmer;0.93;housenumber;88196_0810_b12a33
+U8808;Centre de distribution d'Epinal;Centre de Distribution Alimentaire;115 RUE NEUVE GRANGE   88000 EPINAL;48.14637;6.46304;115 Rue Neuve Grange 88000 Épinal;0.94;housenumber;88160_XXXX_3bc805
+U8809;Centre distribution Thaon les Vosges;Centre de Distribution Alimentaire;130 rue d'Alsace   88150 THAON LES VOSGES;48.251372;6.420257;130 Rue d'Alsace 88150 Thaon-les-Vosges;0.91;housenumber;88465_0030_ca7182
+U8810;FERME Centre distribution Remiremont;Centre de Distribution Alimentaire;82 Boulevard Thiers   88200 Remiremont;48.016275;6.597589;82 Boulevard Thiers 88200 Remiremont;0.93;housenumber;88383_0960_991d0f
+U8811;Centre de distribution de Bruyères;Centre de Distribution Alimentaire;11 bis Av de Lattre de Tassigny   88600 Bruyères;48.206093;6.715491;11BIS Avenue de Lattre de Tassigny 88600 Bruyères;0.77;housenumber;88078_0100_a22c7b
+U8812;Centre distribution de Raon l'Etape;Centre de Distribution Alimentaire;17 rue du général Leclerc   88110 RAON L'ETAPE;48.406109;6.838673;17 Rue du Général Leclerc 88110 Raon-l'Étape;0.92;housenumber;88372_0340_227925
+U8813;Centre de distribution de Contrexeville;Centre de Distribution Alimentaire;39 rue du Dauphiné   88140 CONTREXEVILLE;48.183057;5.898524;39 Rue du Dauphine 88140 Contrexéville;0.91;housenumber;88114_0170_ab7c46
+U8901;Centre de distribution d'Avallon;Centre de Distribution Alimentaire;11 bis rue du Général Leclerc   89200 AVALLON;47.494333;3.90806;11BIS Rue du Général Leclerc 89200 Avallon;0.87;housenumber;89025_0994_7dbccd
+U8902;Centre de distribution d'Auxerre;Centre de Distribution Alimentaire;23 Avenue de la Puisaye Délégation locale de l'Auxerrois  89000 Auxerre;;;;;;
+U8903;Centre de distribution de Joigny;Centre de Distribution Alimentaire;Délégation locale de Joigny  BP 305 89301 Joigny;47.880219;3.526845;Route de Joigny 89380 Appoigny;0.29;street;89013_0220_2841c2
+U8904;Samu social de Migennes;Samu social;29 Av des Cosmonautes Samu Social DD de l'Yonne  89400 Migennes;;;;;;
+U8905;Centre de distribution de Migennes;Centre de Distribution Alimentaire;29 Av des cosmonautes   89400 Migennes;47.967399;3.510199;29 Avenue des Cosmonautes 89400 Migennes;0.79;housenumber;89257_0610_deed6d
+U8906;Centre de distribution de St Florentin;Centre de Distribution Alimentaire;6 rue de l' Hotel de Ville Délégation locale St Florentin  89600 Saint Florentin;48.002257;3.727681;6 Rue de l'Hôtel de Ville 89600 Saint-Florentin;0.56;housenumber;89345_0780_4eb8f7
+U8907;Centre de distribution de Sens;Centre de Distribution Alimentaire;8 bis rue du Général leclerc Délégation Nord de l'Yonne  89100 Sens;48.200447;3.28225;8BIS Rue du Général Leclerc 89100 Sens;0.52;housenumber;89387_XXXX_1dba0a
+U9001;Centre de distribution de Belfort;Centre de Distribution Alimentaire;15 avenue Sarail   90000 BELFORT;47.635423;6.861775;15 Avenue du Général Sarrail 90000 Belfort;0.67;housenumber;90010_1790_795406
+U9002;Centre de distribution de Delle;Centre de Distribution Alimentaire;rue lous clerc   90100 DELLE;47.506362;7.001239;Rue Louis Clerc 90100 Delle;0.82;street;90033_0356_7c61ec
+U9003;Centre de distribution de Giromagny;Centre de Distribution Alimentaire;1 rue de l'Eglise   90200 GIROMAGNY;47.743314;6.823535;1 Rue de l'Église 90200 Giromagny;0.92;housenumber;90052_0170_da6cfb
+U9101;Centre de distribution d'Etampes;Centre de Distribution Alimentaire;142 rue St Jacques   91150 Etampes;48.432346;2.152996;142 Rue Saint-Jacques 91150 Étampes;0.8;housenumber;91223_3890_77b5df
+U9102;Centre distribution Corbeil-Essonnes;Centre de Distribution Alimentaire;100 bld de Fontainebleau   91100 CORBEIL-ESSONNES;48.594735;2.475631;100 Boulevard de Fontainebleau 91100 Corbeil-Essonnes;0.76;housenumber;91174_1810_eb444e
+U9103;Epicerie Sociale de Courcouronnes;Epicerie sociale;  8 rue du Marquis de Raies 91080 COURCOURONNES;48.629506;2.413316;8 Rue du Marquis de Raies 91080 Courcouronnes;0.92;housenumber;91182_0154_3f3cca
+U9104;Centre de distribution St Michel / Orge;Centre de Distribution Alimentaire;76, Rue de LIERS   91240 ST MICHEL SUR ORGE;48.634902;2.318872;76 Rue de Liers 91240 Saint-Michel-sur-Orge;0.82;housenumber;91570_1050_1e511f
+U9105;Centre distribution St Germain/Arpajon;Centre de Distribution Alimentaire;2, bd Eugène LAGAUCHE   91180 ST GERMAIN LES ARPAJON;48.59213;2.253497;2 Boulevard Eugène Lagauche 91180 Saint-Germain-lès-Arpajon;0.7;housenumber;91552_0141_d8cd54
+U9106;Centre de distribution Viry Chatillon;Centre de Distribution Alimentaire;9 avenue de Bellay   91170 VIRY CHATILLON;48.674715;2.364831;9 Avenue du Bellay 91170 Viry-Châtillon;0.83;housenumber;91687_1300_d509ad
+U9201;Centre distribution de Neuilly sur Seine;Centre de Distribution Alimentaire;23 rue du Château   92200 NEUILLY SUR SEINE;48.886664;2.262027;23 Rue du Château 92200 Neuilly-sur-Seine;0.93;housenumber;92051_1458_b3f42f
+U9202;Samu social de Boulogne Billancourt;Samu social;11 rue de Clamart   92100 BOULOGNE BILLANCOURT;48.830821;2.243766;11 Rue de Clamart 92100 Boulogne-Billancourt;0.93;housenumber;92012_1440_b4c56f
+U9203;Espace bébé maman Boulogne Billancourt;Espace bébé maman;14 rue de l'Est CROIX ROUGE FRANCAISE  92100 BOULOGNE BILLANCOURT;;;;;;
+U9204;Samu social Puteaux;Samu social;2 rue des Fusillés   92800 PUTEAUX;48.884448;2.226116;2 Rue des Fusillés de la Résistance 92800 Puteaux;0.6;housenumber;92062_XXXX_3c04ad
+U9205;Distribution CAP de Boulogne Billancourt;Distribution de chèques;14, Rue DE L'EST   92100 BOULOGNE BILLANCOURT;48.838427;2.24548;14 Rue de l'Est 92100 Boulogne-Billancourt;0.93;housenumber;92012_3185_cc1f14
+U9206;Espace bebe maman de Puteaux;Espace bébé maman;2 rue des Fusillés de la Résistance  92800 PUTEAUX;48.884448;2.226116;2 Rue des Fusillés de la Résistance 92800 Puteaux;0.92;housenumber;92062_XXXX_3c04ad
+U9207;A DEFINIR (CD);Centre de Distribution Alimentaire;   92 ;-21.286989;55.52117;92 Rue Kerveguen Le Tampon;0.06;housenumber;97422_XXXX_c8c157
+U9208;Epicerie sociale de Suresnes;Epicerie sociale;11 rue de la Procession   92150 SURESNES;48.864893;2.211642;11 Rue de la Procession 92150 Suresnes;0.93;housenumber;92073_7270_f7b0e3
+U9209;Samu social de Suresnes;Samu social;20 rue Merlin de Thionville   92150 SURESNES;48.868942;2.223519;20 Rue Merlin de Thionville 92150 Suresnes;0.93;housenumber;92073_6135_ee4cd5
+U9210;Samu Social de Courbevoie;Samu social;BP 171   92406 Courbevoie cedex;48.894389;2.249666;Place Charras 92400 Courbevoie;0.4;street;92026_1520_5d2cac
+U9211;Epicerie Sociale de Courbevoie;Epicerie sociale;11 Rue Carnot   92400 COURBEVOIE;48.894159;2.246338;11 Rue Carnot 92400 Courbevoie;0.92;housenumber;92026_1460_289c21
+U9212;Distribution de CAP de Chatenay Malabry;Distribution de chèques;   92290 CHATENAY MALABRY;48.765017;2.277568;Châtenay-Malabry;0.69;city;92019
+U9213;Samu social de Clamart;Samu social;183, ave de la porte de Trivaux   92140 CLAMART;48.786879;2.245797;183 Rue de la Porte de Trivaux 92140 Clamart;0.81;housenumber;92023_XXXX_83e2e0
+U9301;Centre de distribution Pré Saint Gervais;Centre de Distribution Alimentaire;46 rue André Joineau   93310 LE PRE ST GERVAIS;48.885684;2.403839;46 Rue André Joineau 93310 Le Pré-Saint-Gervais;0.82;housenumber;93061_0060_3f9c44
+U9302;Centre de Distribution de Sevran;Centre de Distribution Alimentaire;  132 Rue Michelet 93270 SEVRAN;48.94319;2.525588;132 Rue Michelet 93270 Sevran;0.93;housenumber;93071_1270_8c3181
+U9303;Centre distribution de la Courneuve;Centre de Distribution Alimentaire;90 Rue Jean Jaures   93120 LA COURNEUVE;48.923085;2.405674;90 Avenue Jean Jaurès 93120 La Courneuve;0.77;housenumber;93027_4725_0cb61e
+U9304;Centre Distribution de Bondy;Centre de Distribution Alimentaire;1 rue Henry Dunant   93140 BONDY;48.89756;2.488143;1 Rue Henri Dunant 93140 Bondy;0.8;housenumber;93010_4442_3f6ae6
+U9305;Epicerie Sociale de Noisy le Sec;Epicerie sociale;65 RUE PIERRE SEMARD   93130 NOISY LE SEC;48.895709;2.458038;65 Rue Pierre Semard 93130 Noisy-le-Sec;0.93;housenumber;93053_7153_90b41f
+U9306;Centre de distribution de l'Ourcq;Centre de Distribution Alimentaire;249 rue de Meaux   93410 VAUJOURS;48.936496;2.581429;249 Rue de Meaux 93410 Vaujours;0.91;housenumber;93074_0320_07b1e3
+U9307;Centre distribution Neuilly / Rosny;Centre de Distribution Alimentaire;  3 Place Jean Mermoz 93360 NEUILLY PLAISANCE;48.860942;2.509499;3 Place Jean Mermoz 93360 Neuilly-Plaisance;0.92;housenumber;93049_0704_617c2d
+U9308;Centre distribution du Bourget;Centre de Distribution Alimentaire;86 avenue Leclerc   93350 LE BOURGET;48.936448;2.427511;86 Avenue de la Division Leclerc 93350 Le Bourget;0.64;housenumber;93013_2530_e9e17e
+U9314;Epicerie sociale de Drancy;Epicerie sociale;31 bis avenue Marceau   93700 DRANCY;48.928393;2.435835;31BIS Avenue Marceau 93700 Drancy;0.85;housenumber;93029_6130_9e6803
+U9315;Centre de distribution Dugny;Centre de Distribution Alimentaire;5 avenue Louis Lariviere   93440 DUGNY;48.952103;2.416482;5 Avenue Louis Larivière 93440 Dugny;0.91;housenumber;93030_5150_83ab2e
+U9316;Centre de distribution Livry Gargan;Centre de Distribution Alimentaire;81 av du Colonel Fabien Centre Pierre Grandgirard  93190 LIVRY GARGAN;48.918756;2.51648;81 Avenue du Colonel Fabien 93190 Livry-Gargan;0.57;housenumber;93046_XXXX_9c91b1
+U9317;Centre de distribution de Le Raincy;Centre de Distribution Alimentaire;25 allée du Jardin Anglais   93340 LE RAINCY;48.895078;2.51116;25 Allée du Jardin Anglais 93340 Le Raincy;0.93;housenumber;93062_XXXX_9dccd6
+U9318;A DEFINIR;Centre de Distribution Alimentaire;249 rue de Meaux   93410 VAUJOURS;48.936496;2.581429;249 Rue de Meaux 93410 Vaujours;0.91;housenumber;93074_0320_07b1e3
+U9401;Centre de distribution Vitry-sur-Seine;Centre de Distribution Alimentaire;138 rue Malleret Joinville BP 74  94403 Vitry-sur-Seine;48.780315;2.403714;138 Rue du Général Malleret-Joinville 94400 Vitry-sur-Seine;0.64;housenumber;94081_XXXX_5c456f
+U9402;Centre de distribution Villeneuve-le-Roi;Centre de Distribution Alimentaire;41/43 rue du Maréchal Maunoury   94290 VILLENEUVE LE ROI;48.728613;2.41071;43 Rue du Maréchal Maunoury 94290 Villeneuve-le-Roi;0.87;housenumber;94077_0980_1fa26e
+U9403;Centre distribution Le Plessis Trévise;Centre de Distribution Alimentaire;22 Avenue du général de Gaulle   94420 LE PLESSIS TREVISE;48.80898;2.576076;22 Avenue du Général de Gaulle 94420 Le Plessis-Trévise;0.92;housenumber;94059_0350_69518d
+U9404;Centre de distribution Ivry sur Seine;Centre de Distribution Alimentaire;40 RUE JEAN JACQUES ROUSSEAU   94200 IVRY SUR SEINE;48.817653;2.394241;40 Rue Jean-Jacques Rousseau 94200 Ivry-sur-Seine;0.93;housenumber;94041_4740_b8df44
+U95;DD de Val d'Oise;Distribution de chèques;1 BIS, Rue HENRI DUNANT   95460 EZANVILLE;49.035022;2.342539;1BIS Rue Henri Dunant 95460 Ézanville;0.84;housenumber;95229_0249_85a0cd
+U9501;Distribution CAP Eaubonne;Distribution de chèques;7 Rue Jeanne Robillon   95600 EAUBONNE;48.993113;2.275855;7 Rue Jeanne Robillon 95600 Eaubonne;0.92;housenumber;95203_1040_c4c140
+U9502;A DEFINIR;Accueil et Orientation;    ;;;;;;
+U9503;Centre distribution Soisy ss Montmorency;Centre de Distribution Alimentaire;5 rue du jardin renard Residence Edmond Dobler  95230 SOISY SOUS MONTMORENCY;;;;;;
+U9504;Centre de distribution d'Argenteuil;Centre de Distribution Alimentaire;2 rue Paul Vaillant-Couturier   95100 ARGENTEUIL;48.946532;2.25444;2 Rue Paul Vaillant Couturier 95100 Argenteuil;0.94;housenumber;95018_4070_741bb7
+U9505;Accueil de jour d'Ezanville;Accueil de jour;1 BIS RUE HENRI DUNANT   95460 EZANVILLE;49.035022;2.342539;1BIS Rue Henri Dunant 95460 Ézanville;0.84;housenumber;95229_0249_85a0cd
+U9506;Centre distribution St Brice S/Forêt;Centre de Distribution Alimentaire;79 rue de Paris   95350 Saint Brice S/Forêt;49.000914;2.355244;79 Rue de Paris 95350 Saint-Brice-sous-Forêt;0.85;housenumber;95539_0370_f8f1cc
+U9507;Centre de distribution de Pontoise;Centre de Distribution Alimentaire;13 bis avenue ile de france   95300 PONTOISE;49.064778;2.093658;13BIS Avenue de l'Île de France 95300 Pontoise;0.78;housenumber;95500_0912_adf040
+U9508;Centre de distribution de Bezons;Centre de Distribution Alimentaire;4 Allée des Tournesols   95870 BEZONS;48.930826;2.211766;4 Allée des Tournesols 95870 Bezons;0.92;housenumber;95063_XXXX_9a501c
+U9509;Centre de distribution de Montmorency;Centre de Distribution Alimentaire;2 rue Corneille    ;43.699044;-1.069271;2 Rue Corneille 40100 Dax;0.55;housenumber;40088_XXXX_e204ed
+U9510;Centre de distribution de Sarcelles;Centre de Distribution Alimentaire;12 Allée BERNARD PALISSY   95200 SARCELLES;48.97709;2.384219;12 Allée Bernard Palissy 95200 Sarcelles;0.92;housenumber;95585_0355_de8c09
+U9511;Centre de distribution de Taverny;Centre de Distribution Alimentaire;4 Rue Gambetta   95150 TAVERNY;49.026981;2.21789;4 Rue Gambetta 95150 Taverny;0.92;housenumber;95607_0420_e46e44
+U9512;Centre distribution Gonesse;Centre de Distribution Alimentaire;6 Parc d'Orgemont   95500 GONESSE;48.985465;2.442114;6 Parc d'Orgemont 95500 Gonesse;0.92;housenumber;95277_XXXX_f999c9
+U971A;Samu social Les Abymes;Samu social;rue des écoles Raizet   97139 LES ABYMES;16.259875;-61.528407;Rue des Écoles 97139 Les Abymes;0.75;street;97101_0460_b7d4f0
+U971B;Distribution CAP Les Abymes;Distribution de chèques;rue des écoles Raizet   97139 LES ABYMES;16.259875;-61.528407;Rue des Écoles 97139 Les Abymes;0.75;street;97101_0460_b7d4f0
+U972A;Epicerie sociale de Saint Pierre;Epicerie sociale;45 rue de la clauriere   97200 FORT DE FRANCE;14.621777;-61.035674;45 Rue de la Rivière 97200 Fort-de-France;0.78;housenumber;97209_0026_6d1e7a
+U974A;Centre distribution de St Denis;Centre de Distribution Alimentaire;120 rue Jules AUBER   97400 ST DENIS;-20.882452;55.454063;120 Rue Jules Auber 97400 Saint-Denis;0.82;housenumber;97411_0680_d6325c
+U974B;Samu social de St Denis;Samu social;120, Rue JULES AUBER   97400 St Denis;-20.882452;55.454063;120 Rue Jules Auber 97400 Saint-Denis;0.82;housenumber;97411_0680_d6325c
+U974C;Accueil de jour de St Denis;Accueil de jour;3 ruelle Turpin   97400 St Denis;-20.884489;55.464788;3 Ruelle Turpin 97400 Saint-Denis;0.8;housenumber;97411_1420_751faf
+U974D;Centre de distribution de Saint-Benoît;Centre de Distribution Alimentaire;10 résidence ATALANTE, 2 Rue Bou   97470 St Benoit;;;;;;
+U974E;Accueil de jour de Saint-Benoî;Accueil de jour;10 résidence ATALANTE 2 Rue Bouvet  97470 Saint-Benoît;-21.038278;55.721065;Rue Amiral Bouvet, RESIDENCE BEL OMBRE 97470 Saint-Benoît;0.58;street;97410_0530A061_0ee0c8
+U974F;Samu social de Saint-Benoît;Samu social;10 résidence ATALANTE 2 Rue Bouvet  97470 Saint-Benoît;-21.038278;55.721065;Rue Amiral Bouvet, RESIDENCE BEL OMBRE 97470 Saint-Benoît;0.58;street;97410_0530A061_0ee0c8
