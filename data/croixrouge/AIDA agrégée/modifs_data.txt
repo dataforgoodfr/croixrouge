@@ -1,0 +1,39 @@
+
+*** modifs apportees a 2015-04-03-db-aida_pri.sql.zip --> 2015-06-02-db-aida_pri.sql.zip
+
+--> supprime des colonnes inutiles  dans DIM_DATE: 
+	-NUM_INV_MOIS
+	-LB_MOIS
+	-NUM_INV_TRIM
+	-LB_TRIM
+	-LIB_ANNEE
+
+
+--> supprime la table vide DIM_STR_DEPT
+
+--> supprime les outliers dans STO_FOUR_ORI & ART_DIS_SURFAMILLE
+
+-->  regle le probleme d'encodage (lors de la conversion sql --> R)
+
+--> enleve les duplicatas de STO_FOUR_ORI
+
+--> concatene les tables similaires (typiquement NOM_TABLE et NOM_TABLE_N). Enleve les duplicatas
+	- BEN_CHARGES_FOURCH & BEN_CHARGES_FOURCH_N
+	- BEN_CHARGES_NB_FICHES & BEN_CHARGES_NB_FICHES_N
+	- BEN_DUREE_FOYER & BEN_DUREE_FOYER_N
+	-BEN_REVENUS_FOURCH_N & BEN_REVENUS_FOURCH_NEW
+	- BEN_REVENUS_NB_FICHES & BEN_REVENUS_NB_FICHES_N
+	- BEN_SEXE_AYANTDROIT & BEN_SEXE_AYANTDROIT_N
+	- BEN_SEXE_CHEFFOYER & BEN_SEXE_CHEFFOYER_N
+	- BEN_STATUT_FOYER & BEN_STATUT_FOYER_N
+	- BEN_TYPO_FOYER & BEN_TYPO_FOYER_N
+	- BEN_TYP_FOYER & BEN_TYP_FOYER_N
+
+--> enleve la table DIM_SEXE et remplace dans toutes les tables correspondantes CD_SEXE par SEXE ("H"/"F")
+
+--> DIM_TYPO_FOYER_BEN: suppression de la premiere categorie "abcde" que l'on ne retrouve nulle part.
+
+
+
+
+
