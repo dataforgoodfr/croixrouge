@@ -16,6 +16,7 @@ for(i in 5:(length(departement)-1))
 
 result = list()
 error = NULL
+userKey = read.table(file = "croixrouge//R/userKey_import.io")$V1
 for(dep in deps)
 {
   myurl = paste0(urlDepartement, dep)
@@ -23,10 +24,10 @@ for(dep in deps)
   doc = htmlParse(getURL(myurl))
   communes = getNodeSet(doc, "//table")
   communes = getNodeSet(communes[[5]], "//a")
-  for(i in 6:length(communes))
+  for(i in 6:(length(communes)-1))
   {
     link = xmlAttrs(node = communes[[i]])
-    apiUrl = paste0("https://api.import.io/store/data/3e6739a6-c54e-4483-a759-b7b755e5c960/_query?input/webpage/url=http://supermarches.grandes-enseignes.com/", link,"&_user=3b9856d4-6521-43dd-89af-94fc887e7063&_apikey=KvMTwJeqZazPPtYvx7R9X63EAkK8mdiSevGxMQuUqqmLRidFi5VVuidBQN13ViW4GdVF65KiHvYzR0xmZKDQ9w==")
+    apiUrl = paste0("https://api.import.io/store/data/3e6739a6-c54e-4483-a759-b7b755e5c960/_query?input/webpage/url=http://supermarches.grandes-enseignes.com/", link,"&_user=", userKey)
     print(link)
     apiUrl = URLencode(apiUrl)
     urlContent = getURL(apiUrl)
@@ -40,6 +41,7 @@ for(dep in deps)
       }
       else
       {
+        print("pause")
         Sys.sleep(time = 20)
         urlContent = getURL(apiUrl)
         if( isValidJSON(urlContent, asText=T))
@@ -59,6 +61,7 @@ for(dep in deps)
     }
     else
     {
+      print("pause")
       Sys.sleep(time = 20)
       urlContent = getURL(apiUrl)
       if( isValidJSON(urlContent, asText=T))
