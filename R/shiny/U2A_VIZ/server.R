@@ -13,7 +13,7 @@ server <- function(input, output, session) {
   })
   
   filteredData <- reactive({
-    table[table$centre == as.character(input$map_marker_click$id), ]
+    near_shop[near_shop$centre == as.character(input$map_marker_click$id), ]
   })
   
   output$nm_centre <- renderText({ 
@@ -35,12 +35,6 @@ server <- function(input, output, session) {
     data <- filteredData()
     if(nrow(data) != 0)
     {
-      clat = unlist(strsplit(as.character(data$coord_c),","))[1]
-      clong = unlist(strsplit(as.character(data$coord_c),","))[2]
-      l1 = unlist(strsplit(as.character(data$coord_s1),","))[1]
-      lg1 = unlist(strsplit(as.character(data$coord_s1),","))[2]
-      l2 = unlist(strsplit(as.character(data$coord_s2),","))[1]
-      lg2 = unlist(strsplit(as.character(data$coord_s2),","))[2]
       
       #popup text
       pop_centre = paste("<b style='color:red'>",
@@ -70,13 +64,13 @@ server <- function(input, output, session) {
       
       #first set view. fitBound doesn't pipe properly
       leafletProxy("map") %>%
-      fitBounds(lat1 = min(l1,l2,clat), lng1 = min(lg1,lg2,clong),
-                lat2 = max(l1,l2,clat), lng2 = max(lg1,lg2,clong))
+      fitBounds(lat1 = min(data$lat_s1,data$lat_s2,data$lat_c), lng1 = min(data$lng_s1,data$lng_s2,data$lng_c),
+                lat2 = max(data$lat_s1,data$lat_s2,data$lat_c), lng2 = max(data$lng_s1,data$lng_s2,data$lng_c))
       
       leafletProxy("map") %>%
-        addCircleMarkers(lng = lg1, lat = l1, radius = 6,col = "blue") %>%
-        addCircleMarkers(lng = lg2, lat = l2,radius = 6,col = "blue") %>%
-        addPopups(lng = c(clong,lg1,lg2), lat = c(clat,l1,l2),
+        addCircleMarkers(lng = data$lng_s1, lat = data$lat_s1, radius = 6,col = "blue") %>%
+        addCircleMarkers(lng = data$lng_s2, lat = data$lat_s2,radius = 6,col = "blue") %>%
+        addPopups(lng = c(data$lng_c,data$lng_s1,data$lng_s2), lat = c(data$lat_c,data$lat_s1,data$lat_s2),
                         popup = c(pop_centre, pop_s1, pop_s2)
         )
     }
