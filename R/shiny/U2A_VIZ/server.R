@@ -13,7 +13,7 @@ server <- function(input, output, session) {
   })
   
   filteredData <- reactive({
-    near_shop[near_shop$centre == as.character(input$map_marker_click$id), ]
+    data_u2a_viz[data_u2a_viz$centre == as.character(input$map_marker_click$id), ]
   })
   
   output$nm_centre <- renderText({ 
