@@ -1,5 +1,3 @@
-require(htmltools)
-
 server <- function(input, output, session) {
   
   output$map <- renderLeaflet({
@@ -28,6 +26,11 @@ server <- function(input, output, session) {
     as.character(data$centre)
   })
   
+  output$action_centre <- renderText({ 
+    data <- filteredData()
+    as.character(centres[centres$Code.U2A == data$centre,][["Action.menée"]])
+  })
+  
   observe({
     data <- filteredData()
     if(nrow(data) != 0)
@@ -43,20 +46,27 @@ server <- function(input, output, session) {
       pop_centre = paste("<b style='color:red'>",
                          htmlEscape(as.character(centres[centres$Code.U2A == data$centre,][["Libellé.U2A"]])),
                          "</b>")
-      pop_s1 = paste("<b style='color:blue'>",
+      pop_s1 = paste("<b><a href = '",as.character(shop[as.numeric(data$ind_shop1),"SITE_INTERNET_LINK"]),  "' style='color:blue'>",
                          htmlEscape(as.character(shop[as.numeric(data$ind_shop1),"TEXT_1"])),
-                         "</b>",
+                         "</a></b>",
                          "<br/>",
                          data$d1,
                          "<br/>",
-                         data$t1)
-      pop_s2 = paste("<b style='color:blue'>",
-                         htmlEscape(as.character(shop[as.numeric(data$ind_shop2),"TEXT_1"])),
-                         "</b>",
+                         data$t1,
                          "<br/>",
-                         data$d2,
-                         "<br/>",
-                         data$t2)
+                         "<div style = 'font-style: italic'>",
+                         as.character(shop[as.numeric(data$ind_shop1),"TEXT_4"]), "</div>")
+      
+      pop_s2 = paste("<b><a href = '",as.character(shop[as.numeric(data$ind_shop2),"SITE_INTERNET_LINK"]),  "' style='color:blue'>",
+                     htmlEscape(as.character(shop[as.numeric(data$ind_shop2),"TEXT_1"])),
+                     "</a></b>",
+                     "<br/>",
+                     data$d2,
+                     "<br/>",
+                     data$t2,
+                     "<br/>",
+                     "<div style = 'font-style: italic'>",
+                     as.character(shop[as.numeric(data$ind_shop2),"TEXT_4"]), "</div>")
       
       #first set view. fitBound doesn't pipe properly
       leafletProxy("map") %>%
