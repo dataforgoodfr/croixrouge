@@ -1,39 +1,72 @@
 server <- function(input, output, session) {
   
-  output$map <- renderLeaflet({
-    input$refresh
-    #centres = centres[1:10,]
+  
+  basic_map <- renderLeaflet({
     leaflet() %>%
-    addTiles() %>%
-    addCircleMarkers(lng = centres$longitude,
+      addTiles() %>%
+      addCircleMarkers(lng = centres$longitude,
                        lat = centres$latitude,
                        radius = 2,
                        layerId = centres$Code.U2A,
                        col = "red")
   })
   
-  filteredData <- reactive({
-    data_u2a_viz[data_u2a_viz$centre == as.character(input$map_marker_click$id), ]
+  output$map <- basic_map
+  
+  ### refreshing map and global variables
+  observe({
+    input$refresh
+    current_center_ID <<- NA
+    output$map <- basic_map
   })
   
+  
+  filteredData <- reactive({
+    if(length(input$map_marker_click$id) != 0)
+    {
+      if(input$map_marker_click$id %in% centres$Code.U2A)
+      {
+        current_center_ID <<- input$map_marker_click$id
+        data_u2a_viz[data_u2a_viz$centre == as.character(input$map_marker_click$id), ]
+      }
+      else
+        NA
+    }
+    else
+      NA
+  })
+  
+  ### TEXT OUTPUT
   output$nm_centre <- renderText({ 
+    input$refresh
     data <- filteredData()
-    paste(htmlEscape(as.character(centres[centres$Code.U2A == data$centre,][["Libellé.U2A"]])))
+    if(is.na(current_center_ID))
+      paste("Choix du centre")
+    else
+      paste(htmlEscape(as.character(centres[centres$Code.U2A == current_center_ID,][["Libellé.U2A"]])))
   })
   
   output$id_centre <- renderText({ 
+    input$refresh
     data <- filteredData()
-    as.character(data$centre)
+    if(is.na(current_center_ID))
+      ""
+    else
+      as.character(current_center_ID)
   })
   
   output$action_centre <- renderText({ 
+    input$refresh
     data <- filteredData()
-    as.character(centres[centres$Code.U2A == data$centre,][["Action.menée"]])
+    if(is.na(current_center_ID))
+      ""
+    else
+      as.character(centres[centres$Code.U2A == current_center_ID,][["Action.menée"]])
   })
   
   observe({
     data <- filteredData()
-    if(nrow(data) != 0)
+    if(is.data.frame(data))
     {
       
       #popup text
@@ -62,17 +95,32 @@ server <- function(input, output, session) {
                      "<div style = 'font-style: italic'>",
                      as.character(shop[as.numeric(data$ind_shop2),"TEXT_4"]), "</div>")
       
+      pop_autre = paste("<b style='color:violet'>",
+                        as.character(data$type_autre),
+                        "</b>",
+                        "</br>",
+                        data$d_a,
+                        "</br>",
+                        data$t_a)
       #first set view. fitBound doesn't pipe properly
       leafletProxy("map") %>%
-      fitBounds(lat1 = min(data$lat_s1,data$lat_s2,data$lat_c), lng1 = min(data$lng_s1,data$lng_s2,data$lng_c),
-                lat2 = max(data$lat_s1,data$lat_s2,data$lat_c), lng2 = max(data$lng_s1,data$lng_s2,data$lng_c))
+      fitBounds(lat1 = min(data$lat_s1,data$lat_s2,data$lat_c, data$lat_a), lng1 = min(data$lng_s1,data$lng_s2,data$lng_c, data$lng_a),
+                lat2 = max(data$lat_s1,data$lat_s2,data$lat_c, data$lat_a), lng2 = max(data$lng_s1,data$lng_s2,data$lng_c, data$lng_a))
       
       leafletProxy("map") %>%
-        addCircleMarkers(lng = data$lng_s1, lat = data$lat_s1, radius = 6,col = "blue") %>%
-        addCircleMarkers(lng = data$lng_s2, lat = data$lat_s2,radius = 6,col = "blue") %>%
-        addPopups(lng = c(data$lng_c,data$lng_s1,data$lng_s2), lat = c(data$lat_c,data$lat_s1,data$lat_s2),
-                        popup = c(pop_centre, pop_s1, pop_s2)
-        )
+        addCircleMarkers(lng = c(data$lng_s1, data$lng_s2),
+                         lat = c(data$lat_s1, data$lat_s2),
+                         col = "blue",
+                         radius = 7,
+                         opacity = 0.9,
+                         popup = c(pop_s1, pop_s2)) %>%
+        addCircleMarkers(lng = data$lng_a, lat = data$lat_a,
+                         col = "yellow",radius = 7,
+                         opacity = 0.9,
+                         popup = pop_autre) %>%
+        addPopups(lng = c(data$lng_c, data$lng_s1, data$lng_s2,data$lng_a),
+                  lat = c(data$lat_c,data$lat_s1, data$lat_s2, data$lat_a),
+                        popup = c(pop_centre, pop_s1, pop_s2, pop_autre))
     }
   })
 

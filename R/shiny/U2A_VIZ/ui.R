@@ -1,6 +1,3 @@
-library(shinydashboard)
-library(leaflet)
-
 header <- dashboardHeader(
   title = "Croix Rouge"
 )
@@ -17,7 +14,7 @@ body <- dashboardBody(
            box(width = NULL, solidHeader = TRUE,
                h4(textOutput("nm_centre"), style = "color:red"),
                p(div("identifiant: ",style = "text-decoration: underline"), textOutput("id_centre")),
-               p(div("identifiant: ",style = "text-decoration: underline"))
+               p(div("action: ",style = "text-decoration: underline"), textOutput("action_centre"))
            )
     )
    
