@@ -19,12 +19,7 @@ body <- dashboardBody(
                p(div("action: ",style = "text-decoration: underline"), textOutput("action_centre")),
                plotOutput("exPlot") 
            )
-    )
-   
-    #     column(width = 3,
-#            
-#           )
-#     ),           
+    )       
   )
 )
 

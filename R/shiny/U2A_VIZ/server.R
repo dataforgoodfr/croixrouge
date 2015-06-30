@@ -7,12 +7,17 @@ server <- function(input, output, session) {
                      lat = centres$latitude,
                      radius = 2,
                      layerId = centres$Code.U2A,
-                     col = "red")
+                     col = "blue") %>%
+    fitBounds(lat1 = min(data_u2a_viz[non_dom, ]$lat_s1), lng1 = min(data_u2a_viz[non_dom, ]$lng_s1),
+              lat2 = max(data_u2a_viz[non_dom, ]$lat_s2), lng2 = max(data_u2a_viz[non_dom, ]$lng_s1))
+      
   })
   
+  output$map <- basic_map
+  
   observe({
-    color_good = "red"
-    color_bad = "orange"
+    color_good = "blue"
+    color_bad = "red"
     if(input$pb_centers)
     {
       col_center = character(length = nrow(data_u2a_viz))
@@ -28,15 +33,16 @@ server <- function(input, output, session) {
                      lat = centres$latitude,
                      radius = 2,
                      layerId = centres$Code.U2A,
-                     col = col_center)
+                     col = col_center) %>%
+      fitBounds(lat1 = min(data_u2a_viz[non_dom, ]$lat_s1), lng1 = min(data_u2a_viz[non_dom, ]$lng_s1),
+                lat2 = max(data_u2a_viz[non_dom, ]$lat_s2), lng2 = max(data_u2a_viz[non_dom, ]$lng_s1))
   })
-  
-  
-  output$map <- basic_map
+
   
   ### refreshing map and global variables
   observe({
     input$refresh
+    updateCheckboxInput(session, "pb_centers", value = F)
     current_center_ID <<- NA
     output$map <- basic_map
   })
@@ -61,12 +67,10 @@ server <- function(input, output, session) {
   ### PLOTBAR OUTPUT
   observe({
     input$refresh
-    print(current_center_ID)
     data <- filteredData()
     if(!is.na(current_center_ID))
     {
       output$exPlot <- renderPlot({ 
-      print(stockdf[[current_center_ID]])
       height = rbind(stockdf[[current_center_ID]], pred_stockdf[[current_center_ID]])
       # Render a barplot
       barplot(height, beside = TRUE,
@@ -118,10 +122,10 @@ server <- function(input, output, session) {
     {
       
       #popup text
-      pop_centre = paste("<b style='color:red'>",
+      pop_centre = paste("<b style='color:blue'>",
                          htmlEscape(as.character(centres[centres$Code.U2A == data$centre,][["Libellé.U2A"]])),
                          "</b>")
-      pop_s1 = paste("<b><a href = '",as.character(shop[as.numeric(data$ind_shop1),"SITE_INTERNET_LINK"]),  "' style='color:blue'>",
+      pop_s1 = paste("<b><a href = '",as.character(shop[as.numeric(data$ind_shop1),"SITE_INTERNET_LINK"]),  "' style='color:green'>",
                          htmlEscape(as.character(shop[as.numeric(data$ind_shop1),"TEXT_1"])),
                          "</a></b>",
                          "<br/>",
@@ -132,7 +136,7 @@ server <- function(input, output, session) {
                          "<div style = 'font-style: italic'>",
                          as.character(shop[as.numeric(data$ind_shop1),"TEXT_4"]), "</div>")
       
-      pop_s2 = paste("<b><a href = '",as.character(shop[as.numeric(data$ind_shop2),"SITE_INTERNET_LINK"]),  "' style='color:blue'>",
+      pop_s2 = paste("<b><a href = '",as.character(shop[as.numeric(data$ind_shop2),"SITE_INTERNET_LINK"]),  "' style='color:green'>",
                      htmlEscape(as.character(shop[as.numeric(data$ind_shop2),"TEXT_1"])),
                      "</a></b>",
                      "<br/>",
@@ -143,7 +147,7 @@ server <- function(input, output, session) {
                      "<div style = 'font-style: italic'>",
                      as.character(shop[as.numeric(data$ind_shop2),"TEXT_4"]), "</div>")
       
-      pop_autre = paste("<b style='color:violet'>",
+      pop_autre = paste("<b style='color:yellow'>",
                         as.character(data$type_autre),
                         "</b>",
                         "</br>",
@@ -158,7 +162,7 @@ server <- function(input, output, session) {
       leafletProxy("map") %>%
         addCircleMarkers(lng = c(data$lng_s1, data$lng_s2),
                          lat = c(data$lat_s1, data$lat_s2),
-                         col = "blue",
+                         col = "green",
                          radius = 7,
                          opacity = 0.9,
                          popup = c(pop_s1, pop_s2)) %>%
