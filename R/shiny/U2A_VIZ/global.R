@@ -7,7 +7,7 @@ require(htmltools)
 
 #setwd("~/Desktop/SHINY_CR/")
 load("data/data_u2a_viz.RData")
-
+load("data/stocks_fake.RData")
 #global variables
 current_center_ID <<- NA
 #centerAction = unique(data$CenterAction)

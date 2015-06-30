@@ -36,6 +36,26 @@ server <- function(input, output, session) {
       NA
   })
   
+  
+  ### PLOTBAR OUTPUT
+  observe({
+    data <- filteredData()
+    print(problem_centers_i)
+    if(!is.na(current_center_ID))
+    {
+      output$exPlot <- renderPlot({ 
+      print(stockdf[[current_center_ID]])
+      height = rbind(stockdf[[current_center_ID]], pred_stockdf[[current_center_ID]])
+      # Render a barplot
+      barplot(height, beside = TRUE,
+              ylim = c(0, 100), names.arg = stockdf[["type"]], legend.text = c("stock actuel","prevision")) 
+      }) 
+    }
+
+  })
+  
+  
+  
   ### TEXT OUTPUT
   output$nm_centre <- renderText({ 
     input$refresh
