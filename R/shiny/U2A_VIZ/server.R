@@ -1,5 +1,7 @@
 server <- function(input, output, session) {
   
+  
+  
   basic_map <- renderLeaflet({
     leaflet() %>%
     addTiles() %>%
@@ -39,6 +41,17 @@ server <- function(input, output, session) {
   })
 
   
+#   ###infos on shops and other social centers
+#   observe({
+#     
+#     
+#     
+#     
+#     
+#   })
+  
+  
+  
   ### refreshing map and global variables
   observe({
     input$refresh
@@ -49,6 +62,7 @@ server <- function(input, output, session) {
   
   
   filteredData <- reactive({
+    print(input$map_marker_click$id)
     if(length(input$map_marker_click$id) != 0)
     {
       if(input$map_marker_click$id %in% centres$Code.U2A)
@@ -61,6 +75,7 @@ server <- function(input, output, session) {
     }
     else
       NA
+    
   })
   
   
@@ -165,14 +180,19 @@ server <- function(input, output, session) {
                          col = "green",
                          radius = 7,
                          opacity = 0.9,
-                         popup = c(pop_s1, pop_s2)) %>%
+                         popup = c(pop_s1, pop_s2),
+                         layerId = c(as.character(shop[data$ind_shop1,]$shop_name),
+                                     as.character(shop[data$ind_shop2,]$shop_name))) %>%
         addCircleMarkers(lng = data$lng_a, lat = data$lat_a,
                          col = "yellow",radius = 7,
                          opacity = 0.9,
-                         popup = pop_autre) %>%
+                         popup = pop_autre,
+                         layerId = paste(as.character(data$centre), as.character(data$type_autre),sep = "_")) %>%
         addPopups(lng = c(data$lng_c, data$lng_s1, data$lng_s2,data$lng_a),
                   lat = c(data$lat_c,data$lat_s1, data$lat_s2, data$lat_a),
                         popup = c(pop_centre, pop_s1, pop_s2, pop_autre))
+      
+      
     }
   })  
   

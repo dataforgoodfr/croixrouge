@@ -18,6 +18,9 @@ body <- dashboardBody(
                p(div("identifiant: ",style = "text-decoration: underline"), textOutput("id_centre")),
                p(div("action: ",style = "text-decoration: underline"), textOutput("action_centre")),
                plotOutput("exPlot") 
+           ),
+           box(width = NULL, solidHeader = TRUE,
+               plotOutput("info_shop_other") 
            )
     )       
   )
