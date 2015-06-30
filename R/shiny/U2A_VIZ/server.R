@@ -1,15 +1,36 @@
 server <- function(input, output, session) {
   
-  
   basic_map <- renderLeaflet({
     leaflet() %>%
-      addTiles() %>%
-      addCircleMarkers(lng = centres$longitude,
-                       lat = centres$latitude,
-                       radius = 2,
-                       layerId = centres$Code.U2A,
-                       col = "red")
+    addTiles() %>%
+    addCircleMarkers(lng = centres$longitude,
+                     lat = centres$latitude,
+                     radius = 2,
+                     layerId = centres$Code.U2A,
+                     col = "red")
   })
+  
+  observe({
+    color_good = "red"
+    color_bad = "orange"
+    if(input$pb_centers)
+    {
+      col_center = character(length = nrow(data_u2a_viz))
+      col_center[!( (1:nrow(data_u2a_viz)) %in% problem_centers_i )] = color_good
+      col_center[problem_centers_i] = color_bad
+    }
+    else
+      col_center = rep(color_good, nrow(data_u2a_viz))
+    
+    leafletProxy("map") %>%
+    clearMarkers() %>%
+    addCircleMarkers(lng = centres$longitude,
+                     lat = centres$latitude,
+                     radius = 2,
+                     layerId = centres$Code.U2A,
+                     col = col_center)
+  })
+  
   
   output$map <- basic_map
   
@@ -39,8 +60,9 @@ server <- function(input, output, session) {
   
   ### PLOTBAR OUTPUT
   observe({
+    input$refresh
+    print(current_center_ID)
     data <- filteredData()
-    print(problem_centers_i)
     if(!is.na(current_center_ID))
     {
       output$exPlot <- renderPlot({ 
@@ -51,6 +73,12 @@ server <- function(input, output, session) {
               ylim = c(0, 100), names.arg = stockdf[["type"]], legend.text = c("stock actuel","prevision")) 
       }) 
     }
+    else
+      output$exPlot <- renderPlot({ 
+        barplot(height = 0, 
+                ylim = c(0, 100), legend.text = c("stock actuel","prevision"))
+        })
+      
 
   })
   
@@ -142,8 +170,6 @@ server <- function(input, output, session) {
                   lat = c(data$lat_c,data$lat_s1, data$lat_s2, data$lat_a),
                         popup = c(pop_centre, pop_s1, pop_s2, pop_autre))
     }
-  })
-
-  
+  })  
   
 }

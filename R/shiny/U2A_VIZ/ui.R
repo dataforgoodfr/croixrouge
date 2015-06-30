@@ -11,6 +11,8 @@ body <- dashboardBody(
     ),
     column(width = 5,
            actionButton("refresh", label = "Refresh"),
+           box(width = NULL, solidHeader = T, 
+               checkboxInput("pb_centers", label = "Centres sous-provisionnes", value = F)),
            box(width = NULL, solidHeader = TRUE,
                h4(textOutput("nm_centre"), style = "color:red"),
                p(div("identifiant: ",style = "text-decoration: underline"), textOutput("id_centre")),
