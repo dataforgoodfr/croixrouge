@@ -42,13 +42,50 @@ server <- function(input, output, session) {
 
   
 #   ###infos on shops and other social centers
-#   observe({
-#     
-#     
-#     
-#     
-#     
-#   })
+  observe({
+    input$refresh
+    data <- filteredData()
+    if(!is.na(current_center_ID))
+    {
+      if(input$map_marker_click$id %in% shop$shop_name)
+      {
+        
+        height = stockshop[[input$map_marker_click$id]]
+        legend.text = "gaspillage"
+        beside = F
+        main = paste("Surplus de nourriture de la grande surface")
+      }
+      else if(input$map_marker_click$id == current_center_ID)
+      {
+       height = rep(0,4)
+       legend.text = ""
+       beside = T
+       main = ""
+      }
+      else
+      {
+        ### fake data other center
+        height = rbind(stockdf[[data_u2a_viz$centre[sample(1:nrow(data_u2a_viz),1)]]],
+                       stockdf[[data_u2a_viz$centre[sample(1:nrow(data_u2a_viz),1)]]])
+        legend.text = legend.text = c("stock actuel","prevision")
+        beside = T
+        main = paste("stock du centre", as.character(data_u2a_viz[data_u2a_viz$centre == current_center_ID,]$type_autre))
+      }
+        
+      output$info_shop_other <- renderPlot({ 
+        barplot(height = height, beside = beside, main = main,
+                ylim = c(0, 100), names.arg = stockdf[["type"]],
+                legend.text = legend.text) 
+      }) 
+    }
+    else
+      output$exPlot <- renderPlot({ 
+        barplot(height = 0, 
+                ylim = c(0, 100), legend.text = c("stock actuel","prevision"))
+      })
+    
+    
+  })
   
   
   
@@ -59,10 +96,9 @@ server <- function(input, output, session) {
     current_center_ID <<- NA
     output$map <- basic_map
   })
-  
-  
+
+
   filteredData <- reactive({
-    print(input$map_marker_click$id)
     if(length(input$map_marker_click$id) != 0)
     {
       if(input$map_marker_click$id %in% centres$Code.U2A)
@@ -89,7 +125,9 @@ server <- function(input, output, session) {
       height = rbind(stockdf[[current_center_ID]], pred_stockdf[[current_center_ID]])
       # Render a barplot
       barplot(height, beside = TRUE,
-              ylim = c(0, 100), names.arg = stockdf[["type"]], legend.text = c("stock actuel","prevision")) 
+              ylim = c(0, 100), names.arg = stockdf[["type"]], 
+              legend.text = c("stock actuel","prevision"),
+              main = "stock du centre de la Croix Rouge") 
       }) 
     }
     else
