@@ -63,9 +63,46 @@ d2 = c(d2[1:822], NA, d2[823:length(d2)])
 # complete the table with the values of t and d
 table = cbind(table, d1 = d1, t1 = t1, d2=d2, t2=t2)
 
+#modified table, and renamed to near_shop
+cc = unlist(strsplit(as.character(table$coord_c),","))
+cs1 = unlist(strsplit(as.character(table$coord_s1),","))
+cs2 = unlist(strsplit(as.character(table$coord_s2),","))
+
+lat_c = numeric()
+lng_c = numeric()
+lat_s1 = numeric()
+lng_s1 = numeric()
+lat_s2 = numeric()
+lng_s2 = numeric()
+
+for(i in 0:(nrow(table)-1))
+{
+  lat_c = c(lat_c, as.numeric(cc[2*i+1]))
+  lat_s1 = c(lat_s1, as.numeric(cs1[2*i+1]))
+  lat_s2 = c(lat_s2, as.numeric(cs2[2*i+1]))
+  lng_c = c(lng_c, as.numeric(cc[2*i+2]))
+  lng_s1 = c(lng_s1, as.numeric(cs1[2*i+2]))
+  lng_s2 = c(lng_s2, as.numeric(cs2[2*i+2]))  
+}
+
+near_shop = data.frame(centre = table$centre,
+                       lat_c = lat_c,
+                       lng_c = lng_c,
+                       ind_shop1 = table$ind_shop1,
+                       ind_shop2 = table$ind_shop2,
+                       lat_s1 = lat_s1,
+                       lng_s1 = lng_s1,
+                       lat_s2 = lat_s2,
+                       lng_s2 = lng_s2,
+                       d1 = table$d1,
+                       t1 = table$t1,
+                       d2 = table$d2,
+                       t2 = table$t2)
+
+
 #save the resulting table (with shops and centres)
-path_save = "~/Desktop/nearest_shops.RData"
-save("table","centres","shop", file = path_save)
+path_save = "~/Desktop/croixrouge/R/shiny/U2A_VIZ/data/near_shop.RData"
+save("near_shop","centres","shop", file = path_save)
   
 
 
