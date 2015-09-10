@@ -3,7 +3,7 @@
 Bienvenue dans ce challenge DataForGood pour la croix-rouge ! 
 
 ### Déroulement
-Le challenge commence le 10/09/15. Un point intermédiaire sera fait lors du meetup du 13/10/15. Les trois meilleures équipes auront la chance de présenter leur modèle ce jour-là. Ce sera ensuite l'occasion pour vous de discuter et partager vos pistes d'améliorations, vos problèmes rencontrés, ... pour relancer la compétition pour encore un nouveau mois. Que le meilleur gagne !!!
+Le challenge commence le 10/09/15. Un point intermédiaire sera fait lors du meetup du 13/10/15. Les trois meilleures équipes auront la chance de présenter leur modèle ce jour-là. Ce sera ensuite l'occasion pour vous de discuter et partager vos pistes d'améliorations, vos problèmes rencontrés, ... pour relancer la compétition pour un mois de plus. Que le meilleur gagne !!!
 
 ### Comment participer ? 
 
