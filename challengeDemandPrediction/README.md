@@ -31,6 +31,7 @@ Pour ce faire, nous disposons des log bruts de la demande sur BigQuery dans la t
 des colonnes est disponible [ici](https://github.com/dataforgoodfr/croixrouge/wiki/description-de-la-table-SINVOICE_M)
 
 Si vous ne maitrisez pas bien le sql, cette requête vous permettra d'extraire les informations principales qui sont (la catégorie de produit est à rajouter):
+
 name|desc
 ---|---
 id_centre|code du centre
