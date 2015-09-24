@@ -71,6 +71,22 @@ FROM
 	)
 ```
 
+Ensuite pour exporter la table, BQ n'est pas très sympa avec son "Download as CSV" et limite fortement la taille du dataset téléchargeable en clique bouton. Le moyen le plus simple pour récupérer la table est via R (ça marche aussi en python mais j'ai pas trouvé de trucs aussi simple que R !).
+
+Pour R il suffit de faire cela : 
+```
+install.packages(bigrquery)
+library(bigrquery)
+project = 'croix-rouge-92715'
+request = "SELECT ce que je veux FROM [stojou.SINVOICE_M]"
+data <- query_exec(request,project=project,max_pages=Inf)
+# ici R vous colle un lien dans la console, il faut le copier coller dans votre nagivateur web. 
+# Après acceptation vous obtenez un mot de passe qu'il faut copier coller dans R
+# Enfin R demande si vous voulez sauvegarder ce mot de passe. Dîtes oui si vous voulez pas refaire ça 
+# à chaque fois (peut-être qu'il demande ça avant le lien je me souviens plus trop ...)
+# Et voilà vous avez les données
+```
+
 De plus, pour obtenir des variables liées à la géolocalisation des centres [cette table](https://github.com/dataforgoodfr/croixrouge/blob/master/data/dim_u2a_ville.csv)
 vous permettra de faire la jointure. 
 
