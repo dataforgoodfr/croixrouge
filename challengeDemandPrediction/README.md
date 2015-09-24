@@ -1,36 +1,30 @@
-# Prédiction de la demande par catégorie de produit
+# Prédiction de la demande par catégorie de produits
 
-// DRAFT //
-
-Bienvenue dans ce challenge DataForGood pour la croix-rouge ! 
+Bienvenue dans le premier challenge DataForGood pour la Croix-Rouge Française ! 
 
 ### Déroulement
-Le challenge commence le 10/09/15. Un point intermédiaire sera fait lors du meetup du 13/10/15. Les trois meilleures équipes auront la chance de présenter leur modèle ce jour-là. Ce sera ensuite l'occasion pour vous de discuter et partager vos pistes d'améliorations, vos problèmes rencontrés, ... pour relancer la compétition pour un mois de plus. Que le meilleur gagne !!!
+Le challenge commence le 10/09/15. Un point intermédiaire sera fait lors du meetup du 20/10/15. Les trois meilleures équipes auront la chance de présenter leur approche et modèle ce jour-là. Ce sera ensuite l'occasion pour vous de discuter et partager vos pistes d'améliorations, vos problèmes rencontrés, ... pour relancer la compétition pour un mois de plus. Que le meilleur gagne !
 
 ### Comment participer ? 
 
-La première étape est de rejoindre la discussion DataForGood sur slack et de suivre le groupe de discussion cr-challenge. 
+1 - Rejoignez la discussion DataForGood sur Slack (channel croix-rouge)
+2 - Postez votre code, sous la forme NOM_EQUIPE.zip. 
+3 - Nous évaluons la performance de votre approche et mettons votre code sur Github. La mesure d'erreur utilisée sera le RMSE ! 
 
-Une fois votre code prêt dans le language de votre choix, postez sur cette conversation un dossier NOM_EQUIPE.zip 
-contenant l'ensemble des codes permettant de reproduire votre modèle. Nous nous assurerons de l'évaluation de la 
-performance, de sa mise a disposition dans ce dossier github et du classement des équipes. 
-
-La mesure d'erreur utilisée sera le RMSE ! 
-
-N'hésitez pas à contacter @bettina ou @romainwarlop sur slack si vous rencontrez le moindre problème.
+N'hésitez pas à contacter @bettina ou @romainwarlop sur Slack si vous rencontrez le moindre problème.
 
 ### Objectif
 
-Un premier modèle (très simple) a été présenté lors du dernier meetup. Celui-ci prédit par centre croix-rouge/semaine la demande globale en fonction de la saisonnalité et de variables géographiques. Ce modèle est disponible ici (lien à venir !), vous pouvez vous en inspirez !
+Un premier modèle (très simple) a été présenté lors du dernier meetup. Celui-ci prédit par centre croix-rouge/semaine la demande globale en fonction de la saisonnalité et de variables géographiques.
 
-L'objectif de ce nouveau challenge est d'augmenter la granularité: il s'agit de prédire pour chaque centre de la croix-rouge et chaque semaine le nombre de demandeurs (= nombre de venus fois la taille de leur foyer) par CATEGORIE DE PRODUIT.
+L'objectif de ce nouveau challenge est d'augmenter la granularité: il s'agit de prédire par centre de la Croix-Rouge et par semaine, le nombre de bénéficiaires (= nombre de venus x taille de leur foyer) par CATEGORIE DE PRODUIT.
 
 
 ### Données 
-Pour ce faire, nous disposons des log bruts de la demande sur BigQuery dans la table SINVOICE_M. Un descriptif 
+Pour ce faire, nous disposons des log bruts de la distribution alimentaire de la Croix Rouge sur BigQuery dans la table SINVOICE_M. Un descriptif 
 des colonnes est disponible [ici](https://github.com/dataforgoodfr/croixrouge/wiki/description-de-la-table-SINVOICE_M)
 
-Si vous ne maitrisez pas bien le sql, cette requête vous permettra d'extraire les informations principales qui sont (la catégorie de produit est à rajouter):
+Cette requête vous permettra d'extraire les informations principales qui sont (la catégorie de produit est à rajouter):
 
 name|desc
 ---|---
@@ -71,9 +65,12 @@ FROM
 	)
 ```
 
-Ensuite pour exporter la table, BQ n'est pas très sympa avec son "Download as CSV" et limite fortement la taille du dataset téléchargeable en clique bouton. Le moyen le plus simple pour récupérer la table est via R (ça marche aussi en python mais j'ai pas trouvé de trucs aussi simple que R !).
+Nous vous conseillons les librairies suivantes pour récupérer les données de BigQuery : 
 
-Pour R il suffit de faire cela : 
+- R - https://github.com/hadley/bigrquery
+- Python - http://pandas.pydata.org/pandas-docs/stable/io.html#io-bigquery
+
+Un exemple en langage R :
 ```
 install.packages(bigrquery)
 library(bigrquery)
