@@ -24,7 +24,7 @@ L'objectif de ce nouveau challenge est d'augmenter la granularité: il s'agit de
 Pour ce faire, nous disposons des log bruts de la distribution alimentaire de la Croix Rouge sur BigQuery dans la table SINVOICE_M. Un descriptif 
 des colonnes est disponible [ici](https://github.com/dataforgoodfr/croixrouge/wiki/description-de-la-table-SINVOICE_M)
 
-Cette requête vous permettra d'extraire les informations principales qui sont (la catégorie de produit est à rajouter):
+Cette requête vous permettra d'extraire les informations principales 
 
 name|desc
 ---|---
@@ -34,35 +34,36 @@ nBen_x|Nombre de bénéficiaires x semaine avant
 
 ```sql
 SELECT
-	id_centre,
-	week,
-	nBen,
-	LAG(nBen,1) OVER (PARTITION BY id_centre ORDER BY week ASC) nBen_1,
-	LAG(nBen,2) OVER (PARTITION BY id_centre ORDER BY week ASC) nBen_2,
-	LAG(nBen,3) OVER (PARTITION BY id_centre ORDER BY week ASC) nBen_3,
-	LAG(nBen,4) OVER (PARTITION BY id_centre ORDER BY week ASC) nBen_4,
-	LAG(nBen,5) OVER (PARTITION BY id_centre ORDER BY week ASC) nBen_5
+	id_centre, week, cat, SUM(sizeFoyer) nBen
 FROM
 	(
 	SELECT
-		id_centre,
-		week,
-		SUM(sizeFoyer) nBen
+		c.id_centre id_centre,
+		c.week week,
+		c.sizeFoyer sizeFoyer,
+		d.cat2 cat
 	FROM
 		(
 		SELECT
-			FCY id_centre,
-			DATE(UTC_USEC_TO_WEEK(PARSE_UTC_USEC(
-		  			concat("20",substr(CREDAT,7,2),'-',substr(CREDAT,4,2),'-',substr(CREDAT,0,2))),0)/1000000) week,
-			BPR benef,
-			INTEGER(YNBR) sizeFoyer,
-
-		FROM
-			[stojou.SINVOICE_M]
-		GROUP BY 1,2,3,4
-		)
-	GROUP BY 1,2
+		    a.FCY id_centre,
+		    DATE(UTC_USEC_TO_WEEK(PARSE_UTC_USEC(
+		            concat("20",substr(a.CREDAT,7,2),'-',substr(a.CREDAT,4,2),'-',substr(a.CREDAT,0,2))),0)/1000000) week,
+		    a.BPR benef,
+		    INTEGER(a.YNBR) sizeFoyer,
+		    b.ITMREF_0 itemref
+		FROM 
+			[stojou.SINVOICE_M] a
+		LEFT JOIN EACH
+			[stojou.stojou] b
+		ON 
+			a.NUM = b.VCRNUM_0
+		) c
+	LEFT JOIN EACH
+		[stojou.itmcorres] d
+	ON 
+		c.itemref=d.itemref
 	)
+GROUP BY 1,2,3
 ```
 
 Nous vous conseillons les librairies suivantes pour récupérer les données de BigQuery : 
