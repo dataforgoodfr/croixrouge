@@ -24,7 +24,7 @@ L'objectif de ce nouveau challenge est d'augmenter la granularité: il s'agit de
 Pour ce faire, nous disposons des log bruts de la distribution alimentaire de la Croix Rouge sur BigQuery dans la table SINVOICE_M. Un descriptif 
 des colonnes est disponible [ici](https://github.com/dataforgoodfr/croixrouge/wiki/description-de-la-table-SINVOICE_M)
 
-Cette requête vous permettra d'extraire les informations principales 
+Nous avons créé une table (challengeDP) avec les informations principales. Ci-dessous la requête qui nous a permis d'avoir cette table si vous souhaitez l'adapter pour ajouter des variables.
 
 name|desc
 ---|---
