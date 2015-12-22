@@ -1,0 +1,38 @@
+div(ng-include='"components/navbar/navbar.html"')
+.container
+  .row
+    .col-lg-12
+      h1 Centre {{centre.name}}
+  .row
+    .col-lg-4
+      p.lead Score {{centre.score | number : 0}}%
+      p.lead Repas {{centre.repas}}
+    .col-lg-8
+      .legend.pull-right
+        .ideal
+        p Répartition idéale
+        .actual
+        p Répartition constatée
+      .clearfix
+      chartist(class="ct-chart ct-octave" chartist-data="centre.data" chartist-chart-type="Bar" chartist-chart-options="centre.chartOptions")
+      //- chart-equilibrium(get-data="centre.service.getCentreDataTest(centre.name)",key="{{centre.key}}",append-to="centre")
+      //- #centre
+  .row
+    .col-lg-12
+      h2 Score par semaine
+    .col-lg-2
+      p Sélectionnez une semaine pour voir le détail
+    .col-lg-8
+      div.week
+      
+
+      
+  .row(ng-repeat="(key, week) in centre.weeks")
+    div(ng-if="week.repas > 0")
+      .col-lg-4(id="semaine{{$index + 1}}")
+        h3 Semaine {{key}}
+        p.lead Score {{ centre.d3UtilsService.scaleScore(week.indice) | number : 0}}%
+        p.lead Repas {{week.repas}}
+      .col-lg-8
+        chartist(class="ct-chart ct-octave" id="chart{{key}}" chartist-data="week.data" chartist-chart-type="Bar" chartist-chart-options="centre.chartOptions")
+      

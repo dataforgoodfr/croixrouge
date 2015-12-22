@@ -1,0 +1,36 @@
+div(ng-include='"components/navbar/navbar.html"')
+.container
+	.row
+		.col-lg-12
+			h1 {{dpt.name}}
+
+	.row
+		.col-lg-4
+			p.lead Score {{dpt.score | number : 0}}%
+			p.lead Repas {{dpt.repas}}
+		.col-lg-8
+			.legend.pull-right
+				.ideal
+				p Répartition idéale
+				.actual
+				p Répartition constatée
+			.clearfix
+			chartist(class="ct-chart ct-octave" chartist-data="dpt.data" chartist-chart-type="Bar" chartist-chart-options="dpt.chartOptions")
+			
+
+	.row
+		.col-lg-12
+			h2 Détail par centre
+			table.table
+				thead
+					tr
+						th Centre
+						th Repas
+						th Score
+				tbody
+					tr(ng-repeat="centre in dpt.centres")
+						td
+							a(ui-sref="centre({dptId: dpt.dptId,centreId: centre.name})") 
+								{{centre.name}}
+						td {{centre.repas}}
+						td {{dpt.d3UtilsService.scaleScore(centre.indice) | number : 0 }}%
