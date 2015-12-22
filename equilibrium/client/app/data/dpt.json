@@ -1,0 +1,58 @@
+{"75": {
+  "name": "Paris",
+  "repas": 2400,
+  "indice": 88,
+  "equilibre": [
+		{"name": "Viandes", "ideal":50,"actual":5},
+    {"name": "Produits laitiers", "ideal":12,"actual":24},
+    {"name": "Matières grasses", "ideal":5,"actual":12},
+    {"name": "Viandes", "ideal":25,"actual":33},
+    {"name": "Produits laitiers", "ideal":12,"actual":24},
+    {"name": "Matières grasses", "ideal":2,"actual":12}
+  ],
+  "centres":{
+    "U7541":{
+      "name": "U7541",
+      "repas":1775,
+      "indice":89,
+      "equilibre": [
+        {"name": "Viandes", "ideal":33,"actual":5},
+        {"name": "Produits laitiers", "ideal":12,"actual":24},
+        {"name": "Matières grasses", "ideal":2,"actual":12},
+        {"name": "Viandes", "ideal":25,"actual":33},
+        {"name": "Produits laitiers", "ideal":12,"actual":24},
+        {"name": "Matières grasses", "ideal":2,"actual":12}
+        ],
+      "weeks":{
+        "1":{
+          "weeknb":1,
+          "repas": 92,
+          "indice": 80,
+          "equilibre": [
+            {"name": "Viandes", "ideal":25,"actual":33},
+            {"name": "Produits laitiers", "ideal":12,"actual":24},
+            {"name": "Matières grasses", "ideal":2,"actual":12},
+            {"name": "Viandes", "ideal":25,"actual":33},
+            {"name": "Produits laitiers", "ideal":12,"actual":24},
+            {"name": "Matières grasses", "ideal":2,"actual":12}
+            ]
+        },
+        "2":{
+          "weeknb":2,
+          "repas": 70,
+          "indice": 94,
+          "equilibre": [
+            {"name": "Viandes", "ideal":25,"actual":33},
+            {"name": "Produits laitiers", "ideal":12,"actual":24},
+            {"name": "Matières grasses", "ideal":2,"actual":12},
+            {"name": "Viandes", "ideal":25,"actual":33},
+            {"name": "Produits laitiers", "ideal":12,"actual":24},
+            {"name": "Matières grasses", "ideal":2,"actual":12}
+            ]
+        }
+      }
+      }
+    }
+
+  }
+}
